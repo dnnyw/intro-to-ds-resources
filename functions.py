@@ -115,19 +115,18 @@ def r_scatter(r):
     """ Credit to Data 8 Textbook
     https://inferentialthinking.com/chapters/15/1/Correlation.html
     """
-
-    plt.figure(figsize=(5,5))
+    fig, ax = plt.subplots()
     "Generate a scatter plot with a correlation approximately r"
     x = np.random.normal(0, 1, 1000)
     z = np.random.normal(0, 1, 1000)
     y = r*x + (np.sqrt(1-r**2))*z
-    plt.scatter(x, y)
-    plt.xlim(-4, 4)
-    plt.ylim(-4, 4)
+    ax.scatter(x, y)
+    ax.set_xlim(-4, 4)
+    ax.set_ylim(-4, 4)
+    return fig, ax
 
 
 def gen_categorical_data():
-    """ No longer used """
     np.random.seed(101)
     letter_grades = ['A+', 'A', 'A-', 'B+', 'B', 'B-', 'C+', 'C', 'C-', 'D', 'F']
     probabilities = [0.03, 0.18, 0.19, 0.17, 0.13, 0.10, 0.07, 0.06, 0.04, 0.02, 0.01]
@@ -137,12 +136,23 @@ def gen_categorical_data():
     grade_counts.reverse()
     return letter_grades, grade_counts
 
+def gen_cereal_data():
+    return ['Cheerios', 'Frosted Flakes', 'Cinnamon Toast Crunch'], [5, 1, 2]
+
 
 def gen_numerical_data():
     np.random.seed(101)
     grade_percents = np.random.beta(a = 7, b = 2, size = 500)
     return grade_percents
 
+def gen_right_skew_data():
+    np.random.seed(101)
+    grade_percents = np.random.beta(a = 2, b = 7, size = 500)
+    return grade_percents
+
+def gen_symmetric_data():
+    grade_percents = np.random.beta(a = 5, b = 5, size = 500)
+    return grade_percents    
 
 def get_galton_data():
     data_link = "https://raw.githubusercontent.com/data-8/textbook/main/assets/data/galton.csv"
@@ -150,7 +160,6 @@ def get_galton_data():
     mid_parent_height = data['midparentHeight'].values
     child_height = data['childHeight'].values
     return mid_parent_height, child_height
-
 
 def get_census_data():
     data_link = 'http://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2010-2019/nc-est2019-agesex-res.csv'
