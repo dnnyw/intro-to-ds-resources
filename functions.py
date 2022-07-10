@@ -101,10 +101,6 @@ def plot_line(x_data, y_data, x_label = "", y_label = "", title = "", plot_w = 8
 # <----------- Linear Regression Functions ----------->
 
 
-def standardize(an_array):
-    return (an_array - np.mean(an_array))/np.std(an_array)
-
-
 
 
 

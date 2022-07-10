@@ -40,7 +40,7 @@ def check(q, a):
         all[q] = a == temp_sd
         return all[q]
     elif q == 'q2a':
-        all[q] = a(.3) == 30
+        all[q] = a == 20
         return all[q]
     elif q == 'q2b':
         all[q] = a == 2**(.5) / 2 * 100 
