@@ -1,0 +1,786 @@
+,id,name_x,display_address,rating,review_count,transactions,price,business id column
+0,wGl_DyNxSv8KUtYgiuLhmA,Bi-Rite Creamery,"3692 18th St, San Francisco, CA 94110",4.5,9842,['delivery'],$$,23865
+1,76smcUUGRvq3k1MVPUXbnA,Mitchells Ice Cream,"688 San Jose Ave, San Francisco, CA 94110",4.5,4445,"['pickup', 'delivery']",$,5032
+2,oT08T3Vpn1I7jDmrBBRMTw,House of Prime Rib,"1906 Van Ness Ave, San Francisco, CA 94109",4.0,7912,[],$$$,3350
+3,eYXwVR4mMAjzkJnm5wneHQ,Burma Superstar,"309 Clement St, San Francisco, CA 94118",4.0,7145,"['pickup', 'delivery']",$$,1977
+4,2XQm-uFcTS7oc8MFP-8olA,B Patisserie,"2821 California St, San Francisco, CA 94115",4.5,3006,['delivery'],$$,71696
+5,PsY5DMHxa5iNX_nX0T-qPA,Kokkari Estiatorio,"200 Jackson St, San Francisco, CA 94111",4.5,4843,"['pickup', 'delivery']",$$$,2858
+6,M0JTO3oyu6gxh1mfFjU-dA,San Tung,"1031 Irving St, San Francisco, CA 94122",4.0,7497,['delivery'],$$,67330
+7,ttarnopezxmp2ROB1N2PaA,Nopa,"560 Divisadero St, San Francisco, CA 94117",4.0,5233,['delivery'],$$$,18921
+8,SGRmnarrNuVEsAjYdEoA0w,El Farolito,"2779 Mission St, San Francisco, CA 94110",4.0,5184,['delivery'],$,2356
+9,gqVl3RprESEqkIPeJH0yOg,Zazie,"941 Cole St, San Francisco, CA 94117",4.0,4860,"['restaurant_reservation', 'delivery']",$$,1595
+10,-DrR38H1Abk0wCyu9XOLug,Sweet Maple,"2101 Sutter St, San Francisco, CA 94115",4.5,4295,"['pickup', 'delivery']",$$,64021
+11,8dUaybEPHsZMgr1iKgqgMQ,Sotto Mare,"552 Green St, San Francisco, CA 94133",4.5,4448,"['pickup', 'delivery']",$$,80931
+12,1U9_ZNruMLf4EL0pMoxb_w,Arsicault Bakery,"397 Arguello Blvd, San Francisco, CA 94118",4.5,1803,['delivery'],$$,81264
+13,PTFxtXS47ZVRCdZIrEWvGw,Golden Boy Pizza,"542 Green St, San Francisco, CA 94133",4.5,3970,['delivery'],$,847
+14,hqQoVK0vadOX7_4gN1sh3g,Saigon Sandwich,"560 Larkin St, San Francisco, CA 94102",4.5,3503,['delivery'],$,80312
+15,mSMZJj2pFvttWLpcDmgrEA,Tony's Pizza Napoletana,"1570 Stockton St, San Francisco, CA 94133",4.0,5866,['delivery'],$$,58879
+16,n6L5VIGunR51-D55C-eYeQ,Foreign Cinema,"2534 Mission St, San Francisco, CA 94110",4.0,5156,['delivery'],$$$,2893
+17,GXu3PD4IPsxIHpo011aydg,Bob's Donuts & Pastry Shop,"1621 Polk St, San Francisco, CA 94109",4.5,3404,"['pickup', 'delivery']",$,63897
+18,MvAo0hj9FXOeNL5PwBZ0fQ,Mama's On Washington Square,"1701 Stockton St, San Francisco, CA 94133",4.0,4529,['pickup'],$$,2172
+19,L5vSeC_sa3TUQW_lticqyA,Chapeau,"126 Clement St, San Francisco, CA 94118",4.5,2820,"['pickup', 'delivery']",$$$,36730
+20,JARsJVKLPgs_yC3cwDnp7g,La Taqueria,"2889 Mission St, San Francisco, CA 94110",4.0,4361,['delivery'],$$,2360
+21,PDhfVvcVXgBinZf5I6s1KQ,The Codmother Fish & Chips,"496 Beach St, San Francisco, CA 94133",4.5,3167,"['pickup', 'delivery']",$$,90147
+22,CYttYTEiQuhSfo3SEh79fA,Shizen Vegan Sushi Bar & Izakaya,"370 14th St, San Francisco, CA 94103",4.5,1975,['restaurant_reservation'],$$,79704
+23,XQLmEdXoMzOpffwoFaBtaQ,Kitchen Story,"3499 16th St, San Francisco, CA 94114",4.0,3755,"['pickup', 'restaurant_reservation', 'delivery']",$$,70184
+24,cL0q9S4bqwpbAN9ZKh-Zeg,Nara Restaurant & Sake Bar,"518 Haight St, San Francisco, CA 94117",4.5,1767,"['pickup', 'restaurant_reservation', 'delivery']",$$,80201
+25,QZQGRJZ4bZCmNoXjs3z1XQ,State Bird Provisions,"1529 Fillmore St, San Francisco, CA 94115",4.0,2948,['delivery'],$$$,68152
+26,ciEDsTWhajcdL3KuJqBRlw,Espetus Churrascaria,"1686 Market St, San Francisco, CA 94102",4.0,3621,"['restaurant_reservation', 'delivery']",$$$,3926
+27,8kck3-K4zYKTJbJko0JlXQ,Farmhouse Kitchen Thai Cuisine,"710 Florida St, San Francisco, CA 94110",4.0,3238,"['pickup', 'restaurant_reservation', 'delivery']",$$,82413
+28,DyXoC_NhJW0Xx5j_OPQRHQ,Schubert's Bakery,"521 Clement St, San Francisco, CA 94118",4.5,1879,"['pickup', 'delivery']",$$,3186
+29,bqSZc4Xh2o253DZXr5QOmg,Marrakech Magic Theater,"419 O'Farrell St, San Francisco, CA 94102",5.0,1168,[],$$,3800
+30,4KfQnlcSu4bbTqnvGdGptw,Beretta,"1199 Valencia St, San Francisco, CA 94110",4.0,3941,"['restaurant_reservation', 'delivery']",$$,3626
+31,ofFgj0sd8iDQunY00hhDVQ,Garden Creamery,"3566 20th St, San Francisco, CA 94110",4.5,1114,['delivery'],$,87404
+32,i09UMzccKgyLwGYKDVP28w,Surisan,"505 Beach St, San Francisco, CA 94133",4.5,2691,"['pickup', 'restaurant_reservation', 'delivery']",$$,86486
+33,DGyoVB9PdI9_jw0CNi_OPg,Suppenküche,"525 Laguna St, San Francisco, CA 94102",4.0,3233,"['pickup', 'restaurant_reservation', 'delivery']",$$,3643
+34,RrIduU6-SUNCanTEVF-hIQ,Marco Polo Italian Ice Cream,"1447 Taraval St, San Francisco, CA 94116",4.5,1617,['delivery'],$,4671
+35,u39mZEYojBiNic3lqKhPNw,Tacorea,"809 Bush St, San Francisco, CA 94108",4.5,1872,[],$$,88539
+36,UTVDbZv-qiHU06sDkoel3g,Chez Maman East,"1401 18th St, San Francisco, CA 94107",4.5,2243,"['delivery', 'pickup']",$$,82944
+37,akXf1BdFZjQb2fO8Ca7FtA,Philz Coffee,"3101 24th St, San Francisco, CA 94110",4.5,1717,['delivery'],$,33710
+38,eI0DpD2Xx8hFlk7eAdFCqQ,Swan Oyster Depot,"1517 Polk St, San Francisco, CA 94109",4.0,3043,['delivery'],$$,639
+39,-sg6DqQNGyTMt0MHoY7diQ,Good Mong Kok Bakery,"1039 Stockton St, San Francisco, CA 94108",4.0,3100,['delivery'],$,80081
+40,aVskw5NKrs7ibAQ54E_bZw,U :Dessert Story,"3489 16th St, San Francisco, CA 94114",4.5,2016,"['delivery', 'pickup']",$$,94605
+41,1hMD7RQogPDWpE-p3LKjXA,Loló,"974 Valencia St, San Francisco, CA 94110",4.0,2341,['delivery'],$$,77462
+42,A0AziPST4T6k-V3neWFRNA,Plow,"1299 18th St, San Francisco, CA 94107",4.0,2881,['delivery'],$$,63304
+43,_EncdQezAzcShATMFXL0dA,Tropisueño,"75 Yerba Buena Ln, San Francisco, CA 94103",4.0,4640,['delivery'],$$,38566
+44,wEpiKz--Z2b1q_FSCCNiow,Lolinda,"2518 Mission St, San Francisco, CA 94110",4.0,2149,['delivery'],$$$,69403
+45,IJk76B-pTta_klpAZcpQdA,Lou's Cafe,"5017 Geary Blvd, San Francisco, CA 94118",4.5,1731,"['delivery', 'pickup']",$,61136
+46,vVN_oVe6jvr4PCmXg_m9CA,Hollywood Cafe,"530 North Point St, San Francisco, CA 94133",4.5,2272,"['delivery', 'pickup']",$$,28318
+47,9yM20-7fj4LMrOO30nqkBw,L’Ardoise Bistro,"151 Noe St, San Francisco, CA 94114",4.5,1354,"['delivery', 'pickup']",$$$,36277
+48,dY0Mc_PHH6nLENvWmVtwxQ,Daeho Kalbijjim & Beef Soup,"1620 Post St, San Francisco, CA 94115",4.5,1383,"['delivery', 'pickup']",$$$,97483
+49,ykvr3ib1gHQHI4tznSn8iA,Wayfare Tavern,"558 Sacramento St, San Francisco, CA 94111",4.0,4207,"['delivery', 'pickup']",$$$,62701
+50,u3mX2Hkc0XoCgPxG6xRFkg,Palace Of Fine Arts,"3601 Lyon St, San Francisco, CA 94123",4.5,1065,[],,91987
+51,353bun0151fMbR3ut2d-nw,Absinthe Brasserie & Bar,"398 Hayes St, San Francisco, CA 94102",4.0,3336,['delivery'],$$$,3611
+52,4-ra3RxOy1PpvnaK49dy8w,Eight AM,"1323 Columbus Ave, San Francisco, CA 94133",4.5,1536,['delivery'],$$,78781
+53,EFefgQdk_19WxQXvVtwEog,Blue Bottle Coffee,"315 Linden St, San Francisco, CA 94102",4.5,1702,['delivery'],$$,14075
+54,TRBP1G1l8vZkjgfqdx96Cw,Pearl's Deluxe Burgers,"708 Post St, San Francisco, CA 94109",4.0,2317,"['delivery', 'pickup']",$$,65898
+55,83dXgt2nG98JJG2F7ai8AQ,Genki Crepes & Mini-Mart,"330 Clement St, San Francisco, CA 94118",4.0,2319,"['delivery', 'pickup']",$,100039
+56,lNbKeOfCMTNkoihZHqrbrg,Blue Bottle Coffee,"66 Mint St, San Francisco, CA 94103",4.0,2259,['delivery'],$$,36494
+57,YzA3ocJ0XvsTuD18qr2ctg,Sunday Social,"699 22nd St, San Francisco, CA 94107",4.5,1476,['delivery'],$$,62251
+58,6PzyzeiWjJ0fPpuKZffn9g,California Academy of Sciences,"55 Music Concourse Dr, San Francisco, CA 94118",4.0,3254,[],,80619
+59,6PzyzeiWjJ0fPpuKZffn9g,California Academy of Sciences,"55 Music Concourse Dr, San Francisco, CA 94118",4.0,3254,[],,80621
+60,6PzyzeiWjJ0fPpuKZffn9g,California Academy of Sciences,"55 Music Concourse Dr, San Francisco, CA 94118",4.0,3254,[],,80624
+61,B_PStt9QFGs4BrgNxegbjg,NightLife,"55 Music Concourse Dr, California Academy of Sciences, San Francisco, CA 94118",4.0,944,[],$$,80619
+62,B_PStt9QFGs4BrgNxegbjg,NightLife,"55 Music Concourse Dr, California Academy of Sciences, San Francisco, CA 94118",4.0,944,[],$$,80621
+63,B_PStt9QFGs4BrgNxegbjg,NightLife,"55 Music Concourse Dr, California Academy of Sciences, San Francisco, CA 94118",4.0,944,[],$$,80624
+64,8skVQNkVBv90iiPtFeSpzw,Zero Zero,"826 Folsom St, San Francisco, CA 94107",4.0,3345,['pickup'],$$,63597
+65,ey_UUXdDMUoO77QIF6SGaQ,Mensho Tokyo SF,"672 Geary St, San Francisco, CA 94102",4.0,2525,['delivery'],$$,82074
+66,dMlsQsPU8Y_oiPYC5hHi2A,Frances,"3870 17th St, San Francisco, CA 94114",4.5,1509,['delivery'],$$$,61326
+67,t0MUKjSjCaQeXHTGQlfosg,Home Coffee Roasters,"1222 Noriega St, San Francisco, CA 94122",4.5,1295,"['delivery', 'pickup']",$$,75429
+68,hWE2CDphzZ3nXlwv3Uk6Og,Philz Coffee,"201 Berry St, San Francisco, CA 94158",4.5,1422,['delivery'],$,33709
+69,BcW0vRdM8N-rteR2FfV1jg,Deli Board,"1058 Folsom St, San Francisco, CA 94103",4.5,1524,['delivery'],$$,66925
+70,c0WpyZFR3EoEBKcoY2LZ3Q,Marlowe,"500 Brannan St, San Francisco, CA 94107",4.0,2732,['delivery'],$$$,80063
+71,wdlyeH5ug7uZpvtb-N97fQ,The Buena Vista,"2765 Hyde St, San Francisco, CA 94109",4.0,2866,['delivery'],$$,3324
+72,0mNzmmh1mrdh5Cpg2QUBiw,Lapisara Eatery,"698 Post St, San Francisco, CA 94109",4.5,1086,"['delivery', 'pickup']",$$,94578
+73,z9CN58fSrA46ggyb6OnCnQ,Thanh Long,"4101 Judah St, San Francisco, CA 94122",4.0,2939,"['restaurant_reservation', 'delivery']",$$$,3228
+74,K9XVDlPNhrrSVEJN7uWqJQ,The Italian Homemade Company,"716 Columbus Ave, San Francisco, CA 94133",4.5,1739,"['delivery', 'pickup']",$$,78601
+75,WOVHQYzSAdyXYOiYDTmujQ,The Bird,"115 New Montgomery St, San Francisco, CA 94105",4.0,2172,['delivery'],$,89128
+76,PFk6k_hEGG0n6_FAJSm9EQ,Woodhouse Fish Company,"1914 Fillmore St, San Francisco, CA 94115",4.0,2426,['delivery'],$$,59009
+77,CTE5lnXUYp4xidmh35knNg,Bar Crudo,"655 Divisadero St, San Francisco, CA 94117",4.0,1890,['delivery'],$$$,59154
+78,kOYj2sGMZnyC1lU-_Uw5fA,Cha Cha Cha,"1801 Haight St, San Francisco, CA 94117",4.0,3342,['delivery'],$$,91984
+79,elgE2cUhKotsLoBUdghexQ,Devil's Teeth Baking Company,"3876 Noriega St, San Francisco, CA 94122",4.5,1918,"['delivery', 'pickup']",$,87122
+80,bai6umLcCNy9cXql0Js2RQ,Pizzeria Delfina - Mission,"3621 18th St, San Francisco, CA 94110",4.0,2331,"['delivery', 'pickup']",$$,856
+81,286uOfEOt2P2BpakntKhGQ,Submarine Center,"820 Ulloa St, San Francisco, CA 94127",4.5,1369,['pickup'],$$,78727
+82,zjlwTVZOyCU8OzzUPEavQQ,Super Duper Burgers,"721 Market St, San Francisco, CA 94103",4.0,2834,['delivery'],$$,65860
+83,Tttm1r5Dw1sRMCfc3EQWPw,Boulevard,"1 Mission St, San Francisco, CA 94105",4.0,2714,['delivery'],$$$,3484
+84,U0GqpXzcIDlad7vQHbB63Q,KUSAKABE,"584 Washington St, San Francisco, CA 94111",4.5,977,"['delivery', 'pickup']",$$$$,78403
+85,-4wz0dOG3RdBNYE02l9KjA,PPQ Dungeness Island - San Francisco,"2332 Clement St, San Francisco, CA 94121",4.0,3178,"['restaurant_reservation', 'delivery', 'pickup']",$$,3206
+86,V6L23CJAM9cm0zzWAhSwVA,Belly Good Cafe & Crepes,"1737 Post St, Ste 393, San Francisco, CA 94115",4.5,1359,"['delivery', 'pickup']",$,3690
+87,md19wETpeFhjh4MkFi029A,Oma San Francisco Station,"1737 Post St, Ste 337, San Francisco, CA 94115",4.5,253,"['pickup', 'delivery']",$$$$,3690
+88,UGKNNQ6bjL-ZttHSdZISfA,Blackwood,"2150 Chestnut St, San Francisco, CA 94123",4.0,1951,"['restaurant_reservation', 'delivery', 'pickup']",$$,68331
+89,VzlVF1yc_BboRwwqJcvkxg,Mymy,"1500 California St, San Francisco, CA 94109",4.0,1926,"['delivery', 'pickup']",$$,63413
+90,voFE8DTKsTFi1Vzm_zzd0Q,Don Pistos,"510 Union St, San Francisco, CA 94133",4.0,1938,"['restaurant_reservation', 'delivery', 'pickup']",$$,61351
+91,OoyK7MyuPtKOQAXmEmyM5g,Little Star Pizza,"400 Valencia St, San Francisco, CA 94103",4.0,2181,"['restaurant_reservation', 'delivery', 'pickup']",$$,27964
+92,ka1_lat2boQwLMsOCiwGiA,R&G Lounge,"631 Kearny St, San Francisco, CA 94108",3.5,4675,['delivery'],$$,3016
+93,AfqpSxetSUMc63ZPCfbneg,Craftsman and Wolves,"746 Valencia St, San Francisco, CA 94110",4.0,1669,"['delivery', 'pickup']",$$,68894
+94,yn5gA62ekL-TzKBBI_rq-A,Boba Guys,"429 Stockton St, San Francisco, CA 94108",4.0,2068,['delivery'],$,80120
+95,NwqdohySKrDnK0RsAde9UA,Hot Sauce and Panko,"1468 Hyde St, San Francisco, CA 94109",4.5,1256,"['delivery', 'pickup']",$,91042
+96,E8RJkjfdcwgtyoPMjQ_Olg,Four Barrel Coffee,"375 Valencia St, San Francisco, CA 94103",4.0,2147,['delivery'],$,36840
+97,rwiL8C8989DlHMD88bxi3A,Gracias Madre,"2211 Mission St, San Francisco, CA 94110",4.0,3454,"['delivery', 'pickup']",$$,70064
+98,ZfMLpV7p3EvRv3Idpx89sQ,Spruce,"3640 Sacramento St, San Francisco, CA 94118",4.0,2086,['delivery'],$$$$,34726
+99,wsPDEO08w_lH0x123_YEXg,Philz Coffee,"549 Castro St, San Francisco, CA 94114",4.5,1082,['delivery'],$,82955
+100,msT3LrLB4fhN04HYHuFsew,Bella Trattoria,"3854 Geary Blvd, San Francisco, CA 94118",4.5,1632,"['delivery', 'pickup']",$$,2593
+101,WFgRFq_KxIs2fkYo1iD6Tg,Lers Ros,"730 Larkin St, San Francisco, CA 94109",4.0,2263,"['restaurant_reservation', 'delivery', 'pickup']",$$,69799
+102,qZFRnzb-VTfkMC2vDoWJVA,Hot Cookie,"407 Castro St, San Francisco, CA 94114",4.0,1565,"['delivery', 'pickup']",$$,85670
+103,FqYg7BcsryLFiUTknxpQpw,Harris' Restaurant,"2100 Van Ness Ave, San Francisco, CA 94109",4.0,1980,"['delivery', 'pickup']",$$$$,3053
+104,s-ihKanDRDHTD8U49HFA5Q,Lovejoy's Tea Room,"1351 Church St, San Francisco, CA 94114",4.5,1263,['delivery'],$$,89475
+105,mydKjdG8gJOcRQ9cZwkQpQ,Ryoko's,"619 Taylor St, San Francisco, CA 94102",4.0,3177,['delivery'],$$,3495
+106,QINiEjMRGA7pKfvhPQtfBg,Isa Restaurant,"3324 Steiner St, San Francisco, CA 94123",4.0,2194,"['restaurant_reservation', 'delivery', 'pickup']",$$$,96588
+107,MWaeG9XhJdFzbcrSrpF6mQ,Tommaso Ristorante Italiano,"1042 Kearny St, San Francisco, CA 94133",4.5,1720,"['delivery', 'pickup']",$$,486
+108,FmGF1B-Rpsjq1f5b56qMwg,Molinari Delicatessen,"373 Columbus Ave, San Francisco, CA 94133",4.5,1237,"['delivery', 'pickup']",$$,840
+109,Fe-YjAdSRLqDC2H_pqPcSw,Hinodeya Ramen Bar,"1737 Buchanan St, San Francisco, CA 94115",4.0,1587,"['delivery', 'pickup']",$$,87765
+110,I8T8aoAsFQYwQiRvLBayFA,Il Casaro Pizzeria & Mozzarella Bar - North Beach,"348 Columbus Ave, San Francisco, CA 94133",4.5,1481,"['restaurant_reservation', 'delivery', 'pickup']",$$,75147
+111,PLx_VnZyFmxTS1zNTaDJxA,Alexander's Steakhouse,"448 Brannan St, San Francisco, CA 94107",4.0,1832,"['delivery', 'pickup']",$$$$,63191
+112,g0VCHer2uE5NLOEdblZuSw,Taqueria Cancún,"2288 Mission St, San Francisco, CA 94110",4.0,2090,['delivery'],$$,2315
+113,6bc2FmFGzrcEvXcS2cOeeA,B Star,"127 Clement St, San Francisco, CA 94118",4.0,1995,"['restaurant_reservation', 'delivery', 'pickup']",$$,33911
+114,1toCkhuD0b57iFotMu3XEQ,La Ciccia,"291 30th St, San Francisco, CA 94131",4.5,1182,['delivery'],$$$,65549
+115,qKVwVCJ_5D0iOxJYE9wSJw,Roka Akor - San Francisco,"801 Montgomery St, San Francisco, CA 94133",4.0,1469,['delivery'],$$$$,74239
+116,vzBSlQezq2GJkDeqBQxdtw,The Original Ghirardelli Ice Cream & Chocolate Shop,"900 North Point, Ste 52, San Francisco, CA 94109",4.0,2732,['delivery'],$$,96537
+117,0YPcBWiU-8t2kGe-DOhW5g,Tommy's Joynt,"1101 Geary Blvd, San Francisco, CA 94109",4.0,2961,"['delivery', 'pickup']",$$,87613
+118,WhTpALYvB4ZBMcT8fFVLvw,Holy Gelato!,"1392 9th Ave, San Francisco, CA 94122",4.5,1100,"['delivery', 'pickup']",$$,100504
+119,sT8TRzofJym5w0khZkOJhw,The Chairman,"2723 Oakdale Ave, San Francisco, CA 94124",4.0,1438,"['delivery', 'pickup']",$,101678
+120,sT8TRzofJym5w0khZkOJhw,The Chairman,"2723 Oakdale Ave, San Francisco, CA 94124",4.0,1438,"['delivery', 'pickup']",$,98848
+121,rxY7canIJeXtICb6lprUcQ,Blue Plate,"3218 Mission St, San Francisco, CA 94110",4.0,1523,"['restaurant_reservation', 'delivery', 'pickup']",$$$,2689
+122,cx6y2D1Q77R6dEqMOvnL7g,Underdogs Tres,"1224 9th Ave, San Francisco, CA 94122",4.0,2070,['delivery'],$$,68773
+123,DLpHmXitZxDLdqTwydUSdA,La Fusión,"475 Pine St, San Francisco, CA 94104",4.5,1165,['delivery'],$$,66515
+124,TlBFKt2N2eSEBpN-UZmDBw,Parada 22,"1805 Haight St, San Francisco, CA 94117",4.0,1364,"['delivery', 'pickup']",$$,62051
+125,mDM7-ho67ePJXd5TodtCOg,Acquerello,"1722 Sacramento St, San Francisco, CA 94109",4.5,1190,[],$$$$,2175
+126,fGj7q3Qro-Efk7t-IVnpXQ,Woodhouse Fish,"2073 Market St, San Francisco, CA 94114",4.0,1757,['delivery'],$$,19205
+127,s3Vi_0iue-hIRJ7O78JzRQ,The Ice Cream Bar,"815 Cole St, San Francisco, CA 94117",4.0,1364,"['delivery', 'pickup']",$,66684
+128,IoPgRTk7Cs3ydeM5R2NRZA,Andytown Coffee Roasters,"3655 Lawton St, San Francisco, CA 94122",4.5,963,['delivery'],$,77004
+129,q2EbLD93gEO5uXXx7Pk3bw,Benu,"22 Hawthorne St, San Francisco, CA 94105",4.5,1118,"['delivery', 'pickup']",$$$$,62889
+130,g2ktKLz4rNTi8T5WUEUYuw,The Monk's Kettle,"3141 16th St, San Francisco, CA 94103",4.0,2272,"['delivery', 'pickup']",$$,35591
+131,Su1ay8vJyKsHZKQG_eluaA,Dragon Beaux,"5700 Geary Blvd, San Francisco, CA 94121",4.0,1980,"['restaurant_reservation', 'delivery', 'pickup']",$$,81116
+132,imHjAJ9uuUK_PNkzT9kCag,Basa Seafood Express,"3064 24th St, San Francisco, CA 94110",4.5,872,"['delivery', 'pickup']",$,59397
+133,CB5FsH1m4D0R5wZ0JFmKzw,Salt & Straw,"586 Hayes St, San Francisco, CA 94102",4.5,723,"['delivery', 'pickup']",$$,90931
+134,5xp-qHGhzEzXevsSzYrwkg,Pacific Catch,"2027 Chestnut St, San Francisco, CA 94123",4.0,1689,"['delivery', 'pickup']",$$,305
+135,O1sRAas2IZQKYVSNZeBagQ,Cracked & Battered - Potrero Hill,"1434 18th St, San Francisco, CA 94107",4.5,1130,"['delivery', 'pickup']",$$,95554
+136,iZ5VBmyFAZyJCt88KLwhJw,La Mediterranee,"2210 Fillmore St, San Francisco, CA 94115",4.0,1637,"['delivery', 'pickup']",$$,1322
+137,zFxD8QinHt69Bs7M2mgB-Q,Quince,"470 Pacific Ave, San Francisco, CA 94133",4.0,1540,['delivery'],$$$$,61001
+138,VQPtsRVNTFkFptcXDTtIyg,Urban Ritual,"488 Fell St, San Francisco, CA 94102",4.5,867,"['delivery', 'pickup']",$,95621
+139,i_OkjtKWm02Upc-PlcUrrg,Firefly Restaurant,"4288 24th St, San Francisco, CA 94114",4.0,1491,['delivery'],$$$,2676
+140,QOpqNPKpClL48TVVrYobAw,Pizzetta 211,"211 23rd Ave, San Francisco, CA 94121",4.5,1390,['delivery'],$$,40217
+141,kFgjHGp-cTUK5uPaSJOORA,Souvla,"517 Hayes St, San Francisco, CA 94102",4.0,1590,['delivery'],$$,77731
+142,WxxE5kE8omgQhJE8sWIvmA,Tadich Grill,"240 California St, San Francisco, CA 94111",4.0,2582,['delivery'],$$$,3122
+143,Xdx2_n3nk9Td_aSe7E5ARQ,Rich Table,"199 Gough St, San Francisco, CA 94102",4.0,1391,['delivery'],$$$,69680
+144,xdAgbLBQcffIxI8mYgjT1Q,Frascati,"1901 Hyde St, San Francisco, CA 94109",4.5,1237,"['delivery', 'pickup']",$$$,18981
+145,MXKWFQHoC0SXy9UI-Djn7g,Art's Cafe,"747 Irving St, San Francisco, CA 94122",4.5,1186,['delivery'],$$,48
+146,15g05u3vgH1CZipI1eIeUA,Smuggler's Cove,"650 Gough St, San Francisco, CA 94102",4.0,1816,[],$$,61357
+147,wCf2GGyEOkaSFE0xCYpgOA,Hai Ky Noodles,"707 Ellis St, San Francisco, CA 94109",4.5,1070,['delivery'],$$,283
+148,uBaXDGwJPUkOSLWxS2vZ9Q,Lazy Bear,"3416 19th St, San Francisco, CA 94110",4.5,711,[],$$$$,80109
+149,EfkCyCaKoUFVdkRoi2prMw,Yasukochi's Sweet Stop,"1790 Sutter St, San Francisco, CA 94115",4.5,743,[],$$,7575
+150,EfkCyCaKoUFVdkRoi2prMw,Yasukochi's Sweet Stop,"1790 Sutter St, San Francisco, CA 94115",4.5,743,[],$$,7764
+151,BI40rGhpngLNPacrjWpseQ,Dumpling Kitchen,"1935 Taraval St, San Francisco, CA 94116",4.0,1875,"['pickup', 'delivery']",$$,76942
+152,KCVZ0Z5GQgQxduizQ91O1Q,Yummy Yummy,"1015 Irving St, San Francisco, CA 94122",4.0,1508,"['pickup', 'delivery']",$$,1931
+153,6Wzy5p_0lLajjMhDIs0i1g,Mourad Restaurant,"140 New Montgomery St, Ste 1, San Francisco, CA 94105",4.0,1202,[],$$$$,74975
+154,ztL8KI0ed0snCiK88ZUfNw,Perbacco,"230 California St, San Francisco, CA 94111",4.0,2124,"['pickup', 'delivery']",$$$,21785
+155,IRD_9JUjR-06zztisuTdAA,Akiko's Restaurant,"431 Bush St, San Francisco, CA 94108",4.0,1928,['delivery'],$$$,121
+156,jcFf2ZnJYL0nWCdIpqiA-g,Trestle ,"531 Jackson St, San Francisco, CA 94133",4.5,987,[],$$$,82578
+157,_D1Ev_zTZs5ijHkleK6C2w,Hillstone,"1800 Montgomery St, San Francisco, CA 94111",4.0,2367,['delivery'],$$$,38179
+158,U9HWtltvf_U2y1wYSOwFUA,Fresh Brew Coffee,"882 Bush St, San Francisco, CA 94108",4.5,642,['delivery'],$,77546
+159,UbKrcsBaZoaBkBOajEX08g,Brenda's Meat & Three,"919 Divisadero St, San Francisco, CA 94115",4.0,1333,['delivery'],$$,10875
+160,o43B4DnnQbvkdDK6AVafQg,Piccolo Forno,"725 Columbus Ave, San Francisco, CA 94133",4.5,774,"['pickup', 'delivery']",$$,85299
+161,TcbKvh-e1lxywJuN6in5JQ,Farm : Table,"754 Post St, San Francisco, CA 94109",4.0,1826,['delivery'],$$,86161
+162,oqsu3pKpgRMGHj9QItsx0A,Zuni Café,"1658 Market St, San Francisco, CA 94102",3.5,2875,['delivery'],$$$,3645
+163,CfU_8BIc6SX7lhDYAB9Xkw,Liguria Bakery,"1700 Stockton St, San Francisco, CA 94133",4.5,787,['delivery'],$,7762
+164,UjjNgzBFAVXF3iVXPVjH_Q,Pancho Villa Taqueria,"3071 16th St, San Francisco, CA 94103",3.5,2806,"['pickup', 'delivery']",$$,3651
+165,vJaF4HdnmSVF_V0BjeKjtg,Blue Bottle Coffee,"1 Ferry Building, Ste 7, San Francisco, CA 94111",4.0,1574,[],$,11491
+166,vJaF4HdnmSVF_V0BjeKjtg,Blue Bottle Coffee,"1 Ferry Building, Ste 7, San Francisco, CA 94111",4.0,1574,[],$,11568
+167,vJaF4HdnmSVF_V0BjeKjtg,Blue Bottle Coffee,"1 Ferry Building, Ste 7, San Francisco, CA 94111",4.0,1574,[],$,63079
+168,vJaF4HdnmSVF_V0BjeKjtg,Blue Bottle Coffee,"1 Ferry Building, Ste 7, San Francisco, CA 94111",4.0,1574,[],$,76431
+169,vJaF4HdnmSVF_V0BjeKjtg,Blue Bottle Coffee,"1 Ferry Building, Ste 7, San Francisco, CA 94111",4.0,1574,[],$,85898
+170,qXUzHmPdbGEt5EKSdWqbmg,Gott's Roadside,"1 Ferry Building, Ste 6, San Francisco, CA 94111",3.5,2834,"['delivery', 'pickup']",$$,11491
+171,qXUzHmPdbGEt5EKSdWqbmg,Gott's Roadside,"1 Ferry Building, Ste 6, San Francisco, CA 94111",3.5,2834,"['delivery', 'pickup']",$$,11568
+172,qXUzHmPdbGEt5EKSdWqbmg,Gott's Roadside,"1 Ferry Building, Ste 6, San Francisco, CA 94111",3.5,2834,"['delivery', 'pickup']",$$,63079
+173,qXUzHmPdbGEt5EKSdWqbmg,Gott's Roadside,"1 Ferry Building, Ste 6, San Francisco, CA 94111",3.5,2834,"['delivery', 'pickup']",$$,76431
+174,qXUzHmPdbGEt5EKSdWqbmg,Gott's Roadside,"1 Ferry Building, Ste 6, San Francisco, CA 94111",3.5,2834,"['delivery', 'pickup']",$$,85898
+175,KH6MVXnoQubNevMixBnf3g,Blue Bottle Coffee,"1 Ferry Building, Kiosk 4, Ste 56, San Francisco, CA 94111",4.0,562,['delivery'],$,11491
+176,KH6MVXnoQubNevMixBnf3g,Blue Bottle Coffee,"1 Ferry Building, Kiosk 4, Ste 56, San Francisco, CA 94111",4.0,562,['delivery'],$,11568
+177,KH6MVXnoQubNevMixBnf3g,Blue Bottle Coffee,"1 Ferry Building, Kiosk 4, Ste 56, San Francisco, CA 94111",4.0,562,['delivery'],$,63079
+178,KH6MVXnoQubNevMixBnf3g,Blue Bottle Coffee,"1 Ferry Building, Kiosk 4, Ste 56, San Francisco, CA 94111",4.0,562,['delivery'],$,76431
+179,KH6MVXnoQubNevMixBnf3g,Blue Bottle Coffee,"1 Ferry Building, Kiosk 4, Ste 56, San Francisco, CA 94111",4.0,562,['delivery'],$,85898
+180,cbkbw0-QUwRZWV49JpDCWA,Wildseed,"2000 Union St, San Francisco, CA 94123",4.5,959,"['restaurant_reservation', 'delivery']",$$,82909
+181,LV9GJW3NCHgMRbnWo_5xgw,Stonemill Matcha,"561 Valencia St, San Francisco, CA 94110",4.0,1069,['delivery'],$$,94126
+182,W1DGoHrkx8qptuWCcWSPLA,Honey Honey Cafe and Crepery,"599 Post St, San Francisco, CA 94102",4.0,2809,"['pickup', 'delivery']",$$,37682
+183,Y43L1WlyrpDWVwAj6NF-VA,Boiling Hot Pot,"5512 Geary Blvd, San Francisco, CA 94121",4.5,1010,[],$$$,78332
+184,OCk8JFBaOw_p2EY6mi5iLQ,Amélie,"1754 Polk St, San Francisco, CA 94109",4.0,1392,['pickup'],$$,80930
+185,I0UVBT1-k0LqUICRLr9l5A,Dynamo Donut & Coffee,"2760 24th St, San Francisco, CA 94110",4.0,1963,['delivery'],$,38423
+186,eBxkmr-hJ2KgpZQzEO3ArQ,Han Il Kwan,"1802 Balboa St, San Francisco, CA 94121",4.0,1754,['delivery'],$$,3165
+187,Av-PbVkajf1XrgqIS8POSQ,Stella Pastry & Cafe,"446 Columbus Ave, San Francisco, CA 94133",4.0,1433,"['pickup', 'delivery']",$$,33386
+188,xji2vmCj8kqsbA_cvd5hvw,Wonderful Dessert & Cafe,"2035 Irving St, San Francisco, CA 94122",4.0,1297,[],$,18767
+189,9hUYiiyPe0QOu8Oezq_yqQ,Chez Maman West,"401 Gough St, San Francisco, CA 94102",4.0,1369,"['pickup', 'delivery']",$$,69110
+190,xkTx2lxZQptqxNeCBCaArA,Tadu Ethiopian Kitchen,"484 Ellis St, San Francisco, CA 94102",4.5,691,"['pickup', 'delivery']",$$,80361
+191,PzPPcGVg5O4UuW5cTopJhA,BIX,"56 Gold St, San Francisco, CA 94133",4.0,1906,"['pickup', 'delivery']",$$$$,3520
+192,6wUNarxe7sJTriiqLjZHAA,Roam Artisan Burgers,"1785 Union St, San Francisco, CA 94123",4.0,1591,"['pickup', 'delivery']",$$,63047
+193,chWLsfWUJ5k8-73t9FOM9A,Limón,"524 Valencia St, San Francisco, CA 94110",3.5,2680,"['pickup', 'restaurant_reservation', 'delivery']",$$,3076
+194,FRpULkKmvD9caSKabQzq5w,The Italian Homemade Company,"1919 Union St, San Francisco, CA 94123",4.5,1093,"['pickup', 'delivery']",$$,83575
+195,H3LVKSUbbUFqlTuxDKerAg,Bi-Rite Market,"3639 18th St, San Francisco, CA 94110",4.5,959,[],$$$,4481
+196,lvoKIKQ8zD4ZvcbUmImrQg,Taylor Street Coffee Shop,"375 Taylor St, San Francisco, CA 94102",4.0,1215,"['pickup', 'delivery']",$$,80285
+197,f8fYPWuRB4o225YjPEjq8w,The Alembic,"1725 Haight St, San Francisco, CA 94117",4.0,1679,['delivery'],$$,96027
+198,M175LTlKPJjAWREIUPyMGg,Sushi Zone,"1815 Market St, San Francisco, CA 94103",4.0,1066,['delivery'],$$,562
+199,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,3267
+200,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,4636
+201,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,522
+202,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,60632
+203,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,67414
+204,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,71413
+205,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,76060
+206,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,76126
+207,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,82441
+208,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,84469
+209,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,85078
+210,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,88461
+211,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,88829
+212,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,88873
+213,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,93448
+214,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,93469
+215,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,95653
+216,q1Mv7oQSOorl4a9zbtl-rQ,Marugame Udon,"3251 20th Ave, Space 184, San Francisco, CA 94132",4.0,2129,"['delivery', 'pickup']",$$,99298
+217,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,3267
+218,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,4636
+219,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,522
+220,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,60632
+221,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,67414
+222,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,71413
+223,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,76060
+224,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,76126
+225,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,82441
+226,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,84469
+227,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,85078
+228,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,88461
+229,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,88829
+230,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,88873
+231,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,93448
+232,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,93469
+233,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,95653
+234,W7byRQtMwI-iDTzmMFpfUg,Gram Cafe & Pancakes,"3251 20th Ave, Ste 172, San Francisco, CA 94132",4.0,931,"['pickup', 'delivery']",$$,99298
+235,IxDRIBkKtP-f24sr5zHAhQ,Pink Onion,"64 14th St, San Francisco, CA 94103",4.5,592,"['restaurant_reservation', 'delivery', 'pickup']",$$,90511
+236,3sGEIoyXkMmc1YX1TYkSMg,Pancake Boy,"4007 24th St, San Francisco, CA 94114",4.0,1103,"['restaurant_reservation', 'delivery', 'pickup']",$$,72027
+237,N6z0so39b9fzGi8UWzI1Ww,Just For You Cafe,"732 22nd St, San Francisco, CA 94107",4.0,1563,"['delivery', 'pickup']",$$,1671
+238,ikkPHZqQQ2UU2hGFyBuffQ,Montesacro SOMA,"510 Stevenson St, San Francisco, CA 94103",4.5,840,"['delivery', 'pickup']",$$,82538
+239,6TL8udi-vy_5rH-wikMSoA,Saru Sushi Bar - Noe Valley,"3856 24th St, San Francisco, CA 94114",4.5,917,['delivery'],$$$,67690
+240,r2jiJk3yivcLkWSSYELGcA,Tataki,"2827 California St, San Francisco, CA 94115",4.0,1346,"['restaurant_reservation', 'delivery']",$$,86924
+241,7qK2Gwu0afQMtYFSJvvCqQ,Muracci's Japanese Curry & Grill,"307 Kearny St, Ste 204, San Francisco, CA 94108",4.0,1756,['pickup'],$$,36786
+242,yD9-WrXijc_grVmi_zkCfQ,Hinata,"810 Van Ness Ave, San Francisco, CA 94109",4.5,655,[],$$$$,101757
+243,pKP6ikrLyM5Gtua13kVoUw,Izakaya Sozai,"1500 Irving St, San Francisco, CA 94122",4.0,2116,['delivery'],$$,66736
+244,7bO6OHn52SJP4Mi3U-XflQ,The New Spot On Polk,"2401 Polk St, San Francisco, CA 94109",4.5,815,"['restaurant_reservation', 'delivery', 'pickup']",$$,92463
+245,J7_-faNq_Ag9qTOlDn81Pw,Starbelly,"3583 16th St, San Francisco, CA 94114",4.0,2056,"['restaurant_reservation', 'delivery', 'pickup']",$$,60400
+246,qs7FgJ-UXgpbAMass0Oojg,Flour + Water,"2401 Harrison St, San Francisco, CA 94110",3.5,2422,[],$$$,59637
+247,KRcMsXmeILmC8OXmcXOQgA,Picaro,"3120 16th St, San Francisco, CA 94103",4.0,1780,"['restaurant_reservation', 'delivery', 'pickup']",$$,3838
+248,6e7gMgVJRQ5rtkIbTF6TLQ,Trattoria Contadina,"1800 Mason St, San Francisco, CA 94133",4.0,1410,['delivery'],$$,3481
+249,PNxwbgtfdpldd3CyJFIw3w,Ozumo,"161 Steuart St, San Francisco, CA 94105",4.0,2549,"['delivery', 'pickup']",$$$,3409
+250,MKjhQLLVP0udUB6P-rv_Aw,SusieCakes,"2109 Chestnut St, San Francisco, CA 94123",4.0,1192,[],$$$,88380
+251,hBs2mEpjMsbrAjd-FZC9qw,Powder,"260 Divisadero St, San Francisco, CA 94117",4.5,642,"['delivery', 'pickup']",$$,99223
+252,RNy3_hU1N2qyS5PVc9RaYQ,Perilla,"836 Irving St, San Francisco, CA 94122",4.0,1447,"['delivery', 'pickup']",$$,79821
+253,HVJdo4f_6MxkM_1aCAK3NA,Cotogna,"490 Pacific Ave, San Francisco, CA 94133",4.0,1627,['delivery'],$$$,63918
+254,QQkroHtwS96-dzMpT4a-DA,Delarosa,"2175 Chestnut St, San Francisco, CA 94123",4.0,1770,['restaurant_reservation'],$$,61512
+255,cf6el4kGXe686x4Kb6F18Q,Swensen's,"1999 Hyde St, San Francisco, CA 94109",4.0,1116,"['delivery', 'pickup']",$,3323
+256,3a36_kQBI8dB32Dt2aEEHg,Gusto Pinsa Romana,"1000 Bush St, San Francisco, CA 94109",4.5,484,"['delivery', 'pickup']",$$,98223
+257,bE_1J-17ut6t6bvNhkkxSw,Wako Japanese Restaurant,"211 Clement St, San Francisco, CA 94118",4.5,694,[],$$$$,75574
+258,7tsN9N9mhfJRNTe37pLFMg,Burma Love,"211 Valencia St, San Francisco, CA 94103",4.0,1452,"['restaurant_reservation', 'pickup']",$$,83643
+259,GtKxIGU6LJu14UErdNulmQ,Original Joe's,"601 Union St, San Francisco, CA 94133",4.0,1761,"['delivery', 'pickup']",$$,68090
+260,tr15WgMHIC_W2gqBpuk3-A,Manna,"845 Irving St, San Francisco, CA 94122",4.0,1240,['delivery'],$$,65382
+261,Bfc3RwM7UAEohk9e19Q1xw,Pho Huynh Hiep 2 - Kevin's Noodle House,"1833 Irving St, San Francisco, CA 94122",4.0,1812,['delivery'],$$,3211
+262,o8mLw7SrcTPis4NcvLzsOw,Good Luck Dim Sum,"736 Clement St, San Francisco, CA 94118",4.0,1774,['delivery'],$,77960
+263,Di4kb-1tnjP5OKFuV8qbUA,Cordon Bleu,"1574 California St, San Francisco, CA 94109",4.0,1104,['delivery'],$$,1345
+264,055dTcfz2AOAFPed_2KjEQ,Nopalito,"306 Broderick St, San Francisco, CA 94117",4.0,1962,['delivery'],$$,40001
+265,2oj_6uCp4DgVTJhYqEmBbA,Old Skool Cafe,"1429 Mendell St, San Francisco, CA 94124",4.5,603,"['delivery', 'pickup']",$$,67923
+266,BjlVE7tTp1UCEttgkM1Big,Beit Rima,"138 Church St, San Francisco, CA 94114",4.5,549,['delivery'],$$,102398
+267,_Iupdt0IslH_jU8zkKcWLA,Pica Pica Arepa Kitchen,"401 Valencia St, San Francisco, CA 94103",4.0,1601,"['delivery', 'pickup']",$$,62532
+268,yNU6sPRWzVl0ngCRqat1TQ,Bobo's Steakhouse,"1450 Lombard St, San Francisco, CA 94123",4.0,2192,['delivery'],$$$,2725
+269,c3khi7kxBaA2ATUuMjtMZA,Atelier Crenn,"3127 Fillmore St, San Francisco, CA 94123",4.5,799,[],$$$$,65060
+270,L3_71hwGHkr38nZ2daksuA,Miyako Old Fashioned Ice Cream,"1470 Fillmore St, San Francisco, CA 94118",5.0,411,['delivery'],$,328
+271,1KbZaqEdZkn6LHlA55M64g,The Richmond,"615 Balboa St, San Francisco, CA 94118",4.5,734,['delivery'],$$$,16047
+272,527usXXrlHi46bs54IFRTQ,Crepevine Restaurants,"624 Irving St, San Francisco, CA 94122",4.0,1683,"['delivery', 'pickup']",$$,74759
+273,u2qFhVAiH3kQIGhEW6PmMA,Zushi Puzzle,"1910 Lombard St, San Francisco, CA 94123",4.0,1365,['delivery'],$$$,2063
+274,TmXkYM0N-FjrMasxj5uXsA,Sushi Bistro,"452 Balboa St, San Francisco, CA 94118",4.0,1531,"['delivery', 'pickup']",$$,88954
+275,1IqqA8pcuCIWJtuKfHwU8g,Nojo Ramen Tavern,"231 Franklin St, San Francisco, CA 94102",4.0,1050,"['delivery', 'pickup']",$$,85279
+276,C7VHU3Cp6AprIKStbPvQXA,Off the Grid: Fort Mason Center,"2 Marina Blvd, Fort Mason Center Parking Lot, San Francisco, CA 94123",4.0,1012,[],$$,100036
+277,C7VHU3Cp6AprIKStbPvQXA,Off the Grid: Fort Mason Center,"2 Marina Blvd, Fort Mason Center Parking Lot, San Francisco, CA 94123",4.0,1012,[],$$,90733
+278,C7VHU3Cp6AprIKStbPvQXA,Off the Grid: Fort Mason Center,"2 Marina Blvd, Fort Mason Center Parking Lot, San Francisco, CA 94123",4.0,1012,[],$$,94455
+279,C7VHU3Cp6AprIKStbPvQXA,Off the Grid: Fort Mason Center,"2 Marina Blvd, Fort Mason Center Parking Lot, San Francisco, CA 94123",4.0,1012,[],$$,95019
+280,ssI9ivccrDBT-RH_52fPBQ,Greens Restaurant,"2 Marina Blvd, Bldg A, Fort Mason, San Francisco, CA 94123",4.0,2241,"['delivery', 'pickup']",$$$,100036
+281,ssI9ivccrDBT-RH_52fPBQ,Greens Restaurant,"2 Marina Blvd, Bldg A, Fort Mason, San Francisco, CA 94123",4.0,2241,"['delivery', 'pickup']",$$$,90733
+282,ssI9ivccrDBT-RH_52fPBQ,Greens Restaurant,"2 Marina Blvd, Bldg A, Fort Mason, San Francisco, CA 94123",4.0,2241,"['delivery', 'pickup']",$$$,94455
+283,ssI9ivccrDBT-RH_52fPBQ,Greens Restaurant,"2 Marina Blvd, Bldg A, Fort Mason, San Francisco, CA 94123",4.0,2241,"['delivery', 'pickup']",$$$,95019
+284,qu975NgOv1n1oAS2RDheyg,Pineapple King Bakery,"1915 Irving St, San Francisco, CA 94122",4.5,805,"['delivery', 'pickup']",$,81258
+285,iTJ3jZ-dli9WLOrVsFXr6A,San Francisco's Hometown Creamery,"1290 9th Ave, San Francisco, CA 94122",4.5,883,"['delivery', 'pickup']",$$,82337
+286,iTJ3jZ-dli9WLOrVsFXr6A,San Francisco's Hometown Creamery,"1290 9th Ave, San Francisco, CA 94122",4.5,883,"['delivery', 'pickup']",$$,96542
+287,D1-_5ff4aic1-7rLqzUd4g,Yamo,"3406 18th St, San Francisco, CA 94110",4.0,2027,['delivery'],$,1231
+288,QCQ3WN7hd9xMPs2_ycHa_A,Broken Record,"1166 Geneva Ave, San Francisco, CA 94112",4.0,1256,"['delivery', 'pickup']",$$,34102
+289,mUbk7FCM1R9gSko6EMdU2A,Miette Patisserie & Confiserie,"Ferry Building, Shop 10, San Francisco, CA 94111",4.0,1564,[],$$,9463
+290,18TtLS_JtiS2OH30FLqNrw,Boba Guys,"3491 19th St, San Francisco, CA 94110",4.0,1516,['delivery'],$,74039
+291,yC5ATYRQah7MjeTiRsGcvA,Dinosaurs,"2275 Market St, San Francisco, CA 94114",4.0,944,['pickup'],$,1354
+292,OzFb5aZuA3RGV_YZlxorNg,Sushi Time,"2275 Market St, San Francisco, CA 94114",4.0,716,"['pickup', 'delivery']",$$,1354
+293,ZD5-5Gu44WrcsYtw7qMgiw,Palmyra,"700 Haight St, San Francisco, CA 94117",4.0,962,"['delivery', 'pickup']",$,64843
+294,dC_kA-R2qb-0iEmoI4VKPg,Amber India,"25 Yerba Buena Ln, San Francisco, CA 94103",4.0,2216,"['delivery', 'pickup']",$$,38259
+295,GyBh5QsGham__kK7eJ2feQ,Box Kitchen,"431 Natoma St, San Francisco, CA 94103",4.5,816,['pickup'],$$,66255
+296,qfdWWJCMvoTKI8u7rshm_Q,Tempest,"431 Natoma St, San Francisco, CA 94103",4.0,759,"['pickup', 'delivery']",$$,66255
+297,v5-upYI3belSfXOeT1dNWw,Alimento,"507 Columbus Ave, San Francisco, CA 94133",4.5,787,"['delivery', 'pickup']",$,85097
+298,fAaxYP_sc03MV57trhBNPA,Gialina Pizzeria,"2842 Diamond St, San Francisco, CA 94131",4.0,1129,['delivery'],$$,32738
+299,bC3FfFqfaQu7gZznjkmt9Q,Mona Lisa Restaurant,"353 Columbus Ave, San Francisco, CA 94133",4.0,2061,"['restaurant_reservation', 'delivery', 'pickup']",$$,82485
+300,rMuLW1qVB-deU5NStYerWA,Sushirrito,"226 Kearny St, San Francisco, CA 94108",4.0,1572,"['delivery', 'pickup']",$$,73849
+301,eOCVoXsOEnbr9c89RD0UEQ,Pork Store Cafe,"1451 Haight St, San Francisco, CA 94117",4.0,1415,"['delivery', 'pickup']",$$,1047
+302,Qr0dBKxCtWWUr9bJ74aWQA,Little Delhi,"83 Eddy St, San Francisco, CA 94102",4.0,2015,"['delivery', 'pickup']",$$,59178
+303,E2Ri3Uudb3ogKfWBJIIhRw,Lokma,"1801 Clement St, San Francisco, CA 94121",4.5,487,"['delivery', 'pickup']",$$,93947
+304,WpcWACqlAodx5dbe5GJWZA,Omakase,"665 Townsend St, San Francisco, CA 94103",4.5,570,[],$$$$,80484
+305,jwb3vTh8rn3OsN9wlI56-Q,Papalote Mexican Grill,"3409 24th St, San Francisco, CA 94110",3.5,2275,"['delivery', 'pickup']",$$,32925
+306,aIgbg-WdNmgBb-V63RfRUg,Outerlands,"4001 Judah St, San Francisco, CA 94122",4.0,2305,['delivery'],$$,74829
+307,p1oiqn-SkMrQG0lT3V6jIA,Tín Vietnamese Cuisine,"937 Howard St, San Francisco, CA 94103",4.0,1360,['pickup'],$$,91457
+308,7rUZnmRVyCpq4TrB9Brsiw,The Little Chihuahua,"292 Divisadero St, San Francisco, CA 94117",4.0,1548,['delivery'],$$,59988
+309,QhXJqmPoR6jyCf44ck7Sxg,The Rotunda,"150 Stockton St, San Francisco, CA 94108",4.0,1774,['delivery'],$$$,3578
+310,gBRjRvIfA4fIo6pNebTjuA,Oasis Grill,"91 Drumm St, San Francisco, CA 94111",4.0,1298,"['delivery', 'pickup']",$$,58
+311,gBRjRvIfA4fIo6pNebTjuA,Oasis Grill,"91 Drumm St, San Francisco, CA 94111",4.0,1298,"['delivery', 'pickup']",$$,69962
+312,SAFRM460dH7LHqYVAdoWgA,Yank Sing,"101 Spear St, San Francisco, CA 94105",3.5,2675,"['delivery', 'pickup']",$$$,1673
+313,SAFRM460dH7LHqYVAdoWgA,Yank Sing,"101 Spear St, San Francisco, CA 94105",3.5,2675,"['delivery', 'pickup']",$$$,60475
+314,cwLN5xjMi6UJ14QmEtEs4A,Bandit,"683 Geary St, San Francisco, CA 94102",4.5,503,"['delivery', 'pickup']",$$,92174
+315,zK9-A4cIZwOUMpGBDz25DA,Canela Bistro & Wine Bar,"2272 Market St, San Francisco, CA 94114",4.5,734,"['delivery', 'pickup']",$$$,66394
+316,O0iAR6OBHXqFtK4nKO9g2Q,Beanstalk Cafe,"724 Bush St, San Francisco, CA 94108",4.5,905,"['delivery', 'pickup']",$,76763
+317,7X76HyhNAUTcYuY6t6ionQ,Chisme Cantina,"882 Sutter St, San Francisco, CA 94109",4.5,542,"['delivery', 'pickup']",$$,82324
+318,mfD5wlWS6tY92FJHDcBwJA,Bouche,"603 Bush St, San Francisco, CA 94108",4.5,838,"['delivery', 'pickup']",$$$,59691
+319,AsmIi9jXkb9ACliVB4Fp9w,Saint Frank Coffee,"2340 Polk St, San Francisco, CA 94109",4.5,809,['delivery'],$,76409
+320,SdI0uCelI4ihCwGyMLv03A,Little Skillet,"360 Ritch St, San Francisco, CA 94107",3.5,2081,"['delivery', 'pickup']",$$,75406
+321,WnQoN1uV65vacUj0q1TgoQ,Volcano,"5454 Geary Blvd, San Francisco, CA 94121",4.0,1288,"['delivery', 'pickup']",$$,39695
+322,Wd5ho0_FKk9n7uV8pSCYIg,Barbacco,"220 California St, San Francisco, CA 94111",4.0,1635,"['delivery', 'pickup']",$$,61550
+323,Jd28dXIWRxGwXKbfrnXq3g,Il Canto Cafe,"475 Sacramento St, San Francisco, CA 94111",4.5,481,"['delivery', 'pickup']",$,71915
+324,kesgk8dCRyg3qRDYpuAKGg,Home Plate,"2150 Lombard St, San Francisco, CA 94123",4.0,1421,"['delivery', 'pickup']",$$,94288
+325,Fvn-UN7IQvxlfLBpJdbMUA,Press Club,"20 Yerba Buena Ln, San Francisco, CA 94103",4.0,1195,[],$$$,37350
+326,VOoHZDC-dgDUzTSsmgESOQ,Ritual Coffee Roasters,"1026 Valencia St, San Francisco, CA 94110",3.5,1918,['delivery'],$$,18996
+327,SEZpdigGSqVNWnyANNIMeA,Butter,"354 11th St, San Francisco, CA 94103",4.0,1140,"['delivery', 'pickup']",$,2407
+328,-zetzVfO4X0dpiiTmjdeKg,Eiji,"317 Sanchez St, San Francisco, CA 94114",4.0,1118,['delivery'],$$,81971
+329,tQE4SPlX9ZlFSbF4JPU4pg,"La Boulangerie de San Francisco, Pine","2325 Pine St, San Francisco, CA 94115",4.5,802,['pickup'],$,85158
+330,KhG-jWIr7-TJj3isz3ZIFQ,My Tofu House,"4627 Geary Blvd, San Francisco, CA 94118",4.0,1694,['delivery'],$$,83148
+331,cjfJOMF6hpE7bX0ESWdAEg,Sanraku,"704 Sutter St, San Francisco, CA 94109",4.0,1802,"['restaurant_reservation', 'delivery']",$$,2843
+332,VdxJdMX53XZYNZvZlr96HA,LaoTable,"149 2nd St, San Francisco, CA 94105",4.0,1275,"['restaurant_reservation', 'delivery', 'pickup']",$$,15738
+333,WLqqZYTeo6wFXuCFtlweqA,Patxi's Pizza,"511 Hayes St, San Francisco, CA 94102",3.5,2408,"['delivery', 'pickup']",$$,17762
+334,wPJjpOZ0mnsajJLBkWUnwA,Pizzeria Delfina - Pacific Heights,"2406 California St, San Francisco, CA 94115",4.0,1511,[],$$,38788
+335,bJm7lxFjXPTg1yJ3WBikMg,San Francisco Wine Society,"408 Merchant St, San Francisco, CA 94111",4.5,822,['delivery'],$$,67509
+336,ODed3UyqDFIFs3gDcXhm7A,Helmand Palace,"2424 Van Ness Ave, San Francisco, CA 94109",4.5,865,"['delivery', 'pickup']",$$,83995
+337,lL-Zq1hlHreP7qAA2sVqNg,Basil Thai Restaurant & Bar,"1175 Folsom St, San Francisco, CA 94103",4.0,1545,"['delivery', 'pickup']",$$,3459
+338,2y2lTn53XJCGFh8lkXJ8OA,El Metate Restaurant,"2406 Bryant St, San Francisco, CA 94110",4.0,1192,"['delivery', 'pickup']",$$,70019
+339,29lhGyTOtiWGkLCWDJZZFg,Cha-Ya San Francisco,"762 Valencia St, San Francisco, CA 94110",4.0,1251,['delivery'],$$,69181
+340,F7UZBVdp69mTI_1M7stq2Q,Marcella's Lasagneria,"1099 Tennessee St, San Francisco, CA 94107",4.5,445,"['delivery', 'pickup']",$$,82636
+341,uXfKnbkDgtIPKw48MeQdKA,Chloe's Cafe,"1399 Church St, San Francisco, CA 94114",4.0,1039,['delivery'],$$,1332
+342,r19XhpINtQxhMwB0eKnmjA,Kingdom Of Dumplings,"1713 Taraval St, San Francisco, CA 94116",3.5,2251,"['delivery', 'pickup']",$$,80316
+343,vu6PlPyKptsT6oEq50qOzA,Delarosa,"37 Yerba Buena Ln, San Francisco, CA 94103",4.0,1466,"['restaurant_reservation', 'delivery']",$$,84038
+344,asOdajhfMCSx_x60j4D42w,Mazarine Coffee,"720 Market St, San Francisco, CA 94102",4.0,817,['delivery'],$$,79753
+345,4_hIVof0Q8dfUBwlREOEGg,The Grove Yerba Buena,"690 Mission St, San Francisco, CA 94105",3.5,2015,[],$$,61602
+346,_2_1FQO_DGzeCTky0x9DQA,Arizmendi Bakery,"1268 Valencia St, San Francisco, CA 94110",4.5,688,['delivery'],$,64116
+347,A4dzocYPoer0llJydoQU-g,Mikkeller Bar,"34 Mason St, San Francisco, CA 94102",4.0,1247,[],$$,74358
+348,NMTWmJKWxJD1flwkn7JIPA,Ace Wasabi  Rock-N-Roll Sushi,"3339 Steiner St, San Francisco, CA 94123",4.0,1008,"['delivery', 'pickup']",$$,3727
+349,c70nh-BV7Nn_rnNXDXnABg,Curry Leaf,"943 Columbus Ave, San Francisco, CA 94133",4.5,758,"['pickup', 'delivery']",$$,76543
+350,f8kY-c4xNHanSwQuI3nYGg,Thai Idea Vegetarian,"710 Polk St, San Francisco, CA 94109",4.5,779,"['pickup', 'delivery']",$$,93336
+351,pYk2UZ_AUGWO4s8YFepRHQ,Marnee Thai,"2225 Irving St, San Francisco, CA 94122",4.0,1894,"['pickup', 'delivery']",$$,538
+352,UXru0FThfONxJQ95oPnaBw,Zeitgeist,"199 Valencia St, San Francisco, CA 94103",3.5,2691,['delivery'],$,68799
+353,OEBWAAJ3FmcseeP1oNwzBQ,Capo's by Tony Gemignani,"641 Vallejo St, San Francisco, CA 94133",4.0,896,"['pickup', 'delivery']",$$,68321
+354,KRDQab-AjHP66pcbkbc5qQ,CoffeeShop,"3139 Mission St, San Francisco, CA 94110",4.5,379,['delivery'],$$,74202
+355,Ep3VtYXc-wvSAp8SaEGa_Q,Cafe Bunn Mi,"417 Clement St, San Francisco, CA 94118",4.0,1359,['delivery'],$$,66361
+356,ZWvXWUhJUBph9Ip1a2j-xw,Ananda Fuara,"1298 Market St, San Francisco, CA 94102",4.0,1129,"['pickup', 'delivery']",$$,2561
+357,xErl0-LbQO9n-5e6ZQQ-Uw,Shabu Club,"951 Clement St, San Francisco, CA 94118",4.0,908,"['restaurant_reservation', 'pickup', 'delivery']",$$$,71999
+358,-STLHuhs2WXTOa1ucsRb_w,Joe’s Ice Cream,"5420 Geary Blvd, San Francisco, CA 94121",4.0,895,"['pickup', 'delivery']",$,68784
+359,x29tzG5M7VbZhpG1jcREKQ,Cafe de Casa,"2701 Leavenworth St, San Francisco, CA 94133",4.5,498,"['pickup', 'delivery']",$$,82315
+360,yNMCITEPGh6cgqd6VDfQOg,Nob Hill Cafe,"1152 Taylor St, San Francisco, CA 94108",4.0,1411,"['pickup', 'delivery']",$$,1829
+361,d55pCEHeWg0Si5Jg9Zp_ow,Palmetto Superfoods,"202 Clement St, San Francisco, CA 94118",4.5,400,"['pickup', 'delivery']",$$,102602
+362,CS0pUlk25RV2-vhKFFbxqA,The Progress,"1525 Fillmore St, San Francisco, CA 94115",4.0,943,[],$$$$,80893
+363,GIl4gBFUknk9HJD3wvQI1Q,Keeva Indian Kitchen,"908 Clement St, San Francisco, CA 94118",4.5,641,"['pickup', 'delivery']",$$,89025
+364,uEucSd4jwY_zb10AcEye_g,SPQR,"1911 Fillmore St, San Francisco, CA 94115",3.5,2026,['delivery'],$$$$,34418
+365,C0whbbQhUMBv8X-Mmtqrcg,House of Nanking,"919 Kearny St, San Francisco, CA 94133",3.5,3616,"['pickup', 'delivery']",$$,884
+366,vMiM0kaavveZZ61lBe-LJg,Plentea,"341 Kearny St, San Francisco, CA 94108",3.5,2046,"['pickup', 'delivery']",$,77760
+367,d40PbnRah7AWH_dclw1h_Q,Rintaro,"82 14th St, San Francisco, CA 94103",4.0,754,['delivery'],$$$,79410
+368,bHSeqavEfBI1ehg6Oyn8uA,Mr Pollo,"2823 Mission St, San Francisco, CA 94110",4.5,620,"['restaurant_reservation', 'delivery']",$$$,77750
+369,-NbDKVqG170J19MqSQ5q_A,The Mill,"736 Divisadero St, San Francisco, CA 94117",4.0,1259,['delivery'],$$,71366
+370,5PGFsnFhDlpYVDI3TRNH6w,Dancing Yak,"280 Valencia St, San Francisco, CA 94103",4.5,613,"['restaurant_reservation', 'pickup', 'delivery']",$$,95177
+371,8GqReA8EJ3UGRuIFbd9jyQ,Chong Qing Xiao Mian,"915 Kearny St, San Francisco, CA 94133",4.0,994,"['pickup', 'delivery']",$$,88082
+372,BRz0ocqDzNlGS-AG1IpXtA,PABU Izakaya San Francisco,"101 California St, San Francisco, CA 94111",4.0,1158,"['pickup', 'delivery']",$$$$,61499
+373,BRz0ocqDzNlGS-AG1IpXtA,PABU Izakaya San Francisco,"101 California St, San Francisco, CA 94111",4.0,1158,"['pickup', 'delivery']",$$$$,61856
+374,BRz0ocqDzNlGS-AG1IpXtA,PABU Izakaya San Francisco,"101 California St, San Francisco, CA 94111",4.0,1158,"['pickup', 'delivery']",$$$$,78426
+375,8bJr4G9QtbJ_tmEbVX6X4A,International Smoke San Francisco,"301 Mission St, San Francisco, CA 94105",4.0,1616,"['pickup', 'delivery']",$$$,39824
+376,u6AFSw9Hawsjhf7hmFdoSg,New Eritrea Restaurant & Bar,"907 Irving St, San Francisco, CA 94122",4.0,801,"['pickup', 'delivery']",$$,3183
+377,humRe1SGupNdDJUxEdDmMg,Rhea's Deli & Market,"800 Valencia St, San Francisco, CA 94110",4.5,678,['delivery'],$,78172
+378,o0SCABG4LGBKmIjiIB6WIQ,The Yellow Submarine,"503 Irving St, San Francisco, CA 94122",4.0,967,"['pickup', 'delivery']",$,65531
+379,UYNswbdsQ5OvwnyY9esxCw,Wooden Spoon,"2172 Market St, San Francisco, CA 94114",4.5,496,['delivery'],$$,93105
+380,3oiMUFH3mqaCqCLJuknILQ,IPOT,"1420 Irving St, San Francisco, CA 94122",4.0,1131,"['pickup', 'delivery']",$$$,81857
+381,Uh932p9MfAXppaXbFPkykA,Mission Rock Resort,"817 Terry Francois Blvd, San Francisco, CA 94158",4.0,1379,"['restaurant_reservation', 'pickup']",$$,69147
+382,Zx_VDLeaFdnMFkGyorDZtQ,St. Francis Fountain,"2801 24th St, San Francisco, CA 94110",4.0,1217,"['pickup', 'delivery']",$$,2421
+383,d02DobgJ7kyspSSHz6NrZA,San Francisco Museum of Modern Art,"151 3rd St, San Francisco, CA 94103",4.0,759,[],,87339
+384,d02DobgJ7kyspSSHz6NrZA,San Francisco Museum of Modern Art,"151 3rd St, San Francisco, CA 94103",4.0,759,[],,95960
+385,N-vfl3FXnj4M7N6jW-1EGA,Frena,"132 6th St, San Francisco, CA 94103",4.5,432,"['pickup', 'delivery']",$$,89728
+386,faI0QUxdkcU15scFi4gKjQ,Lou's Cafe,"1508 Taraval St, San Francisco, CA 94116",4.5,468,"['pickup', 'delivery']",$,79564
+387,j_YtZXamd5GHfL-BhfkiLQ,Live Sushi Bar,"2001 17th St, San Francisco, CA 94103",4.0,1305,"['pickup', 'delivery']",$$,37038
+388,zvIbFkcZwqhTuDF7t7eQsQ,25 Lusk,"25 Lusk St, San Francisco, CA 94107",4.0,1459,['delivery'],$$$,64384
+389,zvIbFkcZwqhTuDF7t7eQsQ,25 Lusk,"25 Lusk St, San Francisco, CA 94107",4.0,1459,['delivery'],$$$,93572
+390,oHuPyoGY7nhCQeprHCv21g,Noe Valley Bakery,"4073 24th St, San Francisco, CA 94114",4.0,871,['delivery'],$$,4434
+391,ZdKUKq7A94x9cEobARf2cA,Breakfast at Tiffany's,"2499 San Bruno Ave, San Francisco, CA 94134",4.0,1022,"['pickup', 'delivery']",$$,78306
+392,DicCVq8FwpfT9lD40B_sxg,Philmore Creamery,"1840 Fillmore St, San Francisco, CA 94115",4.5,324,"['pickup', 'delivery']",$$,95657
+393,3yPTDS6aWaMi4tNHZcf5rw,Grubbin',"1404 Taraval St, San Francisco, CA 94116",4.5,543,"['pickup', 'delivery']",$$,77781
+394,wfa6U2LrTN_Qt9BurOOykw,VeganBurg,"1466 Haight St, San Francisco, CA 94117",4.0,921,"['pickup', 'delivery']",$$,82373
+395,5_ZPjPKZhPYXwGNCaMpxFg,Poc-Chuc,"2886 16th St, San Francisco, CA 94103",4.5,578,"['pickup', 'delivery']",$$,77548
+396,MYl6xxo93hNfy8bR0X9yPw,The Fly Trap,"606 Folsom St, San Francisco, CA 94107",4.0,1069,['pickup'],$$,38479
+397,1ULAxKR5_7RWzQ4CRJD1hg,El Castillito,"136 Church St, Ste 1111, San Francisco, CA 94114",4.0,887,"['pickup', 'delivery']",$$,943
+398,21wF1dQFS2bEL56DuqxRsw,Eats,"50 Clement St, San Francisco, CA 94118",4.0,1260,"['pickup', 'delivery']",$$,61093
+399,BC5aw6Kdt6pxz02du20DyA,Kitava,"2011 Mission St, San Francisco, CA 94110",4.5,561,"['pickup', 'delivery']",$$,90652
+400,EKfHL6O4YqnxYbHlIRHFFA,Luisa's Restaurant Wine Bar Since 1959,"759 Columbus Ave, San Francisco, CA 94133",4.5,653,"['pickup', 'delivery']",$$,101179
+401,muX0aRES6vsp5DEuJaW_uw,Cassava,"3519 Balboa St, San Francisco, CA 94121",4.0,951,"['pickup', 'delivery']",$$$,68493
+402,ReeiGTEamR1ScmzAdH7s4A,West of Pecos,"550 Valencia St, San Francisco, CA 94110",4.0,1096,"['restaurant_reservation', 'delivery']",$$,68963
+403,Ei3hIQpYq9j-F1WhzurFLA,Lucho's,"2675 Ocean Ave, San Francisco, CA 94132",4.5,358,['delivery'],$$,97760
+404,Y3nxgEoxwFJ5miacMzYNXg,Hook Fish,"4542 Irving St, San Francisco, CA 94122",4.5,805,['delivery'],$$,90758
+405,vKBW6SWFrIYXW1kIOFY_Ng,House of Thai,"901 Larkin St, San Francisco, CA 94109",4.0,1486,"['pickup', 'delivery']",$$,64161
+406,6KhSJxwHTQqHiaT35TDkQQ,Shalimar,"532 Jones St, San Francisco, CA 94102",4.0,1464,['delivery'],$$,69665
+407,2nXYpojLdnIWkFW-Xe7B2A,Padrecito,"901 Cole St, San Francisco, CA 94117",4.0,1027,"['pickup', 'restaurant_reservation', 'delivery']",$$,71356
+408,5ugE5Qh_N90PfTzmU_msag,Jin Pot Shabu House,"5158 Geary Blvd, San Francisco, CA 94118",4.5,415,"['pickup', 'restaurant_reservation', 'delivery']",$$$,92029
+409,56gj15LDt8mcDIeKCbu-tg,Oren's Hummus,"71 3rd St, San Francisco, CA 94103",4.0,811,"['pickup', 'restaurant_reservation', 'delivery']",$$,94127
+410,haFRimHPOq90EiTplF4S8A,Cafe Europa,"4318 California St, San Francisco, CA 94118",4.5,528,['pickup'],$$,70641
+411,XANvY_2W7MR6YTyR8CGzWQ,Aslam's Rasoi,"1037 Valencia St, San Francisco, CA 94110",4.0,965,"['pickup', 'delivery']",$$,65487
+412,msn4HQum3OTOgJ7fXH-74Q,ROOH,"333 Brannan St, Ste 150, San Francisco, CA 94107",4.0,1000,"['pickup', 'delivery']",$$$,86484
+413,msn4HQum3OTOgJ7fXH-74Q,ROOH,"333 Brannan St, Ste 150, San Francisco, CA 94107",4.0,1000,"['pickup', 'delivery']",$$$,89722
+414,5zKrxtjKK09F_Dwgs5Kxwg,Lahore Karahi,"612 O'Farrell St, San Francisco, CA 94109",4.0,1464,"['pickup', 'delivery']",$$,69016
+415,XjViuoOVtkQQtPfqdaIHVA,The Pink Elephant,"142 Minna St, San Francisco, CA 94105",4.0,1599,"['pickup', 'restaurant_reservation']",$$$,69397
+416,1CkTVogrU7pmy4pkEFIubw,Trick Dog,"3010 20th St, San Francisco, CA 94110",4.0,848,['delivery'],$$,71149
+417,bNvaWa9wSLHjlFlrD7i9Ow,La Palma Mexicatessen,"2884 24th St, San Francisco, CA 94110",4.5,691,"['pickup', 'delivery']",$,4914
+418,m0ip9nECwVVjfjulwrKisQ,15 Romolo,"15 Romolo Pl, San Francisco, CA 94133",4.0,1075,['delivery'],$$,1844
+419,6ZaqeFEkbArybiCf3yAOlQ,Rolling Out,"1722 Taraval St, San Francisco, CA 94116",4.5,492,['pickup'],$,67567
+420,DL-2iaugPoULjvZ6pyNRAQ,Causwells,"2346 Chestnut St, San Francisco, CA 94123",4.0,858,['delivery'],$$,78338
+421,VYd8UzwlwmX8Db5umNHNig,Hong Kong Lounge,"5322 Geary Blvd, San Francisco, CA 94121",3.5,1726,"['pickup', 'delivery']",$$,99421
+422,2b4YW6ZKXq45TfZA53_zXg,Ted's Market & Deli,"1530 Howard St, San Francisco, CA 94103",4.5,519,"['pickup', 'delivery']",$,4923
+423,7YxKRfOZtsuH702EkyTwtw,The Baked Bear,"303 Columbus Ave, San Francisco, CA 94133",4.5,622,"['pickup', 'delivery']",$,86294
+424,GjIO1jUDyaRwV0nS7WfQ7Q,Bellota,"888 Brannan St, San Francisco, CA 94103",4.0,721,['delivery'],$$$,85709
+425,xeRy4mjZWczet5V9Jtmx1g,Domo,"511 Laguna St, San Francisco, CA 94102",4.0,931,"['pickup', 'delivery']",$$,39513
+426,bLa9Jm04dPersyUN7LFrvw,Pho 2000,"637 Larkin St, San Francisco, CA 94109",4.0,845,['delivery'],$$,99268
+427,KA-P3d2NcbJy5SQN-vCzPA,Aria Korean Street Food,"932 Larkin St, San Francisco, CA 94109",4.0,1089,"['pickup', 'delivery']",$$,69353
+428,Q7_LfqaY3TrDaSIr7lk1TQ,City View Restaurant,"662 Commercial St, San Francisco, CA 94111",4.0,1433,"['pickup', 'delivery']",$$,3510
+429,uzqUJiCHUqV2c3PnvSsqeQ,Caffe Greco,"423 Columbus Ave, San Francisco, CA 94133",4.0,1120,['delivery'],$,473
+430,Xc_ZRIqAbNfUb2m54xnRoA,Jane on Fillmore,"2123 Fillmore St, San Francisco, CA 94115",4.0,1087,"['pickup', 'delivery']",$$,64835
+431,tdPIuXJrcjH17SQn-H_mZw,Magnolia Brewing - Haight,"1398 Haight St, San Francisco, CA 94117",3.5,1809,"['pickup', 'delivery']",$$,93539
+432,OFLNt6Zcis68TlujtZM-Gw,Tacolicious,"741 Valencia St, San Francisco, CA 94110",3.5,1570,"['pickup', 'delivery']",$$,66685
+433,yGEc-cj9Quk5mUh7maoPXA,Freddie's Sandwiches,"300 Francisco St, San Francisco, CA 94133",4.5,539,"['pickup', 'delivery']",$,4465
+434,W01ZzmeWz0vJip3TVDmdyA,The Baked Bear,"2824 Jones St, San Francisco, CA 94133",4.5,433,"['pickup', 'delivery']",$,86283
+435,ZNj4xwodItEfFofNYxMEhw,The Shota,"115 Sansome St, San Francisco, CA 94104",5.0,226,['delivery'],$$$$,82930
+436,ZNj4xwodItEfFofNYxMEhw,The Shota,"115 Sansome St, San Francisco, CA 94104",5.0,226,['delivery'],$$$$,85525
+437,9e2UrZrwbWsTyN3hWyS6Ig,Monsieur Benjamin,"451 Gough St, San Francisco, CA 94102",4.0,1034,['delivery'],$$$,78213
+438,iZCSLA7clUGpUFzRnZtQkw,Sodini's Green Valley Restaurant,"510 Green St, San Francisco, CA 94133",4.0,990,"['pickup', 'delivery']",$$,63121
+439,UU10C7_zKoZZzAvOvz96oQ,Phat Philly,"3388 24th St, San Francisco, CA 94110",4.0,1062,"['pickup', 'delivery']",$$,79025
+440,sPUkCbbBBuEa5bSQE3BR-A,Bi-Rite Market,"550 Divisadero St, San Francisco, CA 94117",4.5,518,['delivery'],$$$,71530
+441,Rfbuh7esixy4_mYWz_vmHQ,Christopher Elbow Chocolates,"401 Hayes St, San Francisco, CA 94102",4.5,490,[],$$$,84888
+442,tkLC24zVhWLCCFQp3NCKMw,Alegrias,"2018 Lombard St, San Francisco, CA 94123",4.0,861,"['restaurant_reservation', 'pickup', 'delivery']",$$,2507
+443,ZXwnSN4GlEuSTNCRrjjRMg,Bite,"912 Sutter St, San Francisco, CA 94104",4.0,837,"['pickup', 'delivery']",$$,59599
+444,2IgUNNcCoUcmhiv5ei-Vlw,Plain Jane,"1000 Guerrero St, San Francisco, CA 94110",4.5,442,"['pickup', 'delivery']",$$,99740
+445,c22FFlw_mGsT1TcgZpOo8w,Higher Grounds Coffee House,"691 Chenery St, San Francisco, CA 94131",4.5,470,"['pickup', 'delivery']",$$,1339
+446,QjnmVuqVArA7d-syiUCiUw,Arinell Pizza,"509 Valencia St, San Francisco, CA 94110",4.0,1228,"['pickup', 'delivery']",$,1081
+447,KH_Tpzy29VRGIrtVhNFY2w,Escape From New York Pizza,"1737 Haight St, San Francisco, CA 94117",4.0,1198,"['pickup', 'delivery']",$,58781
+448,DLjqwgeEd4BxZT7qJKvWUw,The Pawn Shop,"993 Mission St, San Francisco, CA 94103",4.5,385,"['restaurant_reservation', 'pickup', 'delivery']",$$,98222
+449,GoIbbBYDyr8W46YmxJct-g,Sons & Daughters,"708 Bush St, San Francisco, CA 94108",4.0,734,[],$$$$,81974
+450,_RkG6ao09nTYczVfLG-Zrw,The Cavalier,"360 Jessie St, San Francisco, CA 94103",4.0,1075,['delivery'],$$$,75187
+451,AQjSsLrOheQ1snPWtYwv3w,Toyose,"3814 Noriega St, San Francisco, CA 94122",3.5,1637,"['pickup', 'delivery']",$$,69528
+452,f6G4fFuwx_hQOMxvZPmqjw,Wayo Sushi,"1407 Van Ness Ave, San Francisco, CA 94109",4.0,736,['delivery'],$$,323
+453,JPOZ0Uv4UFAjewz9qvIHbg,Miette Patisserie & Confiserie,"449 Octavia St, San Francisco, CA 94102",4.0,705,['delivery'],$$,33084
+454,j5vMS1_MuSm09STC8aHzYg,Caffe Macaroni,"59 Columbus Ave, San Francisco, CA 94133",4.5,590,[],$$,88821
+455,K0r1oltM3JbM14ApsTe_yA,Sixth Course,"1544 15th St, San Francisco, CA 94103",4.5,385,['delivery'],$$,79783
+456,VnU_7mWzHWhmiAPJoQeFeg,El Farolito,"2950 24th St, San Francisco, CA 94110",4.0,905,['delivery'],$,2427
+457,y00vIJzvt1Fveq_Um_9egw,Taqueria Vallarta,"3033 24th St, San Francisco, CA 94110",4.0,891,"['pickup', 'delivery']",$$,98995
+458,kK0s7FAovaLmVDM4D_NdSQ,Good Luck Cafe and Deli,"621 Kearny St, San Francisco, CA 94108",4.5,435,"['pickup', 'delivery']",$,101718
+459,458NXhlB0ZtEaJUPI3PPcA,Tonga Room & Hurricane Club,"950 Mason St, San Francisco, CA 94108",3.5,2837,"['pickup', 'delivery']",$$$,85933
+460,458NXhlB0ZtEaJUPI3PPcA,Tonga Room & Hurricane Club,"950 Mason St, San Francisco, CA 94108",3.5,2837,"['pickup', 'delivery']",$$$,85935
+461,458NXhlB0ZtEaJUPI3PPcA,Tonga Room & Hurricane Club,"950 Mason St, San Francisco, CA 94108",3.5,2837,"['pickup', 'delivery']",$$$,85936
+462,458NXhlB0ZtEaJUPI3PPcA,Tonga Room & Hurricane Club,"950 Mason St, San Francisco, CA 94108",3.5,2837,"['pickup', 'delivery']",$$$,85937
+463,hcGIDuoE0Hn3-XKuICP0mg,Tacolicious,"2250 Chestnut St, San Francisco, CA 94123",3.5,1696,"['pickup', 'delivery']",$$,88139
+464,-ih1LY3Mn1-uc1yPjYpmMA,Thai Nghiep Ky Mi Gia,"1427 Noriega St, San Francisco, CA 94122",4.5,504,['delivery'],$$,99058
+465,iU-XQ4dhII3WF1UKR4XrNQ,Campton Place,"340 Stockton St, San Francisco, CA 94108",4.0,739,['delivery'],$$$$,34221
+466,bvdEOVmFuWUV0sAALc_-zw,Harborview Restaurant & Bar,"4 Embarcadero Ctr, Street Level, San Francisco, CA 94111",4.0,892,['pickup'],$$,98943
+467,aZ_YuxbdMB_ViExPkiXTbg,Osha Thai,"4 Embarcadero Ctr, San Francisco, CA 94111",3.5,2501,"['restaurant_reservation', 'pickup', 'delivery']",$$,98943
+468,Yi37TP021npWZsOPeZ2Xqw,Haight Street Market,"1530 Haight St, San Francisco, CA 94117",4.5,482,"['pickup', 'delivery']",$$,64660
+469,Yi37TP021npWZsOPeZ2Xqw,Haight Street Market,"1530 Haight St, San Francisco, CA 94117",4.5,482,"['pickup', 'delivery']",$$,80961
+470,GzOumj6_QOeQByuc_0yajQ,Z & Y Restaurant,"655 Jackson St, San Francisco, CA 94133",3.5,1952,"['restaurant_reservation', 'pickup', 'delivery']",$$,76477
+471,OSZ6bFeCcv4PvUmvuiMEJw,Little Sweet - Inner Richmond,"3836 Geary Blvd, San Francisco, CA 94118",4.0,824,"['pickup', 'delivery']",$$,81884
+472,3LZRfbnx8bCpHWrRDSIF9g,Sears Fine Food,"439 Powell St, San Francisco, CA 94102",3.5,2085,"['pickup', 'delivery']",$$,3482
+473,BahDyzswTsdaSa8jnOaK-A,Crustacean,"1475 Polk St, Fl 3, San Francisco, CA 94109",3.5,1707,"['restaurant_reservation', 'pickup', 'delivery']",$$$,1144
+474,BahDyzswTsdaSa8jnOaK-A,Crustacean,"1475 Polk St, Fl 3, San Francisco, CA 94109",3.5,1707,"['restaurant_reservation', 'pickup', 'delivery']",$$$,3048
+475,BahDyzswTsdaSa8jnOaK-A,Crustacean,"1475 Polk St, Fl 3, San Francisco, CA 94109",3.5,1707,"['restaurant_reservation', 'pickup', 'delivery']",$$$,65672
+476,EjFsWyScsqh-Fg2ozblYmw,La Corneta Taqueria,"2834 Diamond St, San Francisco, CA 94131",4.0,1232,"['pickup', 'delivery']",$$,69475
+477,v1aUahwzM8CTeLA0O7J8ww,Ristorante Milano,"1448 Pacific Ave, San Francisco, CA 94109",4.0,734,['delivery'],$$$,65833
+478,Wpu06GbaMorLXfbN5s0spg,Mission Street Oyster Bar & Seafood Restaurant,"2282 Mission St, San Francisco, CA 94110",4.0,687,"['restaurant_reservation', 'pickup', 'delivery']",$$,69813
+479,EywuPThEPY-BqhSV9UsvRg,Cracked & Battered - Marina,"2240 Chestnut St, San Francisco, CA 94123",4.5,337,[],$$,95638
+480,iFZuhhzJCfq5qQBOV5LWKw,Mo's Grill,"1322 Grant Ave, San Francisco, CA 94133",4.0,894,['delivery'],$$,480
+481,vAIHU9GjFLSquh4VkFLIhg,Ty Sandwich,"4829 Mission St, San Francisco, CA 94112",4.5,481,"['pickup', 'delivery']",$,102224
+482,QH8WwAYdr3NrH2QwHiPjog,Cha Cha Cha,"2327 Mission St, San Francisco, CA 94110",3.5,2003,['delivery'],$$,89141
+483,LDqA7rQ3fCmPWFymhIXXcQ,Sakesan Sushi & Bistro,"626 Clement St, San Francisco, CA 94118",4.0,1138,"['restaurant_reservation', 'pickup', 'delivery']",$$,65813
+484,0COxcLD-42ecMqBYyoUfyQ,Lupa Trattoria,"4109 24th St, San Francisco, CA 94114",4.0,702,['delivery'],$$,1626
+485,7iuGZ73QExZmZuzH9pgiJg,Johnny Foley's,"243 O'Farrell St, San Francisco, CA 94102",4.0,1347,['delivery'],$$,3796
+486,reXWH9Wo0ZTOuQsTMNOSxg,Fable,"558 Castro St, San Francisco, CA 94114",4.0,693,"['pickup', 'delivery']",$$,71328
+487,TcUhtqRLL-lwSGJmpz415Q,Saffron 685,"685 Townsend St, San Francisco, CA 94103",4.0,859,"['pickup', 'delivery']",$$,27947
+488,w3mpnxz64nU8VwHDLz3S6g,Breadbelly,"1408 Clement St, San Francisco, CA 94118",4.5,381,['delivery'],$$,97975
+489,_ZC_Zvq5DqaPVXIqFzPkBQ,Le Colonial,"20 Cosmo Pl, San Francisco, CA 94109",3.5,1744,"['pickup', 'delivery']",$$$,3935
+490,6h7YCp2KLfbu3tbRmNSb-g,Cioppino's,"400 Jefferson St, San Francisco, CA 94109",3.5,1817,"['pickup', 'delivery']",$$,3120
+491,kUxtjTa2vCSWQvr00YwxQw,Kazan,"2809 24th St, San Francisco, CA 94110",4.5,525,['delivery'],$$,80629
+492,13HilRfX-kXGxMS0BxNlpg,The Pizza Shop,"3104 24th St, San Francisco, CA 94110",4.5,444,"['pickup', 'delivery']",$,75465
+493,sfAIpzEC8ywpy36YhzikmQ,Norman's Ice Cream & Freezes,"2801 Leavenworth St, San Francisco, CA 94133",4.5,386,['delivery'],$,1442
+494,sfAIpzEC8ywpy36YhzikmQ,Norman's Ice Cream & Freezes,"2801 Leavenworth St, San Francisco, CA 94133",4.5,386,['delivery'],$,31
+495,tpuKzQh5d6veDB-M9qU6Fw,ChouChou French Bistro,"400 Dewey Blvd, San Francisco, CA 94116",4.0,1283,"['pickup', 'delivery']",$$$,71476
+496,pv5-sxnpf1K0nGfuUWtD1g,Crown & Crumpet Tea Salon,"1746 Post St, San Francisco, CA 94115",4.0,771,"['restaurant_reservation', 'delivery']",$$,73998
+497,XGHTrreDK35ciuA8R6naNQ,Saison,"178 Townsend St, San Francisco, CA 94107",4.0,581,[],$$$$,70949
+498,2V36BGuNFyrnzYIdsvsehw,Kuma Sushi + Sake,"1040 Polk St, San Francisco, CA 94109",4.5,434,['delivery'],$$,91989
+499,8bySDwY9OU-DWaZebUR7vg,Rocco's Café,"1131 Folsom St, San Francisco, CA 94103",4.0,1057,"['restaurant_reservation', 'pickup', 'delivery']",$$,2995
+500,XVPiXV_TPivnr9szB5kc-A,Birdsong,"1085 Mission St, San Francisco, CA 94103",4.5,343,[],$$$$,94280
+501,aaDHYyIJGa5EFrFT2WAf7Q,Papito Potrero Hill,"1457 18th St, San Francisco, CA 94107",4.0,783,"['pickup', 'delivery']",$$,61460
+502,3MRyd2-Zx9smDLXWPAL3kw,Sushi Hon,"2598 Harrison St, San Francisco, CA 94110",4.5,452,['restaurant_reservation'],$$$$,5301
+503,3MRyd2-Zx9smDLXWPAL3kw,Sushi Hon,"2598 Harrison St, San Francisco, CA 94110",4.5,452,['restaurant_reservation'],$$$$,86475
+504,9nltvO9__dkyRIT17D5TqQ,Palm House,"2032 Union St, San Francisco, CA 94123",4.0,1111,"['pickup', 'delivery']",$$,78747
+505,DhCJ7D47swvT5DdsC0PCGQ,Street Taco,"1607 Haight St, San Francisco, CA 94117",4.0,643,"['pickup', 'delivery']",$$,79052
+506,czbXSfezN_DK8Ws0vcFqhg,Elephant Sushi,"1916 Hyde St, San Francisco, CA 94109",4.0,860,"['pickup', 'delivery']",$$$,69512
+507,IoTaMS3mnLh5vq4nfW1y_A,HOT JOHNNIE’S,"4077 18th St, San Francisco, CA 94114",5.0,247,"['pickup', 'delivery']",$$,66336
+508,OVLexCW4wdYDUc_Oc4NfVw,opa cafe,"2401 Post St, San Francisco, CA 94115",4.5,429,"['pickup', 'delivery']",$$,87451
+509,ziWibyZYvqtrbc7f9v2iPg,DragonEats,"520 Gough St, San Francisco, CA 94102",4.5,460,['delivery'],$,69388
+510,1pq5mmp71nXWBK_jG9VxHg,Golden Star Vietnamese Restaurant,"11 Walter U Lum Pl, San Francisco, CA 94108",4.0,1275,['delivery'],$$,3547
+511,JWsP9ZkE3gNuyk2TkdjzsA,GIO Gelati - San Francisco,"1998 Union St, San Francisco, CA 94123",4.5,295,"['pickup', 'delivery']",$,93822
+512,JPL5OqxmoKGWXZxVSlYkag,Yo Yo's,"318 Pacific Ave, San Francisco, CA 94111",4.5,585,['delivery'],$,4623
+513,EbBEbroBw1k_g5Aqokk0rA,Bean Bag Cafe,"601 Divisadero St, San Francisco, CA 94117",4.0,919,"['pickup', 'delivery']",$$,2374
+514,tk4aeXH7VHhyfTDUaOafyQ,Kinara Fusion Kitchen,"607 Geary St, San Francisco, CA 94102",4.5,358,"['pickup', 'delivery']",$$,100278
+515,CR5_3AHC-CqySDwOrynxWA,Super Duper Burgers,"2201 Chestnut St, San Francisco, CA 94123",4.0,972,['delivery'],$$,66999
+516,R69dsC7QTTf-XwTDJawMHQ,Sift Dessert Bar,"2411 California St, San Francisco, CA 94115",4.0,733,['delivery'],$$,69753
+517,9OKUEFQiWLntDYhpwCaJcg,Fillmore Bakeshop,"1890 Fillmore St, San Francisco, CA 94115",4.0,552,['delivery'],$$,64346
+518,Q7_I2n1Fbza6uyDScaKyOw,Ambrosia Bakery,"2605 Ocean Ave, San Francisco, CA 94132",4.0,647,"['pickup', 'delivery']",$,96110
+519,pgPxVAuijQ5Zwq5QKzWifA,ABV,"3174 16th St, San Francisco, CA 94103",4.0,639,[],$$,78642
+520,cY8-KnCc1LXYw7u9RRkx0w,Teaspoon,"2125 Polk St, San Francisco, CA 94109",4.0,622,"['pickup', 'delivery']",$$,88574
+521,M4G48CR-n5ns-LmGyuLrwA,Boogaloos,"3296 22nd St, San Francisco, CA 94110",4.0,1143,"['pickup', 'delivery']",$$,2426
+522,1bvordoxuK59aoPrOQpA7g,Lucca Delicatessen,"2120 Chestnut St, San Francisco, CA 94123",4.0,730,"['pickup', 'delivery']",$$,4734
+523,1hZO9SO0wXsx3CeeECfNng,Enjoy Vegetarian Restaurant,"754 Kirkham St, San Francisco, CA 94122",4.0,569,"['pickup', 'delivery']",$$,17647
+524,MJ-N4HIVyb59qcHN2zVqMg,Noeteca Wine Bar,"1551 Dolores St, San Francisco, CA 94110",4.5,498,"['pickup', 'delivery', 'restaurant_reservation']",$$,90010
+525,7Cl-sZlymEjhxm0MJTR7nw,Saiwaii Ramen,"2240 Irving St, San Francisco, CA 94122",4.0,1219,"['pickup', 'delivery']",$$,63615
+526,8bR5KSOhxX9UY6PDB8iWOQ,Dianda's Italian American Pastry,"2883 Mission St, San Francisco, CA 94110",4.0,678,['delivery'],$$,7786
+527,1FZM1wOnjMYg0KPSD9qTjg,Poesia,"4072 18th St, San Francisco, CA 94114",4.0,846,['pickup'],$$$,36614
+528,5DeL87rp02kT8xHn1CJS1g,Jasmine Garden,"708 14th St, San Francisco, CA 94114",4.0,696,"['pickup', 'delivery']",$$,38070
+529,sW7WYYrHEvR8yEYxautAgQ,Mission Chinese Food,"2234 Mission St, Lung Shan Restaurant, San Francisco, CA 94110",3.5,2361,"['pickup', 'delivery']",$$,78215
+530,YPX6pxEduWqc_O5htEmTnQ,Brothers Restaurant,"4128 Geary Blvd, San Francisco, CA 94118",4.0,1267,['delivery'],$$,39119
+531,WKJzi4g1OGp1nW_6ZJD_rQ,Za Pizza,"1919 Hyde St, San Francisco, CA 94109",4.0,1186,['delivery'],$$,2053
+532,2E9O-p-lp587aOMnpLepkQ,JIJIME,"5524 Geary Blvd, San Francisco, CA 94121",4.5,452,"['pickup', 'delivery']",$$,93187
+533,AdupguljIIejtEOnExddkQ,Tanguito,"2850 Jones St, San Francisco, CA 94133",4.0,637,['delivery'],$$,38307
+534,SZs2L7N1tNSsFEdbdEvcdw,Crostini & Java,"899 Hyde St, San Francisco, CA 94109",5.0,266,"['pickup', 'delivery']",$$,89138
+535,b3mmxh_9aw25vkMmujG9jQ,Esperpento,"3295 22nd St, San Francisco, CA 94110",3.5,1371,"['pickup', 'delivery']",$$,1584
+536,5VNDT0bMIytE1GpEb6jSxA,Twisted Donuts and Coffee,"1243 Noriega St, San Francisco, CA 94122",4.5,518,['delivery'],$,79407
+537,vsNXAscvm-FIU423Cy874w,OSHA Thai Noodle Cafe,"696 Geary St, San Francisco, CA 94102",3.5,1703,"['pickup', 'delivery']",$$,1741
+538,if7l8HVMz7kmW0tG9l2LQA,E&O Kitchen and Bar,"314 Sutter St, San Francisco, CA 94108",4.0,1150,['delivery'],$$,88475
+539,xaYfmUNTchH56sdxjHulfg,Zen Yai Thai Restaurant,"771 Ellis St, San Francisco, CA 94109",4.0,773,"['pickup', 'delivery']",$,95900
+540,tKmqlKWOMMiU8pn0gLliXA,Flores,"2030 Union St, San Francisco, CA 94123",4.0,809,"['delivery', 'restaurant_reservation']",$$,89775
+541,M53h93nLRlBsoXmi19jCBQ,Paprika,"3324 24th St, San Francisco, CA 94110",4.5,438,"['pickup', 'delivery', 'restaurant_reservation']",$$,78762
+542,7SRJWnPVRxwqke3d82qefw,Java Beach Café,"1396 La Playa St, San Francisco, CA 94122",4.0,1151,"['pickup', 'delivery']",$$,961
+543,1HaGgUlxYAmvfgGyX68oPw,Iza Ramen Lower Haight,"237 Fillmore St, San Francisco, CA 94117",4.0,771,"['pickup', 'delivery']",$$,83994
+544,NI49vg3BRErnPDDytqgkYQ,Nabe,"1325 9th Ave, San Francisco, CA 94122",4.0,553,"['pickup', 'delivery']",$$,88577
+545,6o0GBaGjWfBkAWFU0Qb6Hw,Boba Guys,"8 Octavia St, San Francisco, CA 94102",4.0,573,[],$,85809
+546,0Rvlt2sukMzpHNAIxC_5Ug,Daigo Sushi,"2450 Clement St, San Francisco, CA 94121",4.0,548,"['pickup', 'delivery']",$$,69957
+547,YZrl7W2dewBb-T7e-BxAkQ,Nara,"1515 Polk St, San Francisco, CA 94109",4.5,429,['restaurant_reservation'],$$,91453
+548,tS2ka1uSjwo7jdWIWDpuCw,New Taraval Cafe,"1054 Taraval St, San Francisco, CA 94116",4.5,566,['delivery'],$$,82100
+549,yVN5m2ARIT3kcLCG8EVglQ,Ginza Sushi & Sake,"1793 Haight St, San Francisco, CA 94117",4.0,551,"['pickup', 'delivery']",$$,86073
+550,A0AG2SpXxkIyq6x8HyTuSA,Kaiju Eats Ramen and Izakaya,"3409 Geary Blvd, San Francisco, CA 94118",4.0,857,['pickup'],$$,84656
+551,-Wei8JiA-RBzuSnO_9X0FQ,Rooster & Rice,"2211 Filbert St, San Francisco, CA 94123",4.5,489,"['pickup', 'delivery']",$$,94722
+552,KutHWQT6Ha5ZRplvZ5mLXg,Toyama Sushi,"3727 Geary Blvd, San Francisco, CA 94118",4.5,340,"['pickup', 'delivery']",$$,94959
+553,NZI303NL5iVqOCxZKCfCYQ,District San Francisco,"216 Townsend St, San Francisco, CA 94107",4.0,1187,"['pickup', 'delivery']",$$,24534
+554,RLuVFabZ6BR-BzBPmI1Uzg,Cafe La Flore Irving,"1340 Irving St, San Francisco, CA 94122",4.5,479,"['pickup', 'delivery']",$$,68909
+555,8oAsGZNNLvIW3CvLcFUPMw,Muguboka Restaurant,"401 Balboa St, San Francisco, CA 94118",4.0,800,['delivery'],$$,97882
+556,oa6ZaLdQNzZHP7--gxBh2g,California Fish Market Restaurant,"550 Green St, San Francisco, CA 94133",4.5,413,"['pickup', 'restaurant_reservation', 'delivery']",$$,100866
+557,o9KZAEgORSys5J4oqiGtEg,Taqueria El Buen Sabor,"699 Valencia St, San Francisco, CA 94110",4.0,646,"['pickup', 'delivery']",$,1296
+558,mpuhp2b83qNAKcE19-dSjQ,Terzo,"3011 Steiner St, San Francisco, CA 94123",4.0,672,['delivery'],$$$,18805
+559,1Jd60TVbJ4YxK7Hv0sTObQ,District Tea,"2154 Mission St, San Francisco, CA 94110",4.5,324,"['pickup', 'delivery']",$$,100992
+560,RYQBuRLmBs1K1zTOAHPoQQ,Niku Steakhouse,"61 Division St, San Francisco, CA 94103",4.5,411,['delivery'],$$$$,98114
+561,t6TROjhvQzXJEhjI_nm08g,Ly's Vietnamese Cuisine,"1779 Lombard St, San Francisco, CA 94123",4.5,527,['pickup'],$$,83403
+562,pDe8b2Y2615M-2NhHRa-4w,San Francisco Wine & Cheese,"141 Gough St, San Francisco, CA 94102",5.0,163,"['pickup', 'delivery']",$$,96598
+563,e3WDNQMYpLdMEmM2UV13rA,A16,"2355 Chestnut St, San Francisco, CA 94123",3.5,2104,"['pickup', 'delivery']",$$$,10668
+564,v5zt16ojbtRIU0I7VzqqVA,Vega,"419 Cortland Ave, San Francisco, CA 94110",4.0,686,"['pickup', 'delivery']",$$,95
+565,bGI_oq-DVPo2bWJZxDf9gw,Sai Jai Thai Restaurant,"771 O'Farrell St, San Francisco, CA 94109",4.0,943,['delivery'],$,1734
+566,Uwixn8SsCURqEoKy56frqg,Uncle Benny's Donut and Bagel,"2049 Irving St, San Francisco, CA 94122",4.5,427,"['pickup', 'delivery']",$$,78063
+567,wdqRLypbCo7KCyhLNB8mIQ,Souvla,"531 Divisadero St, San Francisco, CA 94117",4.0,520,['delivery'],$$,87401
+568,eezje_7Lvt4BymqFA8mAXQ,Barzotto,"1270 Valencia St, San Francisco, CA 94110",4.0,748,"['pickup', 'delivery']",$$,88113
+569,0PLv5h5eRTG6fuWLpUmf4A,Brazen Head,"3166 Buchanan St, San Francisco, CA 94123",4.0,810,"['pickup', 'delivery']",$$,665
+570,vp1VTH08YSA9O9w6ej-G0A,Puerto Alegre,"546 Valencia St, San Francisco, CA 94110",4.0,1108,"['pickup', 'delivery']",$$,2980
+571,KqGOvG1m5jgDL-pKGXEoNQ,The Morris,"2501 Mariposa St, San Francisco, CA 94110",4.5,339,['delivery'],$$$,87203
+572,t59A7qRhxh8nifGAqc9zlg,Irving Subs,"1298 12th Ave, San Francisco, CA 94122",4.5,425,"['pickup', 'delivery']",$$,92242
+573,2FR395iJImCphQNGWubUtw,Champa Garden,"613 Faxon Ave, San Francisco, CA 94112",4.0,909,"['pickup', 'delivery']",$$,75402
+574,hak3kl6F0AHR3nau6Q9kvQ,Moscow & Tbilisi Bakery Store,"5540 Geary Blvd, San Francisco, CA 94121",4.0,630,"['pickup', 'delivery']",$,3189
+575,RJjuozKTsgwPNa429tnxbg,The Cheese Steak Shop,"1716 Divisadero St, San Francisco, CA 94115",4.0,1013,"['pickup', 'delivery']",$$,94703
+576,O2y-CyIsJz8f_6f-MJuKIA,Chambers,"601 Eddy St, San Francisco, CA 94109",4.0,997,"['pickup', 'delivery']",$$,65829
+577,owj5tzY8w8zXSXza_LS8NQ,Hôtel Biron,"45 Rose St, San Francisco, CA 94102",4.0,586,[],$$,99369
+578,wBvDeIMjm_bq7dfyyusAwg,Purple Kow,"3620 Balboa St, San Francisco, CA 94121",3.5,2490,['delivery'],$$,94928
+579,8FEy6ZgLlP9RlE_C_6KpKw,Uva Enoteca,"568 Haight St, San Francisco, CA 94117",4.0,949,"['pickup', 'delivery']",$$,36758
+580,xRxqebiQobZqJIRtDxnZsA,AL's Place,"1499 Valencia St, San Francisco, CA 94110",4.0,903,['delivery'],$$$,80669
+581,a5m_BP44_9mtD0QEfeuKeA,Gallardos Mexican Restaurant,"3248 18th St, San Francisco, CA 94110",4.0,510,['delivery'],$$,74374
+582,8aqzfjnuT5LhuveW3e6CoA,Octavia,"1701 Octavia St, San Francisco, CA 94109",4.0,628,['delivery'],$$$,81812
+583,qp5AET3U6_BG1fM4TkPvng,Beep’s Burgers,"1051 Ocean Ave, San Francisco, CA 94112",4.0,843,[],$$,78996
+584,tWjWAyRbodjg3YPuvdzVdg,Yank Sing,"49 Stevenson St, San Francisco, CA 94105",3.5,1679,[],$$$,3200
+585,w5BLpD2_aj9gyTMiStJ65Q,Arabian Nights Restaurant,"2345 Mission St, San Francisco, CA 94110",4.0,745,"['pickup', 'delivery']",$$,66400
+586,K24TuqugeeJVkaFkS166BA,Yuanbao Jiaozi,"2110 Irving St, San Francisco, CA 94122",4.5,459,['delivery'],$$,94318
+587,kM64kcWiK3TqhB0HeAUGeg,The Black Horse London Pub,"1514 Union St, San Francisco, CA 94123",4.5,333,"['pickup', 'delivery']",$,1323
+588,9KWOjTaw5aRWOl3Uyr-VIQ,The Game Parlour,"1342 Irving St, San Francisco, CA 94122",4.5,317,"['pickup', 'delivery']",$$,101717
+589,MDTJK0mH5Xc14aCwNuMg7Q,Uncle Vito's Pizza,"700 Bush St, San Francisco, CA 94108",4.0,1318,['delivery'],$$,1565
+590,GNzoAOXPxP0UzW7fb51dNg,Giorgio's Pizzeria,"151 Clement St, San Francisco, CA 94118",4.0,1086,"['pickup', 'delivery']",$$,3218
+591,JJnkXwf96vh1Uu7XZWZZAg,Cafe Jacqueline,"1454 Grant Ave, San Francisco, CA 94133",4.0,673,['delivery'],$$$$,845
+592,agUov63fwIufCj8t6pCivg,Leleka,"40 Belden Pl, San Francisco, CA 94104",4.5,262,"['pickup', 'delivery']",$$,1692
+593,LaMFre26m58W-ZmAHsjEKA,Ocean Indian Cuisine,"6127 Geary Blvd, San Francisco, CA 94121",5.0,201,"['pickup', 'delivery']",$$,62765
+594,HVNt7yBWN-uTPwm-G_cicA,Handy Deli,"1815 Irving St, San Francisco, CA 94122",4.5,279,"['pickup', 'delivery']",$,33173
+595,RidAKsznqdoeg8Vbg5aaHw,LaLe,"731 Irving St, San Francisco, CA 94122",4.0,552,"['pickup', 'delivery']",$$,81135
+596,2PRgMkqX2dRrcuaJEi_1Rg,A La Turca,"869 Geary St, San Francisco, CA 94109",4.0,859,"['pickup', 'delivery']",$$,2110
+597,48jDL_PmclHPRW9txNrSDw,Balompie Cafe,"3349 18th St, San Francisco, CA 94110",4.0,713,"['pickup', 'delivery']",$$,2648
+598,FkmficKyZxewFcG5H2FcNg,Okoze Sushi,"1207 Union St, San Francisco, CA 94109",4.0,675,['delivery'],$$$,2469
+599,GjdLppkFQODOiV4DQZ5EyA,Victor's Pizzeria & Italian Restaurant,"1411 Polk St, San Francisco, CA 94109",4.0,1058,"['pickup', 'delivery']",$$,3031
+600,dglMkHYfCycYX3MX92oFxg,The Dorian,"2001 Chestnut St, San Francisco, CA 94123",4.0,853,"['pickup', 'delivery']",$$,84619
+601,IdqBJvRIA0YPwLZaoUNM0w,Waraku,"1638 Post St, San Francisco, CA 94115",4.0,961,"['pickup', 'delivery']",$$,71430
+602,Pvr9hnB4RP54crj4gdTUag,Kasa Indian Eatery,"4001 18th St, San Francisco, CA 94114",3.5,1120,"['pickup', 'delivery']",$,36876
+603,XUOaN3QKGTBkNf3CMuztYg,Vital Tea Leaf,"1044 Grant Ave, San Francisco, CA 94133",4.5,369,['delivery'],$$,15806
+604,f7plDqr6Dfu-Vbo-0JBmcw,Kung Food,"1615 McAllister St, San Francisco, CA 94115",4.0,617,"['pickup', 'delivery']",$$,82022
+605,wNcShx5YTSMvOxt6G0iA9w,The Sycamore,"2140 Mission St, San Francisco, CA 94110",4.0,774,"['pickup', 'delivery']",$$,64076
+606,kjckqShnIlDeraGJM3Nw4w,O-Toro Sushi,"205 Oak St, San Francisco, CA 94102",4.0,882,"['pickup', 'delivery']",$$,100328
+607,B61vZd9neTI8F7zZ-vApmw,The Boys’ Deli,"2222 Polk St, Polk & Green Produce Market, San Francisco, CA 94109",4.5,363,"['pickup', 'delivery']",$$,6864
+608,Z_X0WvSmh9DUxBD9xhet9Q,Sam Wo Restaurant,"713 Clay St, San Francisco, CA 94108",4.0,1165,"['pickup', 'delivery']",$,92825
+609,QQwsy-M3O5w6FSPaVFJ3uQ,Brioche Bakery & Cafe,"210 Columbus Ave, San Francisco, CA 94133",4.0,593,"['pickup', 'delivery']",$$,75523
+610,ZiTRspDPY9T_kh4tQDwDMQ,Pacific Cafe,"7000 Geary Blvd, San Francisco, CA 94121",4.0,785,['delivery'],$$,98176
+611,TdXsIPBVRLP3DR-A3sKdpg,Tartine Manufactory,"595 Alabama St, San Francisco, CA 94110",3.5,1364,['delivery'],$$,86358
+612,fzhWuy8DD4Gr9HwDLaWISA,Panchita's Restaurant,"3091 16th St, San Francisco, CA 94103",4.0,813,['delivery'],$$,19003
+613,9hkKmtG2BruWwrqltt0Klg,Chai Bar By David Rio,"1019 Market St, San Francisco, CA 94103",4.5,478,"['pickup', 'delivery']",$,82009
+614,eQHepA7u_mb-0TIb8t8EXQ,La Traviata,"2854 Mission St, San Francisco, CA 94110",4.0,603,"['pickup', 'delivery']",$$,2359
+615,a-Lf60V3BDdS27la95VQWA,Hodala,"5801 Geary Blvd, San Francisco, CA 94121",4.0,626,"['pickup', 'delivery']",$$,93913
+616,eG5VcB6XuSp-C1mAggD_Cg,Piperade,"1015 Battery St, San Francisco, CA 94111",4.0,904,['delivery'],$$$,786
+617,J-gFvT4B5UoZgoEOAmxNxw,Rosamunde Sausage Grill,"2832 Mission St, San Francisco, CA 94110",4.0,992,"['pickup', 'delivery']",$$,61736
+618,gwuCZV_4nIwevDenicG8tw,Heirloom Cafe,"2500 Folsom St, San Francisco, CA 94110",4.0,507,['delivery'],$$$,62487
+619,LkKjTQOZECM8vqaD3kSDoA,RT Rotisserie,"101 Oak St, San Francisco, CA 94102",4.0,533,[],$$,91191
+620,jhVo92kIQSPFQTzBaIhP6w,Bullshead Restaurant,"840 Ulloa St, San Francisco, CA 94127",4.0,873,['delivery'],$$,1950
+621,Y-9BkxtSP_X1PzzWMSgcKQ,Nook,"1500 Hyde St, San Francisco, CA 94109",4.0,733,['delivery'],$$,93536
+622,DP2HJpQ0lOrrY8efqB69aA,Boho Restaurant,"3321 Steiner St, San Francisco, CA 94123",4.5,286,"['pickup', 'delivery']",$$,93168
+623,V8wOXvAbS9ghCMuYlPQVww,SPRO,"601 Mission Bay Blvd N, San Francisco, CA 94158",4.5,259,"['pickup', 'delivery']",$,98309
+624,sjj1TvKV1RYEjYhuLlXe0w,4505 Burgers & BBQ - San Francisco,"705 Divisadero St, San Francisco, CA 94117",3.5,1809,"['pickup', 'delivery']",$$,76962
+625,vsiJDU-0_cdYrf1Otawtbw,Piqueo's,"830 Cortland Ave, San Francisco, CA 94110",4.0,724,['delivery'],$$$,34708
+626,y8mGQTwmFaSu3d7dAywOHA,Teeth,"2323 Mission St, San Francisco, CA 94110",3.5,1050,"['delivery', 'pickup']",$$,66704
+627,DaOQgNk4LjN2gbvYrLQGvA,Rise & Grind Coffee and Tea,"785 8th Ave, San Francisco, CA 94118",4.5,367,"['delivery', 'pickup']",$$,99085
+628,RMD2w2KYa4Vm5EYZ6UCu4Q,Cheese Boutique,"660 Chenery St, San Francisco, CA 94131",5.0,200,['delivery'],$,69291
+629,SO7w-fN6uIBUEzkakrcxoQ,Ushi Taro Ramen,"1382 9th Ave, San Francisco, CA 94122",4.5,365,"['delivery', 'pickup']",$$,96451
+630,HjKRwtL3gZ2RL3KQULXKsA,The Velo Rouge Cafe,"798 Arguello Blvd, San Francisco, CA 94118",4.0,748,"['delivery', 'pickup']",$,99761
+631,5o24fe7v2Z0dgt3TCkZ1ww,Milkbean,"881 Post St, San Francisco, CA 94109",4.5,289,"['delivery', 'pickup']",$,89643
+632,9acPdpguULGPbChPwpS3aw,Ragazza,"311 Divisadero St, San Francisco, CA 94117",4.0,708,"['restaurant_reservation', 'delivery']",$$,64057
+633,GmHNkpAaypi9jclaLI7sDQ,Fermentation Lab,"1230 Market St, San Francisco, CA 94102",4.5,301,"['delivery', 'pickup']",$$,89865
+634,lbH9iQJM4wwgPQI2RL1oPg,The Tipsy Pig,"2231 Chestnut St, San Francisco, CA 94123",3.5,1621,"['restaurant_reservation', 'delivery', 'pickup']",$$,58861
+635,9QXEJdRizwCYBjGX_go_Qw,Pho Phu Quoc PPQ Beef Noodle House Restaurant,"1816 Irving St, San Francisco, CA 94122",3.5,1454,"['delivery', 'pickup']",$$,38808
+636,OpBTLNaGnGcn8DRsLcEfQQ,Maykadeh,"470 Green St, San Francisco, CA 94133",4.0,982,"['delivery', 'pickup']",$$,483
+637,r_jnIM3ziVhCUKMI3iQ6WQ,Aicha Moroccan Cuisine,"1303 Polk St, San Francisco, CA 94109",4.0,556,"['delivery', 'pickup']",$$,59949
+638,WtA7XYzBFhZ5LPbSihEWkw,Akira Japanese Restaurant,"1634 Bush St, San Francisco, CA 94109",4.0,459,"['delivery', 'pickup']",$$,88688
+639,nGet0Wd9KwkF2OMoOSP0yg,Oasis Cafe,"901 Divisadero St, San Francisco, CA 94115",4.5,314,[],$$,59179
+640,nGet0Wd9KwkF2OMoOSP0yg,Oasis Cafe,"901 Divisadero St, San Francisco, CA 94115",4.5,314,[],$$,79267
+641,0a22L8UI1KEy8-VxMnfqaQ,Darren's Cafe,"2731 Taylor St, San Francisco, CA 94133",4.0,655,"['delivery', 'pickup']",$$,69849
+642,6Ux8vMV2-jd6rRR_bnTvfg,Happy Lamb Hot Pot,"405 Mason St, San Francisco, CA 94102",4.0,669,"['delivery', 'pickup']",$$,76874
+643,A9QDUzIGMcybhLhtPDSN4A,Gaspare's Pizza House & Italian Restaurant,"5546 Geary Blvd, San Francisco, CA 94121",4.0,988,['delivery'],$$,1389
+644,JbY2ui85qe5JZ2eRuc6vnQ,ENO Wine Bar,"320 Geary St, San Francisco, CA 94102",4.5,445,['delivery'],$$,71962
+645,SxHKYiRVnMd9BnTEaEB-FA,Chic n' Time,"807 Valencia St, San Francisco, CA 94110",5.0,157,"['delivery', 'pickup']",$$,2317
+646,agq8VUqVQ_Y3dZh6-IjeIg,MaMa Ji's,"4416 18th St, San Francisco, CA 94114",4.0,835,['delivery'],$$,69782
+647,iXjbvsGyhGttLRaV6shP1g,Credo,"360 Pine St, San Francisco, CA 94104",4.0,897,['pickup'],$$$,61635
+648,e3gcKXKhSFYs5fn9FoeG2A,KoJa Kitchen,"343 Clement St, San Francisco, CA 94118",4.0,675,"['delivery', 'pickup']",$$,78934
+649,SAxC2Qim3Zd_GmTRKJOqiQ,Viva Goa,"2420 Lombard St, San Francisco, CA 94123",4.0,569,"['delivery', 'pickup']",$$,63256
+650,TDG3DA5JtG3fdt4tqYJ94g,Sheba Piano Lounge,"1419 Fillmore St, San Francisco, CA 94115",4.0,630,['delivery'],$$,18606
+651,atXwmmJOrBLOaq-OROY2EA,Chutney,"511 Jones St, San Francisco, CA 94102",3.5,1280,"['delivery', 'pickup']",$$,71065
+652,0l7MgfpsIi2-vTuCVdDccg,Mochica,"1469 18th St, San Francisco, CA 94107",4.0,700,"['delivery', 'pickup']",$$,79989
+653,lz8Kn4blqgUUV3vMBsM_AQ,Asha Tea House,"17 Kearny St, San Francisco, CA 94108",4.0,635,['delivery'],$,82892
+654,gVikx9Ad2aAVv0BXnJJPKw,Goat Hill Pizza,"300 Connecticut St, San Francisco, CA 94107",3.5,1284,"['delivery', 'pickup']",$$,2156
+655,QxHtdBOe3Kppf8tEd2Wm6A,Great Eastern Restaurant,"649 Jackson St, San Francisco, CA 94133",3.5,2167,"['restaurant_reservation', 'delivery', 'pickup']",$$,3529
+656,HCTOtXfbGDTcYsnE_gl35Q,Brickhouse Bar & Grill,"426 Brannan St, San Francisco, CA 94107",3.5,1204,"['delivery', 'pickup']",$$,98974
+657,1fgmqu-VXQ2QX1FII89g3g,Red Chilli,"522 Jones St, San Francisco, CA 94102",4.0,534,"['delivery', 'pickup']",$$,74210
+658,rCvlMbXLuZUTw5vNQzqlrQ,Saucy Asian,"3801 17th St, San Francisco, CA 94114",4.0,397,"['delivery', 'pickup']",$$,85917
+659,73VFNuKCwyDzkvyPZ0pIUA,Pampanguena Cuisine,"4441 Mission St, San Francisco, CA 94112",4.5,383,['delivery'],$$,62179
+660,fQdVnPck_6cOOxO36hweeA,The Social Study,"1795 Geary Blvd, San Francisco, CA 94115",4.0,483,['delivery'],$$,67862
+661,1vziY3pKZlmDkaGfcNncXw,Cake Coquette,"1501 Cortland Ave, San Francisco, CA 94110",4.5,241,[],$$,66202
+662,1vziY3pKZlmDkaGfcNncXw,Cake Coquette,"1501 Cortland Ave, San Francisco, CA 94110",4.5,241,[],$$,89191
+663,1vziY3pKZlmDkaGfcNncXw,Cake Coquette,"1501 Cortland Ave, San Francisco, CA 94110",4.5,241,[],$$,90818
+664,1vziY3pKZlmDkaGfcNncXw,Cake Coquette,"1501 Cortland Ave, San Francisco, CA 94110",4.5,241,[],$$,91244
+665,1vziY3pKZlmDkaGfcNncXw,Cake Coquette,"1501 Cortland Ave, San Francisco, CA 94110",4.5,241,[],$$,91450
+666,1vziY3pKZlmDkaGfcNncXw,Cake Coquette,"1501 Cortland Ave, San Francisco, CA 94110",4.5,241,[],$$,98184
+667,u-pywNLq06dgqR48kbFR9w,One Market Restaurant,"1 Market St, San Francisco, CA 94105",3.5,1364,"['delivery', 'pickup']",$$$,3082
+668,u-pywNLq06dgqR48kbFR9w,One Market Restaurant,"1 Market St, San Francisco, CA 94105",3.5,1364,"['delivery', 'pickup']",$$$,389
+669,u-pywNLq06dgqR48kbFR9w,One Market Restaurant,"1 Market St, San Francisco, CA 94105",3.5,1364,"['delivery', 'pickup']",$$$,68249
+670,u-pywNLq06dgqR48kbFR9w,One Market Restaurant,"1 Market St, San Francisco, CA 94105",3.5,1364,"['delivery', 'pickup']",$$$,81647
+671,u-pywNLq06dgqR48kbFR9w,One Market Restaurant,"1 Market St, San Francisco, CA 94105",3.5,1364,"['delivery', 'pickup']",$$$,82653
+672,u-pywNLq06dgqR48kbFR9w,One Market Restaurant,"1 Market St, San Francisco, CA 94105",3.5,1364,"['delivery', 'pickup']",$$$,84715
+673,u-pywNLq06dgqR48kbFR9w,One Market Restaurant,"1 Market St, San Francisco, CA 94105",3.5,1364,"['delivery', 'pickup']",$$$,85047
+674,u-pywNLq06dgqR48kbFR9w,One Market Restaurant,"1 Market St, San Francisco, CA 94105",3.5,1364,"['delivery', 'pickup']",$$$,86344
+675,u-pywNLq06dgqR48kbFR9w,One Market Restaurant,"1 Market St, San Francisco, CA 94105",3.5,1364,"['delivery', 'pickup']",$$$,87628
+676,rBwyayyqFMD8chqenrRxag,Golden Coffee Shop,"901 Sutter St, San Francisco, CA 94109",4.0,486,"['delivery', 'pickup']",$,95539
+677,xLBkrh4Aie9iPCobGfFzog,Caffe Ambrosia,"14 Trinity Pl, San Francisco, CA 94104",4.5,316,['delivery'],$,428
+678,xe6IZGzW8fgxalv6RCBS5A,i-Tea,"253 Kearny St, San Francisco, CA 94108",4.0,579,"['delivery', 'pickup']",$,84040
+679,EJT4D7B5__hwzdF6eE8Byg,Calabria Bros,"4763 Mission St, San Francisco, CA 94112",5.0,190,['delivery'],$$,68219
+680,jLjbntnlmxsX8gsOxZVUcQ,RAW Sugar Factory,"525 Valencia St, San Francisco, CA 94110",4.0,710,"['restaurant_reservation', 'delivery', 'pickup']",$$,90568
+681,5hGdrv-6iKWTLty3kugopw,Chalos,"2240 Taraval St, San Francisco, CA 94116",4.5,357,"['delivery', 'pickup']",$$,97065
+682,cnjPZ4eI2lHTHIPlbHk9HQ,Philz Coffee,"4298 24th St, San Francisco, CA 94114",4.5,328,['delivery'],$$,68079
+683,8Bft7em9yWBFueVFp76fuw,The Spice Jar,"2500 Bryant St, San Francisco, CA 94110",4.0,428,"['delivery', 'pickup']",$$,83472
+684,kvXDYmfrjINaH4k5uS9emw,Yemen Kitchen,"219 Jones St, San Francisco, CA 94102",4.5,246,"['delivery', 'pickup']",$$,90487
+685,_CY0LgS5OOBhImGNeWwHWg,Robin,"620 Gough St, San Francisco, CA 94102",4.0,458,['delivery'],$$$$,91502
+686,5D--FJXQHdC3kZWYm2GREg,Barcha,"28 Fremont St, San Francisco, CA 94105",4.0,616,"['delivery', 'pickup']",$$$,84124
+687,66khyY7kxNKiW6x7anZj9g,Il Pollaio,"555 Columbus Ave, San Francisco, CA 94133",4.5,403,['delivery'],$$,477
+688,E4FkDzb2W1kKGiBT6df4hg,Bernie's,"3966 24th St, San Francisco, CA 94114",4.5,366,['delivery'],$$,35464
+689,sfqkkqFmmYGOT0PCbbD9ZQ,Pearl 6101,"6101 California St, San Francisco, CA 94121",4.5,365,['delivery'],$$,95114
+690,XhbkZ-5nUJ3bRy7uKPx7iQ,Mr Szechuan,"890 Taraval St, San Francisco, CA 94116",4.5,414,"['delivery', 'pickup']",$$,86718
+691,I3GNU1b9NCaPbts6art1WQ,Outpost,"1052 Folsom St, San Francisco, CA 94103",4.0,625,"['delivery', 'pickup']",$$,61390
+692,2EGucgCJbPhkHjPTnZCzrg,El Farolito,"4817 Mission St, San Francisco, CA 94112",4.0,719,['delivery'],$,827
+693,zEO6_VcwjjmtHsoaaQKg-w,Begoni Bistro,"615 Jackson St, San Francisco, CA 94133",4.0,873,"['restaurant_reservation', 'pickup']",$$,76876
+694,gg--F2Z-X2Qh1fkkm1ODHA,Pat's Cafe,"2330 Taylor St, San Francisco, CA 94133",4.0,793,"['delivery', 'pickup']",$$,1852
+695,jRfeqEGCdAf8p5deEUbmXw,Lime Tree Southeast Asian Kitchen,"836 Clement St, San Francisco, CA 94118",4.5,389,"['delivery', 'pickup']",$$,91250
+696,jBdCBZc7-ab7c2tpoIEWJw,Cocobang,"550 Taylor St, San Francisco, CA 94102",3.5,1048,"['delivery', 'pickup']",$$,21921
+697,C7e1ZvLk-X3vGmZj5fuUAQ,Kim Son Vietnamese Restaurant,"3614 Balboa St, San Francisco, CA 94121",4.0,759,['delivery'],$$,18102
+698,CS6NaMbTlzD-9yc3DBBrKw,El Burrito Express,"1812 Divisadero St, San Francisco, CA 94115",4.0,800,['pickup'],$$,628
+699,SEuHSFDOoux4MqusTQPNMw,John's Grill,"63 Ellis St, San Francisco, CA 94102",3.5,1443,['delivery'],$$$,72171
+700,np1YpFt9GfX-umR1ZKx_uA,The Jelly Donut,"3198 24th St, San Francisco, CA 94110",4.5,288,[],$,38929
+701,AQviX2W0XXJqYtc73KaNxQ,Marcello's Pizza,"420 Castro St, San Francisco, CA 94114",4.0,745,"['delivery', 'pickup']",$,902
+702,aPWsJK-BuGQftRY5WECmAw,Pho Tan Hoa,"431 Jones St, San Francisco, CA 94102",4.0,647,['delivery'],$$,33113
+703,_zfxJqH3XZ65X8sNYVKGqg,Pa'ina Lounge & Restaurant,"1865 Post St, San Francisco, CA 94115",4.0,714,"['delivery', 'pickup']",$$,84982
+704,jU7vhPz-vUmjMlxMf9cTXA,Alnico,"1050 Valencia St, San Francisco, CA 94110",4.5,302,['restaurant_reservation'],$$,96600
+705,y83gtVEEIpYw6H9kna9WIw,Tortas Los Picudos,"2969 24th St, San Francisco, CA 94110",4.5,329,"['delivery', 'pickup']",$$,62739
+706,uAVg1yq5kb3Ia2Ve5_K5HQ,The Sandwich Place,"2029 Mission St, San Francisco, CA 94110",4.5,294,"['pickup', 'delivery']",$,1075
+707,hEXhf40Y9PdnYJzT_LEJlg,Mission Bowling Club,"3176 17th St, San Francisco, CA 94110",4.0,625,"['pickup', 'restaurant_reservation', 'delivery']",$$,68394
+708,prl4rkVXnSj2eVUFv-VZqw,707 Sutter,"707 Sutter St, San Francisco, CA 94109",4.0,800,"['pickup', 'delivery']",$$,87285
+709,yrKFfnMSXTRuq-hkTGM9eA,Chubby Noodle,"570 Green St, San Francisco, CA 94133",4.0,846,"['pickup', 'restaurant_reservation', 'delivery']",$$,86423
+710,6iR0zBfiup79DErYKAXY0Q,Cafe International,"508 Haight St, San Francisco, CA 94117",4.0,428,['delivery'],$,2385
+711,cvWuRzkFcf5KrEBiZEoYEA,Bask,"42 Columbus Ave, San Francisco, CA 94111",4.0,726,"['pickup', 'restaurant_reservation']",$$,68356
+712,_gHU7DSK2gFVRLx651c8ig,Spice of America,"1655 Market St, San Francisco, CA 94103",4.5,292,"['pickup', 'restaurant_reservation', 'delivery']",$$,94188
+713,F0lbnTB0yKkIlSmg3OhwWg,The Cheese School of San Francisco,"900 North Point St, Ste K201, San Francisco, CA 94109",4.5,216,['delivery'],$$,3054
+714,ClL-QEflsWyrUA9ybj5vSg,Izzy's - San Francisco,"3345 Steiner St, San Francisco, CA 94123",3.5,1210,"['pickup', 'delivery']",$$$,3885
+715,tjflPf7MTPmSgau-b8CN3A,WesBurger 'N' More,"2240 Mission St, San Francisco, CA 94110",4.0,686,"['pickup', 'delivery']",$$,85953
+716,Jx_JunTUJf3OuRh3g9oSPw,DragonEats,"555 Folsom St, San Francisco, CA 94105",4.0,427,['delivery'],$,78965
+717,_BDoTBI2YlyUaWFOXBEF8Q,Sababa,"329 Kearny St, San Francisco, CA 94108",4.5,373,"['pickup', 'delivery']",$$,86539
+718,FEYkROTrZpjWo3VmGTC3dQ,Szechuan Cuisine,"1920 Irving St, San Francisco, CA 94122",4.0,416,"['pickup', 'delivery']",$$,81244
+719,VjXSJdgy7wnlbMqwRWEgqQ,Golden Crab House,"1830 Irving St, San Francisco, CA 94122",4.5,313,"['pickup', 'delivery']",$$$,97659
+720,QFvxywOAEhc0ddTj0nY8CQ,RM 212,"690 Sacramento St, San Francisco, CA 94111",4.5,411,['delivery'],$$,89497
+721,Z661e-IOrGuCcvLLe1lS1w,Laguna Cafe,"1821 Haight St, San Francisco, CA 94117",4.5,426,"['pickup', 'delivery']",$$,75448
+722,b1zMlSbFOk5MfxJ_HiB4SA,Central Coffee Tea & Spice,"1696 Hayes St, San Francisco, CA 94117",4.5,319,"['pickup', 'delivery']",$,1043
+723,aQuwkkUS_S52ga0PxiOIag,Atlas Cafe,"3049 20th St, San Francisco, CA 94110",4.0,835,"['pickup', 'delivery']",$$,1792
+724,-mUqJ1wTUEC-_8qVR2NWHQ,Ploy II,"1770 Haight St, San Francisco, CA 94117",4.0,776,"['pickup', 'delivery']",$$,2397
+725,b7YegTB6cWpi0XbI9ZEkBQ,Catch,"2362 Market St, San Francisco, CA 94114",3.5,993,['delivery'],$$,36014
+726,3523gS3FWpFdGFR7vjvhnA,Caffe Sport,"574 Green St, San Francisco, CA 94133",4.0,862,"['pickup', 'restaurant_reservation', 'delivery']",$$,88091
+727,ZAPitG9126yVupKWHp54yA,Taqueria Los Coyotes,"3036 16th St, San Francisco, CA 94103",3.5,963,"['pickup', 'delivery']",$$,3614
+728,CAaCt-zyjxenxdWL2TnQRg,Henry's House of Coffee - Cafe,"1618 Noriega St, San Francisco, CA 94122",4.5,438,"['pickup', 'delivery']",$,6625
+729,4Nkmr_wTiD1FTjwC6_getA,The Crepe House,"1755 Polk St, San Francisco, CA 94109",4.0,738,"['pickup', 'delivery']",$$,79756
+730,R7SY08-_gSprgK1jeXfh0A,Seakor Polish Delicatessen,"5957 Geary Blvd, San Francisco, CA 94121",4.5,258,[],$,5077
+731,2kAb8kvymt5xJfoNFTwFyQ,Parkside Tavern,"1940 Taraval St, San Francisco, CA 94116",4.0,566,['delivery'],$$,60737
+732,uhih68N9hjl9RWd-Bi8NhA,Two Sons' Sandwiches,"2249 17th St, San Francisco, CA 94103",4.5,266,"['pickup', 'delivery']",$$,98773
+733,8MMhiZdt1QD4r8os_hKEvg,Fly Bar,"762 Divisadero St, San Francisco, CA 94117",4.0,760,"['pickup', 'delivery']",$$,87648
+734,lZjho8m-yjFu-PODdhOhlg,Ocean Ale House,"1314 Ocean Ave, San Francisco, CA 94112",4.5,316,['delivery'],$$,86816
+735,p22TPx1EFZcuEzl2qhuzGA,Mister Jiu's,"28 Waverly Pl, San Francisco, CA 94108",3.5,882,['delivery'],$$$$,84865
+736,JlhJM4ulY5sHsLcUiENpCQ,Noc Noc,"557 Haight St, San Francisco, CA 94117",4.0,516,[],$,3631
+737,Cj9Orl6DQnOR75qT-l3jCA,Aux Delices Vietnamese Restaurant,"2327 Polk St, San Francisco, CA 94109",4.0,759,"['pickup', 'delivery']",$$,1146
+738,zeO401-Y-2BLiIv9bl0UkA,Scullery,"687 Geary St, San Francisco, CA 94102",4.5,283,"['pickup', 'delivery']",$,97190
+739,Qv-yh5vmrN7mss3BNsqhQg,Onigilly - San Francisco,"343 Kearny St, San Francisco, CA 94108",4.0,559,"['pickup', 'delivery']",$$,69368
+740,_-7VgjSfibitQ1-TBvE0Aw,Mau,"180 Spear St, San Francisco, CA 94105",4.0,916,"['pickup', 'delivery']",$$,71946
+741,54EOuXs22MK_QYVNgBL-4A,Joy's Place,"611 Post St, San Francisco, CA 94109",4.0,646,"['pickup', 'delivery']",$,102518
+742,dt0nffJ_d5jInX2x_jQmOQ,King of Noodles,"1639 Irving St, San Francisco, CA 94122",4.0,802,"['pickup', 'delivery']",$$,85307
+743,JiPmzNi0Fy4BoYq2IcEdbg,Bake Cheese Tart,"845 Market St, San Francisco, CA 94103",4.0,782,"['pickup', 'delivery']",$$,28169
+744,JiPmzNi0Fy4BoYq2IcEdbg,Bake Cheese Tart,"845 Market St, San Francisco, CA 94103",4.0,782,"['pickup', 'delivery']",$$,67982
+745,JiPmzNi0Fy4BoYq2IcEdbg,Bake Cheese Tart,"845 Market St, San Francisco, CA 94103",4.0,782,"['pickup', 'delivery']",$$,77528
+746,JiPmzNi0Fy4BoYq2IcEdbg,Bake Cheese Tart,"845 Market St, San Francisco, CA 94103",4.0,782,"['pickup', 'delivery']",$$,79329
+747,LbT6hAD76AQoUoKPCyf8qw,Iron Horse Cocktails,"25 Maiden Ln, San Francisco, CA 94108",5.0,172,[],$$,92409
+748,6dpogM9AfMtNcXswIDJ1sg,Cafe Reverie,"848 Cole St, San Francisco, CA 94117",4.0,619,['delivery'],$$,1261
+749,oUtNbPtcT-Y1PXSD5PjtCA,La Mediterranee,"288 Noe St, San Francisco, CA 94114",4.0,626,"['pickup', 'delivery']",$$,2274
+750,7iqJv4Re8o07-3G3VSNPQQ,Mr. Bread,"1018 Taraval St, San Francisco, CA 94116",4.5,305,['delivery'],$,94616
+751,HdZLo3v4zNVpzx1CQjg5MA,Capital One Café,"101 Post St, San Francisco, CA 94108",4.5,361,[],$,79970
+752,2RXWZrFy8nWrjmdS5KilrQ,Eastern Bakery,"720 Grant Ave, San Francisco, CA 94108",4.0,746,['delivery'],$,9679
+753,KewsTgYKXUPuUU_X1I3O6w,Rose's Cafe,"2298 Union St, San Francisco, CA 94123",3.5,1024,['delivery'],$$,2739
+754,AonBwLuprSoZ1dx9iYaDBw,Native Burger,"3420 Geary Blvd, San Francisco, CA 94118",4.5,289,"['pickup', 'delivery']",$$,93401
+755,1EWkmc_myDLYfvorOnYzEA,Hinodeya Downtown,"680 Clay St, San Francisco, CA 94111",4.5,346,"['pickup', 'delivery']",$$,97191
+756,A2Bpbf-6k_Sv63Lp42LUJA,Fifty / Fifty Coffee and Tea,"3157 Geary Blvd, San Francisco, CA 94118",4.0,463,['delivery'],$,69679
+757,KRO4PzfmbRgCu1Ayt1LE1g,Morty's Delicatessen,"280 Golden Gate Ave, San Francisco, CA 94102",4.0,527,"['pickup', 'delivery']",$,87015
+758,U2lbKxfjKbqGPsvsYPAyLA,Beloved Cafe,"3338 24th St, San Francisco, CA 94110",4.5,318,"['pickup', 'delivery']",$$,87782
+759,6bHDla2n0mBXkeNmsM8_dw,Sushi Zen,"1041 Taraval St, San Francisco, CA 94116",4.0,729,['delivery'],$$,20116
+760,uUWH7T9V0kyu-3nig_gatQ,Tacko,"3115 Fillmore St, San Francisco, CA 94123",4.0,925,['delivery'],$$,65624
+761,iVjyGjcwqAnHvTExVpxVlw,Chomp N' Swig,"5203 Geary Blvd, San Francisco, CA 94118",4.0,405,"['pickup', 'delivery']",$$,97219
+762,rfWph5GzDNUibkvWrSeFQg,New Village Cafe,"1426 Polk St, San Francisco, CA 94109",4.0,551,"['pickup', 'delivery']",$$,98886
+763,udIgEuXHGwOydBbZtAe7vA,Lung Fung Bakery,"1823 Clement St, San Francisco, CA 94121",4.5,340,['delivery'],$,83799
+764,bbDXbRE6O8BUbK3nyXdGCg,Gus's Community Market,"3701 Noriega St, Unit A, San Francisco, CA 94122",4.5,314,"['pickup', 'delivery']",$$,7728
+765,1HEjxY-yIGJJ4Uh1SJDLxw,Hazel's Kitchen,"1319 18th St, San Francisco, CA 94107",4.0,420,"['pickup', 'delivery']",$,20291
+766,Wsf3kSGsWAc5SkvM41A2eA,Umi,"1328 18th St, San Francisco, CA 94107",4.0,617,['delivery'],$$,35812
+767,eSvjUGigP39hoDvfSyt-0Q,1428 HAIGHT Patio Cafe & Crepery,"1428 Haight St, San Francisco, CA 94117",4.0,440,"['pickup', 'delivery']",$$,79117
+768,qvGED1YA1lt_wrbP92RVZA,Kibatsu,"400 Haight St, San Francisco, CA 94117",4.5,265,"['restaurant_reservation', 'pickup', 'delivery']",$$$,97372
+769,udYo3BZ0Y3nR1iOtk58Inw,King Of Thai Noodle House,"184 O'Farrell St, San Francisco, CA 94102",3.5,1952,"['pickup', 'delivery']",$$,100210
+770,AMhmArFJ0IAeknI1mDE6ew,Bacon Bacon Cafe - San Francisco,"205 A Frederick St, San Francisco, CA 94117",4.0,480,"['pickup', 'delivery']",$$,68242
+771,Mdo9xSfWeTwi4IJli-62oQ,Regent Thai Restaurant,"1700 Church St, San Francisco, CA 94131",4.0,574,['delivery'],$$,100750
+772,EztBa2wTrc8z3DAF0YhtpQ,Mamanoko,"2317 Chestnut St, San Francisco, CA 94123",4.5,403,"['restaurant_reservation', 'delivery']",$$,91270
+773,EcSIjxiaZ36vqCKAJ9ihIw,Rong's,"3420 Balboa St, San Francisco, CA 94121",4.5,272,"['pickup', 'delivery']",$$,90939
+774,OZAZSQnvAGeETvoKRSEbuQ,Warakubune Sushi,"307 Church St, San Francisco, CA 94114",4.0,607,['delivery'],$$,3846
+775,olOldyL0jSpDuZE0tELVcw,Fumi Japanese Curry & Ramen,"3303 Mission St, San Francisco, CA 94110",4.0,461,"['pickup', 'delivery']",$$,81302
+776,9t3DWuROXOrvioDxG9R59A,Sushi Goemon,"1524 Irving St, San Francisco, CA 94122",4.5,294,"['pickup', 'delivery']",$$,93473
+777,A6D6wG5y0sqpaqJjgc8QeQ,Manora's Thai Cuisine,"1600 Folsom St, San Francisco, CA 94103",4.0,608,"['pickup', 'delivery']",$$,2437
+778,mRd7YvLZTgorwQ36M9nDaA,Turtle Tower,"645 Larkin St, San Francisco, CA 94109",3.5,818,"['pickup', 'delivery']",$$,86829
+779,r-L3a4mKLPkCkGf9Askx0g,Philz Coffee,"5 Embarcadero Ctr, San Francisco, CA 94111",4.0,409,[],$,98657
+780,Z3gYoBTTXniIBOLU_6haMQ,The Pots Hot Pot Buffet,"2652 Judah St, San Francisco, CA 94122",4.0,764,"['pickup', 'delivery']",$$$,86654
+781,A_2m0mcKEqOJ1XsqUbzUIg,Amitis Café,"800 Masonic Ave, San Francisco, CA 94117",4.5,207,"['pickup', 'delivery']",$$,83687
+782,QaOd6dIYfOYPGBaQvpAtfg,The Dark Horse Inn,"942 Geneva Ave, San Francisco, CA 94112",4.5,335,"['pickup', 'delivery']",$$,67489
+783,YYQX-gJhJ6cFzzIhRWjaFA,King's Thai Cuisine 1,"639 Clement St, San Francisco, CA 94118",3.5,973,"['pickup', 'delivery']",$$,1350
+784,eL1aKZx9bplkBesYcGJ11w,Curbside Cafe,"2417 California St, San Francisco, CA 94115",4.0,822,['delivery'],$$,62900
