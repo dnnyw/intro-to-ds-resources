@@ -21,6 +21,8 @@ def rm_medv_errors(slope, intercept):
     ax.plot(xlims, slope*xlims + intercept, color = 'black', lw= 2)
     for x, y in sample:
         ax.plot([x, x], [y, slope*x + intercept], color = 'r', lw= 2)
+        
+    return fig, ax
 
 
 
