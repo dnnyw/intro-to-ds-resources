@@ -45,20 +45,20 @@ def check(q, a):
         return all[q]
     elif q == "q3a2":
         answer = np.array(["Star-Lord", "Drax the Destroyer", "Groot", "Rocket", "Mantis"])
-        all[q] = sum(a == answer) == len(answer)
+        all[q] = answer == a
         return all[q]
     elif q == "q3b1":
         answer = np.array(["Star-Lord", "Drax the Destroyer", "Groot II", "Rocket", "Mantis", "Gamora", "Yondu", "Nebula"])
-        all[q] = sum(a == answer) == len(answer)
+        all[q] =  answer == a
         return all[q]
     elif q == "q3b2":
         answer = np.array(["Star-Lord", "Drax the Destroyer", "Groot II", "Rocket", "Mantis", "Nebula"])
-        all[q] = sum(a == answer) == len(answer)
+        all[q] =  answer == a
         return all[q]
     elif q == "q3c1":
         all[q] = a == 12
         return all[q]
-    elif q == "q3b2":
+    elif q == "q41":
         guardians = np.array(["Star-Lord", "Drax the Destroyer", "Groot II", "Rocket", "Mantis", "Nebula"])
         answer = [x for x in guardians if len(x) > 7]
         all[q] = a == len(answer)
