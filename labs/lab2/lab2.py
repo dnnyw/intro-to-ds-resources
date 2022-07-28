@@ -41,11 +41,11 @@ def check(q, a):
         return all[q]
     elif q == "q3a1":
         answer = [-1, (13 ** (1/2)), math.floor(31.2), 8 ** (3 * 27.2)] 
-        all[q] = a == answer
+        all[q] = all(a == answer)
         return all[q]
     elif q == "q3a2":
         answer = np.array(["Star-Lord", "Gamora", "Drax the Destroyer", "Groot", "Rocket", "Mantis"])
-        all[q] = a == answer
+        all[q] = all(a == answer)
         return all[q]
     elif q == "q3b1":
         answer = np.array(["Star-Lord", "Gamora", "Drax the Destroyer", "Groot II", "Rocket", "Mantis", "Gamora", "Yondu", "Nebula"])
