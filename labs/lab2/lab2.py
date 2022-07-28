@@ -59,9 +59,7 @@ def check(q, a):
         all[q] = a == 12
         return all[q]
     elif q == "q41":
-        guardians = np.array(["Star-Lord", "Drax the Destroyer", "Groot II", "Rocket", "Mantis", "Nebula"])
-        answer = [x for x in guardians if len(x) > 7]
-        all[q] = a == answer
+        all[q] = a == 3
         return all[q]
     
 
