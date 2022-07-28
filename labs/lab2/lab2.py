@@ -44,22 +44,22 @@ def check(q, a):
         all[q] = a == answer
         return all[q]
     elif q == "q3a2":
-        answer = np.array(["Star-Lord", "Gamora", "Drax the Destroyer", "Groot", "Rocket", "Mantis"])
+        answer = np.array(["Star-Lord", "Drax the Destroyer", "Groot", "Rocket", "Mantis"])
         all[q] = all(a == answer)
         return all[q]
     elif q == "q3b1":
-        answer = np.array(["Star-Lord", "Gamora", "Drax the Destroyer", "Groot II", "Rocket", "Mantis", "Gamora", "Yondu", "Nebula"])
+        answer = np.array(["Star-Lord", "Drax the Destroyer", "Groot II", "Rocket", "Mantis", "Gamora", "Yondu", "Nebula"])
         all[q] = all(a == answer)
         return all[q]
     elif q == "q3b2":
-        answer = np.array(["Star-Lord", "Gamora", "Drax the Destroyer", "Groot II", "Rocket", "Mantis", "Gamora", "Nebula", "Thor"])
+        answer = np.array(["Star-Lord", "Drax the Destroyer", "Groot II", "Rocket", "Mantis", "Gamora", "Nebula", "Thor"])
         all[q] = all(a == answer)
         return all[q]
     elif q == "q3c1":
         all[q] = a == 12
         return all[q]
     elif q == "q3b2":
-        guardians = np.array(["Star-Lord", "Gamora", "Drax the Destroyer", "Groot II", "Rocket", "Mantis", "Gamora", "Nebula", "Thor"])
+        guardians = np.array(["Star-Lord", "Drax the Destroyer", "Groot II", "Rocket", "Mantis", "Gamora", "Nebula", "Thor"])
         answer = [x for x in guardians if len(x) > 7]
         all[q] = a == len(answer)
         return all[q]
