@@ -42,8 +42,9 @@ def check(q, a):
         return result[q]
     elif q == "q3a1":
         answer = [-1, (13 ** (1/2)), 31 // 2, 8 ** (3 * 27.2)] 
-        result[q] = a == answer
-        return result[q]
+        temp = a == answer
+        result[q] = all(temp)
+        return temp
     elif q == "q3a2":
         answer = np.array(["Star-Lord", "Drax the Destroyer", "Groot", "Rocket", "Mantis"])
         temp = answer == a
