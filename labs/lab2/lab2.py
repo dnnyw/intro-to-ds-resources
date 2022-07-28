@@ -45,15 +45,15 @@ def check(q, a):
         return all[q]
     elif q == "q3a2":
         answer = np.array(["Star-Lord", "Drax the Destroyer", "Groot", "Rocket", "Mantis"])
-        all[q] = all(a == answer)
+        all[q] = sum(a == answer) == len(answer)
         return all[q]
     elif q == "q3b1":
         answer = np.array(["Star-Lord", "Drax the Destroyer", "Groot II", "Rocket", "Mantis", "Gamora", "Yondu", "Nebula"])
-        all[q] = all(a == answer)
+        all[q] = sum(a == answer) == len(answer)
         return all[q]
     elif q == "q3b2":
         answer = np.array(["Star-Lord", "Drax the Destroyer", "Groot II", "Rocket", "Mantis", "Gamora", "Nebula", "Thor"])
-        all[q] = all(a == answer)
+        all[q] = sum(a == answer) == len(answer)
         return all[q]
     elif q == "q3c1":
         all[q] = a == 12
