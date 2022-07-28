@@ -40,7 +40,7 @@ def check(q, a):
         all[q] = True 
         return all[q]
     elif q == "q3a1":
-        answer = [-1, (13 ** (1/2)), math.floor(31.2), 8 ** (3 * 27.2)] 
+        answer = [-1, (13 ** (1/2)), 31.2 // 2, 8 ** (3 * 27.2)] 
         all[q] = a == answer
         return all[q]
     elif q == "q3a2":
