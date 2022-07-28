@@ -45,16 +45,19 @@ def check(q, a):
         return all[q]
     elif q == "q3a2":
         answer = np.array(["Star-Lord", "Drax the Destroyer", "Groot", "Rocket", "Mantis"])
-        all[q] = answer == a
-        return all[q]
+        temp = answer == a
+        all[q] = all(temp)
+        return temp
     elif q == "q3b1":
         answer = np.array(["Star-Lord", "Drax the Destroyer", "Groot II", "Rocket", "Mantis", "Gamora", "Yondu", "Nebula"])
-        all[q] =  answer == a
-        return all[q]
+        temp =  answer == a
+        all[q] = all(temp)
+        return temp
     elif q == "q3b2":
         answer = np.array(["Star-Lord", "Drax the Destroyer", "Groot II", "Rocket", "Mantis", "Nebula"])
-        all[q] =  answer == a
-        return all[q]
+        temp =  answer == a
+        all[q] = all(temp)
+        return temp
     elif q == "q3c1":
         all[q] = a == 12
         return all[q]
