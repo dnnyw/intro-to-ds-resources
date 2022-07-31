@@ -31,7 +31,7 @@ def minimize(f, start=None, smooth=False, log=None, array=False, **vargs):
         assert not array, "Please pass starting values explicitly when array=True"
         arg_count = f.__code__.co_argcount
         assert arg_count > 0, "Please pass starting values explicitly for variadic functions"
-        start = [4] * arg_count
+        start = [10] * arg_count
     if not hasattr(start, '__len__'):
         start = [start]
 
@@ -194,9 +194,9 @@ bi = np.mean(yr) - bs*np.mean(lrc)
 
 def plot_q5d(slope, intercept):
     fig, ax = plt.subplots()
-    ax.scatter(lrd, yr)
+    ax.scatter(lrc, yr)
     lims = np.array([5, 9])
-    ax.plot(lims, slope*lims + intercept)
+    ax.plot(lims, slope*lims + intercept, color = 'black')
     
 #q5e
 
@@ -257,7 +257,7 @@ def check(q, a):
             print('Something went wrong, try again!')
     elif q == 'q3a':
         try:
-            results[q] = a == b[b['name'] == 'One Market Restaurant']
+            results[q] = a.equals(b[b['name'] == 'One Market Restaurant'])
         except:
             print("Something went wrong, try again!")
     elif q == 'q3b':
@@ -317,3 +317,7 @@ def check(q, a):
             results[q] = sum(np.abs(slopes - a[0])) < 1 and sum(np.abs(intercepts - a[1])) < 1
         except:
             print("Something went wrong, try again!")        
+    return results[q]
+
+def checkall():
+    print(results)
