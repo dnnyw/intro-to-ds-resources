@@ -49,10 +49,10 @@ def check(q, a):
         all[q] = a("aeiou") == ""
         return all[q]
     elif q == 'q2d':
-        all[q] = a(temp_p) == np.mean(temp_p)
+        all[q] = a(temp_p) - np.mean(temp_p) < 0.01
         return all[q]
     elif q == 'q2e':
-        all[q] = a(temp_p) == np.std(temp_p)
+        all[q] = a(temp_p) - np.std(temp_p) < 0.01
         return all[q]
     elif q == 'q3a2':
         all[q] = a == 4/102
