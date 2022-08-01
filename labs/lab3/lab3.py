@@ -58,7 +58,7 @@ def check(q, a):
         all[q] = a == 4/102
         return all[q]
     elif q == 'q4a':
-        all[q] = sum(a(temp_p) == temp_n) == 102
+        all[q] = sum(a(temp_p) - temp_n < 0.01) == 102
         return all[q]
 
 
