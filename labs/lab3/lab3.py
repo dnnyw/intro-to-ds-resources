@@ -31,13 +31,13 @@ def check(q, a):
         all[q] = (a > 11.44) and (a < 11.5)
         return all[q]
     elif q == 'q1b':
-        all[q] = sum(a.values == temp_d.values) == 102
+        all[q] = sum(np.abs(a.values - temp_d.values) < 1) == 102
         return all[q]
     elif q == 'q1c':
-        all[q] = sum(a.values == temp_sq.values) == 102
+        all[q] = sum(np.abs(a.values - temp_sq.values) < 1) == 102
         return all[q]
     elif q == 'q1d':
-        all[q] = a == temp_sd
+        all[q] = np.abs(a - temp_sd) < 1
         return all[q]
     elif q == 'q2a':
         all[q] = a == 20
