@@ -156,8 +156,8 @@ def standardize(an_array):
 
 # <----- AUTOGRADER ------>
 
-b = pd.read_csv('data/businesses.csv')
-i = pd.read_csv('data/inspections.csv')
+b = pd.read_csv('businesses.csv')
+i = pd.read_csv('inspections.csv')
 i_n = i.merge(right = b, how = 'inner', on = 'bid')
 s = i_n[i_n['score'] >0]
 
