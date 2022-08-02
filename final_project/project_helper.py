@@ -2,7 +2,6 @@ from csv import excel_tab
 import pandas as pd
 import numpy as np
 from sqlalchemy import except_all
-from functions import *
 
 from scipy import optimize
 import functools
@@ -162,12 +161,8 @@ i_n = i.merge(right = b, how = 'inner', on = 'bid')
 s = i_n[i_n['score'] >0]
 
 # q4d1
-temp = s['bid'].value_counts()
-un = temp[temp >= 3].index
-
-# q4d2
 swi = np.array([])
-for bid in un:
+for bid in s['bid'].unique():
     subset = s[s['bid'] == bid]
     diff = max(subset['score']) - min(subset['score'])
     swi = np.append(swi, diff)
@@ -262,7 +257,7 @@ def check(q, a):
             print("Something went wrong, try again!")
     elif q == 'q3b':
         try:
-            results[q] = all(a == b[(b['rating'] <= 4) & (b['review_count'] > 1000)]['price'].value_counts())
+            results[q] = a.equals(b[(b['rating'] <= 4) & (b['review_count'] > 1000)]['price'].value_counts())
         except:
             print("Something went wrong, try again!")
     elif q == "q3c1":
@@ -283,15 +278,10 @@ def check(q, a):
             print("Answer in wrong format!")
     elif q == 'q4d1':
         try:
-            results[q] = all(a == un) or (len(a) == 334)
-        except:
-            print("Something went wrong, try again!")
-    elif q == 'q4d2':
-        try:
             results[q] = all(a == swi)
         except:
             print("Something went wrong, try again!")  
-    elif q == 'q4d3':
+    elif q == 'q4d2':
         try:
             results[q] = a == 'Mr Szechuan'
         except:
