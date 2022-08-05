@@ -1,0 +1,659 @@
+name,display_address,type,rating,review_count,price,latitude,longitude,bid
+House of Prime Rib,"1906 Van Ness Ave, San Francisco, CA 94109",American (Traditional),4.52,7912,$$$,37.793338,-122.422827,3350
+Burma Superstar,"309 Clement St, San Francisco, CA 94118",Burmese,4.69,7145,$$,37.783004,-122.462539,1977
+B Patisserie,"2821 California St, San Francisco, CA 94115",Bakeries,4.77,3006,$$,37.788014,-122.440756,71696
+Kokkari Estiatorio,"200 Jackson St, San Francisco, CA 94111",Greek,4.81,4843,$$$,37.796918,-122.399864,2858
+San Tung,"1031 Irving St, San Francisco, CA 94122",Chinese,4.58,7497,$$,37.763891,-122.468805,67330
+Nopa,"560 Divisadero St, San Francisco, CA 94117",American (New),4.49,5233,$$$,37.774778,-122.437717,18921
+El Farolito,"2779 Mission St, San Francisco, CA 94110",Mexican,4.43,5184,$,37.752634,-122.418486,2356
+Zazie,"941 Cole St, San Francisco, CA 94117",Breakfast & Brunch,4.8,4860,$$,37.765343,-122.449914,1595
+Sweet Maple,"2101 Sutter St, San Francisco, CA 94115",American (Traditional),4.96,4295,$$,37.785833,-122.434938,64021
+Sotto Mare,"552 Green St, San Francisco, CA 94133",Seafood,4.76,4448,$$,-9999.0,-9999.0,80931
+Golden Boy Pizza,"542 Green St, San Francisco, CA 94133",Pizza,4.58,3970,$,37.799648,-122.408033,847
+Tony's Pizza Napoletana,"1570 Stockton St, San Francisco, CA 94133",Pizza,4.52,5866,$$,37.800297,-122.409107,58879
+Foreign Cinema,"2534 Mission St, San Francisco, CA 94110",Breakfast & Brunch,4.51,5156,$$$,37.756417,-122.418884,2893
+Mama's On Washington Square,"1701 Stockton St, San Francisco, CA 94133",Breakfast & Brunch,4.91,4529,$$,37.801554,-122.409434,2172
+La Taqueria,"2889 Mission St, San Francisco, CA 94110",Mexican,4.9,4361,$$,37.750855,-122.418286,2360
+The Codmother Fish & Chips,"496 Beach St, San Francisco, CA 94133",British,4.8,3167,$$,-9999.0,-9999.0,90147
+Kitchen Story,"3499 16th St, San Francisco, CA 94114",Breakfast & Brunch,4.28,3755,$$,-9999.0,-9999.0,70184
+Nara Restaurant & Sake Bar,"518 Haight St, San Francisco, CA 94117",Japanese,4.51,1767,$$,-9999.0,-9999.0,80201
+State Bird Provisions,"1529 Fillmore St, San Francisco, CA 94115",Tapas/Small Plates,4.08,2948,$$$,37.783704,-122.432824,68152
+Espetus Churrascaria,"1686 Market St, San Francisco, CA 94102",Steakhouses,4.7,3621,$$$,37.773317,-122.421724,3926
+Farmhouse Kitchen Thai Cuisine,"710 Florida St, San Francisco, CA 94110",Thai,4.35,3238,$$,-9999.0,-9999.0,82413
+Schubert's Bakery,"521 Clement St, San Francisco, CA 94118",Bakeries,4.73,1879,$$,37.782893,-122.464948,3186
+Beretta,"1199 Valencia St, San Francisco, CA 94110",Italian,4.57,3941,$$,37.753823,-122.420786,3626
+Garden Creamery,"3566 20th St, San Francisco, CA 94110",Ice Cream & Frozen Yogurt,4.73,1114,$,-9999.0,-9999.0,87404
+Surisan,"505 Beach St, San Francisco, CA 94133",Korean,4.76,2691,$$,-9999.0,-9999.0,86486
+Suppenküche,"525 Laguna St, San Francisco, CA 94102",German,4.55,3233,$$,37.776294,-122.426264,3643
+Marco Polo Italian Ice Cream,"1447 Taraval St, San Francisco, CA 94116",Ice Cream & Frozen Yogurt,4.59,1617,$,37.742728,-122.481566,4671
+Tacorea,"809 Bush St, San Francisco, CA 94108",Mexican,4.51,1872,$$,-9999.0,-9999.0,88539
+Chez Maman East,"1401 18th St, San Francisco, CA 94107",French,4.76,2243,$$,-9999.0,-9999.0,82944
+Philz Coffee,"3101 24th St, San Francisco, CA 94110",Coffee & Tea,4.9,1717,$,37.752455,-122.414116,33710
+Swan Oyster Depot,"1517 Polk St, San Francisco, CA 94109",Seafood,3.81,3043,$$,37.790734,-122.420783,639
+Good Mong Kok Bakery,"1039 Stockton St, San Francisco, CA 94108",Bakeries,4.35,3100,$,-9999.0,-9999.0,80081
+U :Dessert Story,"3489 16th St, San Francisco, CA 94114",Desserts,4.45,2016,$$,-9999.0,-9999.0,94605
+Loló,"974 Valencia St, San Francisco, CA 94110",Mexican,4.11,2341,$$,-9999.0,-9999.0,77462
+Plow,"1299 18th St, San Francisco, CA 94107",Breakfast & Brunch,4.46,2881,$$,37.762588,-122.395534,63304
+Tropisueño,"75 Yerba Buena Ln, San Francisco, CA 94103",Cocktail Bars,4.32,4640,$$,37.785638,-122.404189,38566
+Lolinda,"2518 Mission St, San Francisco, CA 94110",Steakhouses,4.01,2149,$$$,37.756698,-122.418951,69403
+L’Ardoise Bistro,"151 Noe St, San Francisco, CA 94114",French,4.71,1354,$$$,37.766653,-122.433258,36277
+Wayfare Tavern,"558 Sacramento St, San Francisco, CA 94111",American (Traditional),4.59,4207,$$$,37.793907,-122.402304,62701
+Absinthe Brasserie & Bar,"398 Hayes St, San Francisco, CA 94102",French,4.13,3336,$$$,37.77694,-122.422962,3611
+Eight AM,"1323 Columbus Ave, San Francisco, CA 94133",American (New),4.56,1536,$$,-9999.0,-9999.0,78781
+Blue Bottle Coffee,"315 Linden St, San Francisco, CA 94102",Coffee & Tea,4.98,1702,$$,37.77634,-122.423099,14075
+Pearl's Deluxe Burgers,"708 Post St, San Francisco, CA 94109",Burgers,3.83,2317,$$,37.787677,-122.413634,65898
+Blue Bottle Coffee,"66 Mint St, San Francisco, CA 94103",Coffee & Tea,3.94,2259,$$,37.782368,-122.40743,36494
+Sunday Social,"699 22nd St, San Francisco, CA 94107",Ice Cream & Frozen Yogurt,4.91,1476,$$,37.757908,-122.388189,62251
+Zero Zero,"826 Folsom St, San Francisco, CA 94107",Pizza,4.37,3345,$$,37.781494,-122.401909,63597
+Mensho Tokyo SF,"672 Geary St, San Francisco, CA 94102",Ramen,3.91,2525,$$,-9999.0,-9999.0,82074
+Frances,"3870 17th St, San Francisco, CA 94114",American (New),4.59,1509,$$$,37.762698,-122.432232,61326
+Home Coffee Roasters,"1222 Noriega St, San Francisco, CA 94122",Coffee & Tea,4.66,1295,$$,-9999.0,-9999.0,75429
+Philz Coffee,"201 Berry St, San Francisco, CA 94158",Coffee & Tea,4.8,1422,$,37.775487,-122.393661,33709
+Deli Board,"1058 Folsom St, San Francisco, CA 94103",Delis,4.66,1524,$$,37.777504,-122.406948,66925
+Marlowe,"500 Brannan St, San Francisco, CA 94107",Diners,4.63,2732,$$$,-9999.0,-9999.0,80063
+The Buena Vista,"2765 Hyde St, San Francisco, CA 94109",Bars,4.02,2866,$$,37.806493,-122.420554,3324
+Lapisara Eatery,"698 Post St, San Francisco, CA 94109",Breakfast & Brunch,4.54,1086,$$,-9999.0,-9999.0,94578
+Thanh Long,"4101 Judah St, San Francisco, CA 94122",Seafood,4.38,2939,$$$,37.760383,-122.50609,3228
+The Italian Homemade Company,"716 Columbus Ave, San Francisco, CA 94133",Italian,4.57,1739,$$,-9999.0,-9999.0,78601
+The Bird,"115 New Montgomery St, San Francisco, CA 94105",Chicken Shop,4.13,2172,$,-9999.0,-9999.0,89128
+Woodhouse Fish Company,"1914 Fillmore St, San Francisco, CA 94115",Seafood,4.28,2426,$$,37.787386,-122.433476,59009
+Bar Crudo,"655 Divisadero St, San Francisco, CA 94117",Seafood,4.22,1890,$$$,37.775684,-122.437965,59154
+Devil's Teeth Baking Company,"3876 Noriega St, San Francisco, CA 94122",Bakeries,4.68,1918,$,-9999.0,-9999.0,87122
+Pizzeria Delfina - Mission,"3621 18th St, San Francisco, CA 94110",Pizza,4.12,2331,$$,37.761514,-122.424318,856
+Submarine Center,"820 Ulloa St, San Francisco, CA 94127",Italian,4.65,1369,$$,-9999.0,-9999.0,78727
+Super Duper Burgers,"721 Market St, San Francisco, CA 94103",Burgers,4.03,2834,$$,37.787097,-122.404122,65860
+Boulevard,"1 Mission St, San Francisco, CA 94105",American (New),3.98,2714,$$$,37.793497,-122.392841,3484
+KUSAKABE,"584 Washington St, San Francisco, CA 94111",Sushi Bars,4.62,977,$$$$,-9999.0,-9999.0,78403
+PPQ Dungeness Island - San Francisco,"2332 Clement St, San Francisco, CA 94121",Seafood,4.51,3178,$$,37.782068,-122.484432,3206
+Blackwood,"2150 Chestnut St, San Francisco, CA 94123",Thai,4.3,1951,$$,37.800508,-122.438824,68331
+Mymy,"1500 California St, San Francisco, CA 94109",Breakfast & Brunch,4.37,1926,$$,37.790798,-122.419214,63413
+Don Pistos,"510 Union St, San Francisco, CA 94133",Mexican,4.46,1938,$$,37.800628,-122.407824,61351
+Little Star Pizza,"400 Valencia St, San Francisco, CA 94103",Pizza,4.09,2181,$$,37.766408,-122.422055,27964
+R&G Lounge,"631 Kearny St, San Francisco, CA 94108",Seafood,4.02,4675,$$,37.794154,-122.404765,3016
+Craftsman and Wolves,"746 Valencia St, San Francisco, CA 94110",Bakeries,4.17,1669,$$,37.760955,-122.421552,68894
+Boba Guys,"429 Stockton St, San Francisco, CA 94108",Coffee & Tea,4.31,2068,$,-9999.0,-9999.0,80120
+Hot Sauce and Panko,"1468 Hyde St, San Francisco, CA 94109",Chicken Wings,4.72,1256,$,-9999.0,-9999.0,91042
+Four Barrel Coffee,"375 Valencia St, San Francisco, CA 94103",Coffee & Tea,4.93,2147,$,37.766994,-122.422035,36840
+Gracias Madre,"2211 Mission St, San Francisco, CA 94110",Mexican,4.25,3454,$$,-9999.0,-9999.0,70064
+Spruce,"3640 Sacramento St, San Francisco, CA 94118",American (Traditional),4.22,2086,$$$$,37.787478,-122.452723,34726
+Philz Coffee,"549 Castro St, San Francisco, CA 94114",Coffee & Tea,4.77,1082,$,-9999.0,-9999.0,82955
+Bella Trattoria,"3854 Geary Blvd, San Francisco, CA 94118",Italian,4.62,1632,$$,37.781268,-122.460842,2593
+Lers Ros,"730 Larkin St, San Francisco, CA 94109",Thai,4.5,2263,$$,37.784741,-122.417754,69799
+Hot Cookie,"407 Castro St, San Francisco, CA 94114",Bakeries,3.88,1565,$$,-9999.0,-9999.0,85670
+Harris' Restaurant,"2100 Van Ness Ave, San Francisco, CA 94109",Steakhouses,4.42,1980,$$$$,37.795058,-122.423147,3053
+Lovejoy's Tea Room,"1351 Church St, San Francisco, CA 94114",British,4.67,1263,$$,-9999.0,-9999.0,89475
+Ryoko's,"619 Taylor St, San Francisco, CA 94102",Sushi Bars,4.36,3177,$$,37.788134,-122.411817,3495
+Tommaso Ristorante Italiano,"1042 Kearny St, San Francisco, CA 94133",Italian,4.87,1720,$$,37.797398,-122.405322,486
+Molinari Delicatessen,"373 Columbus Ave, San Francisco, CA 94133",Delis,4.66,1237,$$,37.798556,-122.407707,840
+Hinodeya Ramen Bar,"1737 Buchanan St, San Francisco, CA 94115",Ramen,3.75,1587,$$,-9999.0,-9999.0,87765
+Il Casaro Pizzeria & Mozzarella Bar - North Beach,"348 Columbus Ave, San Francisco, CA 94133",Italian,4.69,1481,$$,-9999.0,-9999.0,75147
+Alexander's Steakhouse,"448 Brannan St, San Francisco, CA 94107",Steakhouses,3.65,1832,$$$$,37.779153,-122.395569,63191
+Taqueria Cancún,"2288 Mission St, San Francisco, CA 94110",Mexican,4.23,2090,$$,37.760487,-122.419285,2315
+B Star,"127 Clement St, San Francisco, CA 94118",Burmese,3.92,1995,$$,37.783093,-122.460649,33911
+La Ciccia,"291 30th St, San Francisco, CA 94131",Seafood,4.89,1182,$$$,37.742064,-122.426618,65549
+Roka Akor - San Francisco,"801 Montgomery St, San Francisco, CA 94133",Steakhouses,4.3,1469,$$$$,-9999.0,-9999.0,74239
+The Original Ghirardelli Ice Cream & Chocolate Shop,"900 North Point, Ste 52, San Francisco, CA 94109",Ice Cream & Frozen Yogurt,4.58,2732,$$,-9999.0,-9999.0,96537
+Tommy's Joynt,"1101 Geary Blvd, San Francisco, CA 94109",American (Traditional),4.16,2961,$$,-9999.0,-9999.0,87613
+Holy Gelato!,"1392 9th Ave, San Francisco, CA 94122",Gelato,4.65,1100,$$,-9999.0,-9999.0,100504
+Blue Plate,"3218 Mission St, San Francisco, CA 94110",American (Traditional),4.04,1523,$$$,37.745158,-122.420217,2689
+Underdogs Tres,"1224 9th Ave, San Francisco, CA 94122",Sports Bars,3.86,2070,$$,37.765412,-122.466375,68773
+La Fusión,"475 Pine St, San Francisco, CA 94104",Latin American,4.57,1165,$$,37.791743,-122.403677,66515
+Parada 22,"1805 Haight St, San Francisco, CA 94117",Latin American,4.26,1364,$$,37.769303,-122.451961,62051
+Acquerello,"1722 Sacramento St, San Francisco, CA 94109",Italian,4.26,1190,$$$$,37.791507,-122.421257,2175
+Woodhouse Fish,"2073 Market St, San Francisco, CA 94114",Seafood,4.01,1757,$$,37.767631,-122.428569,19205
+The Ice Cream Bar,"815 Cole St, San Francisco, CA 94117",Ice Cream & Frozen Yogurt,3.89,1364,$,37.766567,-122.450189,66684
+Andytown Coffee Roasters,"3655 Lawton St, San Francisco, CA 94122",Coffee Roasteries,4.59,963,$,-9999.0,-9999.0,77004
+Benu,"22 Hawthorne St, San Francisco, CA 94105",Asian Fusion,4.34,1118,$$$$,37.785608,-122.399069,62889
+The Monk's Kettle,"3141 16th St, San Francisco, CA 94103",Bars,3.89,2272,$$,37.764814,-122.422979,35591
+Dragon Beaux,"5700 Geary Blvd, San Francisco, CA 94121",Dim Sum,3.93,1980,$$,-9999.0,-9999.0,81116
+Basa Seafood Express,"3064 24th St, San Francisco, CA 94110",Seafood,4.9,872,$,37.752578,-122.413372,59397
+Salt & Straw,"586 Hayes St, San Francisco, CA 94102",Ice Cream & Frozen Yogurt,4.31,723,$$,-9999.0,-9999.0,90931
+Pacific Catch,"2027 Chestnut St, San Francisco, CA 94123",Seafood,4.04,1689,$$,37.800763,-122.436536,305
+Cracked & Battered - Potrero Hill,"1434 18th St, San Francisco, CA 94107",Breakfast & Brunch,4.64,1130,$$,-9999.0,-9999.0,95554
+La Mediterranee,"2210 Fillmore St, San Francisco, CA 94115",Middle Eastern,4.33,1637,$$,37.789961,-122.433962,1322
+Quince,"470 Pacific Ave, San Francisco, CA 94133",French,4.16,1540,$$$$,37.797378,-122.403344,61001
+Urban Ritual,"488 Fell St, San Francisco, CA 94102",Bubble Tea,4.28,867,$,-9999.0,-9999.0,95621
+Firefly Restaurant,"4288 24th St, San Francisco, CA 94114",American (New),4.07,1491,$$$,37.751068,-122.438242,2676
+Pizzetta 211,"211 23rd Ave, San Francisco, CA 94121",Pizza,4.94,1390,$$,37.783758,-122.482885,40217
+Souvla,"517 Hayes St, San Francisco, CA 94102",Greek,3.95,1590,$$,-9999.0,-9999.0,77731
+Tadich Grill,"240 California St, San Francisco, CA 94111",Seafood,4.11,2582,$$$,37.793358,-122.399443,3122
+Rich Table,"199 Gough St, San Francisco, CA 94102",American (New),4.17,1391,$$$,37.775001,-122.422655,69680
+Frascati,"1901 Hyde St, San Francisco, CA 94109",Italian,4.7,1237,$$$,37.798392,-122.418923,18981
+Art's Cafe,"747 Irving St, San Francisco, CA 94122",Diners,4.67,1186,$$,37.764013,-122.465749,48
+Smuggler's Cove,"650 Gough St, San Francisco, CA 94102",Tiki Bars,4.37,1816,$$,-9999.0,-9999.0,61357
+Hai Ky Noodles,"707 Ellis St, San Francisco, CA 94109",Chinese,4.62,1070,$$,37.784193,-122.417967,283
+Lazy Bear,"3416 19th St, San Francisco, CA 94110",American (New),4.47,711,$$$$,-9999.0,-9999.0,80109
+Yasukochi's Sweet Stop,"1790 Sutter St, San Francisco, CA 94115",Bakeries,4.53,743,$$,37.786568,-122.429754,7575
+Yasukochi's Sweet Stop,"1790 Sutter St, San Francisco, CA 94115",Bakeries,4.27,743,$$,37.78659,-122.429815,7764
+Dumpling Kitchen,"1935 Taraval St, San Francisco, CA 94116",Chinese,4.0,1875,$$,-9999.0,-9999.0,76942
+Yummy Yummy,"1015 Irving St, San Francisco, CA 94122",Vietnamese,3.84,1508,$$,37.763913,-122.468809,1931
+Mourad Restaurant,"140 New Montgomery St, Ste 1, San Francisco, CA 94105",Moroccan,4.0,1202,$$$$,-9999.0,-9999.0,74975
+Perbacco,"230 California St, San Francisco, CA 94111",Italian,4.09,2124,$$$,37.793368,-122.399294,21785
+Akiko's Restaurant,"431 Bush St, San Francisco, CA 94108",Sushi Bars,4.11,1928,$$$,37.790643,-122.404676,121
+Trestle ,"531 Jackson St, San Francisco, CA 94133",American (New),4.4,987,$$$,-9999.0,-9999.0,82578
+Hillstone,"1800 Montgomery St, San Francisco, CA 94111",American (New),4.17,2367,$$$,37.805643,-122.40529,38179
+Fresh Brew Coffee,"882 Bush St, San Francisco, CA 94108",Coffee & Tea,4.54,642,$,-9999.0,-9999.0,77546
+Brenda's Meat & Three,"919 Divisadero St, San Francisco, CA 94115",Breakfast & Brunch,3.64,1333,$$,37.778194,-122.438474,10875
+Piccolo Forno,"725 Columbus Ave, San Francisco, CA 94133",Pizza,4.38,774,$$,-9999.0,-9999.0,85299
+Farm : Table,"754 Post St, San Francisco, CA 94109",Coffee & Tea,4.01,1826,$$,-9999.0,-9999.0,86161
+Zuni Café,"1658 Market St, San Francisco, CA 94102",Italian,3.79,2875,$$$,37.773415,-122.421598,3645
+Liguria Bakery,"1700 Stockton St, San Francisco, CA 94133",Bakeries,4.4,787,$,37.801407,-122.409296,7762
+Pancho Villa Taqueria,"3071 16th St, San Francisco, CA 94103",Mexican,3.75,2806,$$,37.764897,-122.421234,3651
+Wildseed,"2000 Union St, San Francisco, CA 94123",Vegan,4.97,959,$$,-9999.0,-9999.0,82909
+Stonemill Matcha,"561 Valencia St, San Francisco, CA 94110",Cafes,4.14,1069,$$,-9999.0,-9999.0,94126
+Honey Honey Cafe and Crepery,"599 Post St, San Francisco, CA 94102",Breakfast & Brunch,4.57,2809,$$,37.787863,-122.411407,37682
+Boiling Hot Pot,"5512 Geary Blvd, San Francisco, CA 94121",Hot Pot,4.5,1010,$$$,-9999.0,-9999.0,78332
+Amélie,"1754 Polk St, San Francisco, CA 94109",Wine Bars,3.96,1392,$$,-9999.0,-9999.0,80930
+Dynamo Donut & Coffee,"2760 24th St, San Francisco, CA 94110",Coffee & Tea,4.09,1963,$,37.752928,-122.407612,38423
+Han Il Kwan,"1802 Balboa St, San Francisco, CA 94121",Korean,4.43,1754,$$,37.776599,-122.478292,3165
+Stella Pastry & Cafe,"446 Columbus Ave, San Francisco, CA 94133",Bakeries,3.99,1433,$$,37.799065,-122.408355,33386
+Wonderful Dessert & Cafe,"2035 Irving St, San Francisco, CA 94122",Candy Stores,4.02,1297,$,37.763399,-122.479654,18767
+Chez Maman West,"401 Gough St, San Francisco, CA 94102",French,4.17,1369,$$,37.776889,-122.423039,69110
+Tadu Ethiopian Kitchen,"484 Ellis St, San Francisco, CA 94102",Ethiopian,4.37,691,$$,-9999.0,-9999.0,80361
+BIX,"56 Gold St, San Francisco, CA 94133",American (Traditional),4.24,1906,$$$$,37.796778,-122.402875,3520
+Roam Artisan Burgers,"1785 Union St, San Francisco, CA 94123",Burgers,3.91,1591,$$,37.797954,-122.428477,63047
+Limón,"524 Valencia St, San Francisco, CA 94110",Peruvian,3.94,2680,$$,37.764437,-122.421885,3076
+The Italian Homemade Company,"1919 Union St, San Francisco, CA 94123",Italian,4.86,1093,$$,-9999.0,-9999.0,83575
+Bi-Rite Market,"3639 18th St, San Francisco, CA 94110",Specialty Food,4.65,959,$$$,37.761483,-122.424688,4481
+Taylor Street Coffee Shop,"375 Taylor St, San Francisco, CA 94102",Burgers,3.89,1215,$$,-9999.0,-9999.0,80285
+The Alembic,"1725 Haight St, San Francisco, CA 94117",American (New),4.02,1679,$$,-9999.0,-9999.0,96027
+Sushi Zone,"1815 Market St, San Francisco, CA 94103",Sushi Bars,4.03,1066,$$,37.771437,-122.423892,562
+Pink Onion,"64 14th St, San Francisco, CA 94103",Pizza,4.65,592,$$,-9999.0,-9999.0,90511
+Pancake Boy,"4007 24th St, San Francisco, CA 94114",Breakfast & Brunch,3.73,1103,$$,-9999.0,-9999.0,72027
+Just For You Cafe,"732 22nd St, San Francisco, CA 94107",American (Traditional),4.29,1563,$$,37.757948,-122.388862,1671
+Montesacro SOMA,"510 Stevenson St, San Francisco, CA 94103",Italian,4.22,840,$$,-9999.0,-9999.0,82538
+Saru Sushi Bar - Noe Valley,"3856 24th St, San Francisco, CA 94114",Sushi Bars,4.36,917,$$$,37.751648,-122.428783,67690
+Tataki,"2827 California St, San Francisco, CA 94115",Sushi Bars,3.88,1346,$$,-9999.0,-9999.0,86924
+Muracci's Japanese Curry & Grill,"307 Kearny St, Ste 204, San Francisco, CA 94108",Japanese Curry,4.01,1756,$$,37.790924,-122.404094,36786
+Izakaya Sozai,"1500 Irving St, San Francisco, CA 94122",Ramen,3.75,2116,$$,-9999.0,-9999.0,66736
+Starbelly,"3583 16th St, San Francisco, CA 94114",Comfort Food,4.36,2056,$$,37.764233,-122.43254,60400
+Flour + Water,"2401 Harrison St, San Francisco, CA 94110",Italian,3.64,2422,$$$,37.758913,-122.412426,59637
+Picaro,"3120 16th St, San Francisco, CA 94103",Spanish,4.04,1780,$$,37.764908,-122.422442,3838
+Trattoria Contadina,"1800 Mason St, San Francisco, CA 94133",Italian,4.17,1410,$$,37.800147,-122.412456,3481
+Ozumo,"161 Steuart St, San Francisco, CA 94105",Sushi Bars,4.21,2549,$$$,37.792604,-122.392268,3409
+SusieCakes,"2109 Chestnut St, San Francisco, CA 94123",Bakeries,4.15,1192,$$$,-9999.0,-9999.0,88380
+Perilla,"836 Irving St, San Francisco, CA 94122",Vietnamese,3.96,1447,$$,-9999.0,-9999.0,79821
+Cotogna,"490 Pacific Ave, San Francisco, CA 94133",Italian,4.05,1627,$$$,37.797378,-122.403344,63918
+Delarosa,"2175 Chestnut St, San Francisco, CA 94123",Italian,3.87,1770,$$,37.800414,-122.439127,61512
+Swensen's,"1999 Hyde St, San Francisco, CA 94109",Ice Cream & Frozen Yogurt,3.74,1116,$,37.799187,-122.419115,3323
+Gusto Pinsa Romana,"1000 Bush St, San Francisco, CA 94109",Pizza,4.58,484,$$,-9999.0,-9999.0,98223
+Wako Japanese Restaurant,"211 Clement St, San Francisco, CA 94118",Japanese,4.54,694,$$$$,-9999.0,-9999.0,75574
+Burma Love,"211 Valencia St, San Francisco, CA 94103",Burmese,4.17,1452,$$,-9999.0,-9999.0,83643
+Original Joe's,"601 Union St, San Francisco, CA 94133",Italian,4.02,1761,$$,37.800363,-122.409477,68090
+Manna,"845 Irving St, San Francisco, CA 94122",Korean,4.13,1240,$$,37.763983,-122.46709,65382
+Pho Huynh Hiep 2 - Kevin's Noodle House,"1833 Irving St, San Francisco, CA 94122",Vietnamese,4.0,1812,$$,37.763503,-122.477748,3211
+Good Luck Dim Sum,"736 Clement St, San Francisco, CA 94118",Dim Sum,4.12,1774,$,-9999.0,-9999.0,77960
+Cordon Bleu,"1574 California St, San Francisco, CA 94109",Vietnamese,4.38,1104,$$,37.790683,-122.420264,1345
+Nopalito,"306 Broderick St, San Francisco, CA 94117",Mexican,4.02,1962,$$,37.773348,-122.439147,40001
+Old Skool Cafe,"1429 Mendell St, San Francisco, CA 94124",Soul Food,4.67,603,$$,37.73434,-122.390559,67923
+Beit Rima,"138 Church St, San Francisco, CA 94114",Arabic,4.16,549,$$,-9999.0,-9999.0,102398
+Pica Pica Arepa Kitchen,"401 Valencia St, San Francisco, CA 94103",Gluten-Free,3.91,1601,$$,37.766394,-122.421986,62532
+Bobo's Steakhouse,"1450 Lombard St, San Francisco, CA 94123",Steakhouses,4.24,2192,$$$,37.801218,-122.425535,2725
+Atelier Crenn,"3127 Fillmore St, San Francisco, CA 94123",French,4.97,799,$$$$,37.798403,-122.435804,65060
+The Richmond,"615 Balboa St, San Francisco, CA 94118",American (New),4.63,734,$$$,37.777123,-122.46534,16047
+Crepevine Restaurants,"624 Irving St, San Francisco, CA 94122",Creperies,4.26,1683,$$,-9999.0,-9999.0,74759
+Zushi Puzzle,"1910 Lombard St, San Francisco, CA 94123",Sushi Bars,3.89,1365,$$$,37.800248,-122.433053,2063
+Sushi Bistro,"452 Balboa St, San Francisco, CA 94118",Sushi Bars,3.82,1531,$$,-9999.0,-9999.0,88954
+Nojo Ramen Tavern,"231 Franklin St, San Francisco, CA 94102",Ramen,4.05,1050,$$,-9999.0,-9999.0,85279
+Pineapple King Bakery,"1915 Irving St, San Francisco, CA 94122",Bakeries,4.63,805,$,-9999.0,-9999.0,81258
+San Francisco's Hometown Creamery,"1290 9th Ave, San Francisco, CA 94122",Ice Cream & Frozen Yogurt,4.86,883,$$,-9999.0,-9999.0,82337
+Yamo,"3406 18th St, San Francisco, CA 94110",Burmese,4.04,2027,$,37.761882,-122.419599,1231
+Broken Record,"1166 Geneva Ave, San Francisco, CA 94112",Dive Bars,4.27,1256,$$,37.71444,-122.436835,34102
+Boba Guys,"3491 19th St, San Francisco, CA 94110",Bubble Tea,3.97,1516,$,-9999.0,-9999.0,74039
+Palmyra,"700 Haight St, San Francisco, CA 94117",Mediterranean,3.94,962,$,37.771698,-122.433903,64843
+Amber India,"25 Yerba Buena Ln, San Francisco, CA 94103",Indian,3.83,2216,$$,37.785386,-122.403918,38259
+Alimento,"507 Columbus Ave, San Francisco, CA 94133",Italian,4.41,787,$,-9999.0,-9999.0,85097
+Gialina Pizzeria,"2842 Diamond St, San Francisco, CA 94131",Pizza,3.96,1129,$$,37.733934,-122.434095,32738
+Mona Lisa Restaurant,"353 Columbus Ave, San Francisco, CA 94133",Italian,4.3,2061,$$,-9999.0,-9999.0,82485
+Sushirrito,"226 Kearny St, San Francisco, CA 94108",Japanese,4.15,1572,$$,-9999.0,-9999.0,73849
+Pork Store Cafe,"1451 Haight St, San Francisco, CA 94117",Breakfast & Brunch,3.78,1415,$$,37.770063,-122.446247,1047
+Little Delhi,"83 Eddy St, San Francisco, CA 94102",Indian,4.32,2015,$$,37.784394,-122.409047,59178
+Lokma,"1801 Clement St, San Francisco, CA 94121",Mediterranean,4.38,487,$$,-9999.0,-9999.0,93947
+Omakase,"665 Townsend St, San Francisco, CA 94103",Sushi Bars,4.43,570,$$$$,-9999.0,-9999.0,80484
+Papalote Mexican Grill,"3409 24th St, San Francisco, CA 94110",Mexican,3.93,2275,$$,37.752073,-122.420939,32925
+Outerlands,"4001 Judah St, San Francisco, CA 94122",Breakfast & Brunch,4.13,2305,$$,-9999.0,-9999.0,74829
+Tín Vietnamese Cuisine,"937 Howard St, San Francisco, CA 94103",Vietnamese,4.12,1360,$$,-9999.0,-9999.0,91457
+The Little Chihuahua,"292 Divisadero St, San Francisco, CA 94117",Mexican,4.11,1548,$$,37.771987,-122.437147,59988
+The Rotunda,"150 Stockton St, San Francisco, CA 94108",American (New),4.17,1774,$$$,37.787108,-122.406409,3578
+Oasis Grill,"91 Drumm St, San Francisco, CA 94111",Middle Eastern,3.63,1298,$$,37.794483,-122.396584,58
+Oasis Grill,"91 Drumm St, San Francisco, CA 94111",Middle Eastern,3.93,1298,$$,-9999.0,-9999.0,69962
+Yank Sing,"101 Spear St, San Francisco, CA 94105",Dim Sum,4.05,2675,$$$,37.792577,-122.393992,1673
+Yank Sing,"101 Spear St, San Francisco, CA 94105",Dim Sum,3.69,2675,$$$,37.792577,-122.393992,60475
+Bandit,"683 Geary St, San Francisco, CA 94102",Burgers,4.19,503,$$,-9999.0,-9999.0,92174
+Canela Bistro & Wine Bar,"2272 Market St, San Francisco, CA 94114",Spanish,4.48,734,$$$,-9999.0,-9999.0,66394
+Beanstalk Cafe,"724 Bush St, San Francisco, CA 94108",Coffee & Tea,4.68,905,$,-9999.0,-9999.0,76763
+Chisme Cantina,"882 Sutter St, San Francisco, CA 94109",Tacos,4.39,542,$$,-9999.0,-9999.0,82324
+Bouche,"603 Bush St, San Francisco, CA 94108",French,4.37,838,$$$,37.790323,-122.407348,59691
+Saint Frank Coffee,"2340 Polk St, San Francisco, CA 94109",Coffee & Tea,4.65,809,$,-9999.0,-9999.0,76409
+Little Skillet,"360 Ritch St, San Francisco, CA 94107",Breakfast & Brunch,3.56,2081,$$,-9999.0,-9999.0,75406
+Volcano,"5454 Geary Blvd, San Francisco, CA 94121",Japanese Curry,4.05,1288,$$,37.780515,-122.477846,39695
+Barbacco,"220 California St, San Francisco, CA 94111",Italian,3.94,1635,$$,37.793419,-122.399088,61550
+Il Canto Cafe,"475 Sacramento St, San Francisco, CA 94111",Coffee & Tea,4.19,481,$,37.794063,-122.400726,71915
+Press Club,"20 Yerba Buena Ln, San Francisco, CA 94103",Wine Bars,4.19,1195,$$$,37.785386,-122.403723,37350
+Ritual Coffee Roasters,"1026 Valencia St, San Francisco, CA 94110",Coffee Roasteries,3.7,1918,$$,37.756427,-122.421094,18996
+Butter,"354 11th St, San Francisco, CA 94103",Dive Bars,3.63,1140,$,37.771168,-122.413179,2407
+Eiji,"317 Sanchez St, San Francisco, CA 94114",Sushi Bars,3.67,1118,$$,-9999.0,-9999.0,81971
+"La Boulangerie de San Francisco, Pine","2325 Pine St, San Francisco, CA 94115",Bakeries,4.83,802,$,-9999.0,-9999.0,85158
+My Tofu House,"4627 Geary Blvd, San Francisco, CA 94118",Korean,4.14,1694,$$,-9999.0,-9999.0,83148
+Sanraku,"704 Sutter St, San Francisco, CA 94109",Japanese,4.25,1802,$$,37.788798,-122.412164,2843
+LaoTable,"149 2nd St, San Francisco, CA 94105",Laotian,4.03,1275,$$,37.787343,-122.398902,15738
+Patxi's Pizza,"511 Hayes St, San Francisco, CA 94102",Pizza,3.71,2408,$$,37.776593,-122.425017,17762
+Pizzeria Delfina - Pacific Heights,"2406 California St, San Francisco, CA 94115",Pizza,4.65,1511,$$,37.788878,-122.434283,38788
+San Francisco Wine Society,"408 Merchant St, San Francisco, CA 94111",Wine Bars,4.77,822,$$,37.795428,-122.400714,67509
+Helmand Palace,"2424 Van Ness Ave, San Francisco, CA 94109",Afghan,4.96,865,$$,-9999.0,-9999.0,83995
+Basil Thai Restaurant & Bar,"1175 Folsom St, San Francisco, CA 94103",Thai,4.19,1545,$$,37.775508,-122.409361,3459
+El Metate Restaurant,"2406 Bryant St, San Francisco, CA 94110",Mexican,4.01,1192,$$,-9999.0,-9999.0,70019
+Cha-Ya San Francisco,"762 Valencia St, San Francisco, CA 94110",Japanese,3.97,1251,$$,37.760777,-122.421505,69181
+Marcella's Lasagneria,"1099 Tennessee St, San Francisco, CA 94107",Italian,4.22,445,$$,-9999.0,-9999.0,82636
+Chloe's Cafe,"1399 Church St, San Francisco, CA 94114",Breakfast & Brunch,3.7,1039,$$,37.748594,-122.427116,1332
+Kingdom Of Dumplings,"1713 Taraval St, San Francisco, CA 94116",Dim Sum,3.89,2251,$$,-9999.0,-9999.0,80316
+Delarosa,"37 Yerba Buena Ln, San Francisco, CA 94103",Pizza,4.22,1466,$$,-9999.0,-9999.0,84038
+Mazarine Coffee,"720 Market St, San Francisco, CA 94102",Coffee & Tea,4.15,817,$$,-9999.0,-9999.0,79753
+The Grove Yerba Buena,"690 Mission St, San Francisco, CA 94105",Sandwiches,3.86,2015,$$,37.786474,-122.401788,61602
+Arizmendi Bakery,"1268 Valencia St, San Francisco, CA 94110",Bakeries,4.32,688,$,37.752612,-122.420769,64116
+Mikkeller Bar,"34 Mason St, San Francisco, CA 94102",Gastropubs,4.34,1247,$$,-9999.0,-9999.0,74358
+Ace Wasabi  Rock-N-Roll Sushi,"3339 Steiner St, San Francisco, CA 94123",Sushi Bars,4.25,1008,$$,37.800215,-122.437834,3727
+Curry Leaf,"943 Columbus Ave, San Francisco, CA 94133",Indian,4.27,758,$$,-9999.0,-9999.0,76543
+Thai Idea Vegetarian,"710 Polk St, San Francisco, CA 94109",Thai,4.61,779,$$,-9999.0,-9999.0,93336
+Marnee Thai,"2225 Irving St, San Francisco, CA 94122",Thai,4.15,1894,$$,37.763343,-122.481809,538
+Zeitgeist,"199 Valencia St, San Francisco, CA 94103",Bars,3.79,2691,$,-9999.0,-9999.0,68799
+Capo's by Tony Gemignani,"641 Vallejo St, San Francisco, CA 94133",Italian,4.2,896,$$,-9999.0,-9999.0,68321
+CoffeeShop,"3139 Mission St, San Francisco, CA 94110",Coffee & Tea,4.54,379,$$,-9999.0,-9999.0,74202
+Cafe Bunn Mi,"417 Clement St, San Francisco, CA 94118",Vietnamese,4.09,1359,$$,37.782953,-122.4637,66361
+Ananda Fuara,"1298 Market St, San Francisco, CA 94102",Vegetarian,4.0,1129,$$,37.777824,-122.415969,2561
+Shabu Club,"951 Clement St, San Francisco, CA 94118",Japanese,3.68,908,$$$,-9999.0,-9999.0,71999
+Joe’s Ice Cream,"5420 Geary Blvd, San Francisco, CA 94121",Ice Cream & Frozen Yogurt,3.75,895,$,37.780488,-122.477751,68784
+Cafe de Casa,"2701 Leavenworth St, San Francisco, CA 94133",Coffee & Tea,4.14,498,$$,-9999.0,-9999.0,82315
+Nob Hill Cafe,"1152 Taylor St, San Francisco, CA 94108",Italian,4.13,1411,$$,37.793238,-122.412746,1829
+The Progress,"1525 Fillmore St, San Francisco, CA 94115",American (New),4.17,943,$$$$,-9999.0,-9999.0,80893
+Keeva Indian Kitchen,"908 Clement St, San Francisco, CA 94118",Indian,4.33,641,$$,-9999.0,-9999.0,89025
+SPQR,"1911 Fillmore St, San Francisco, CA 94115",Italian,3.65,2026,$$$$,37.787295,-122.433535,34418
+House of Nanking,"919 Kearny St, San Francisco, CA 94133",Dim Sum,3.75,3616,$$,37.796463,-122.405224,884
+Plentea,"341 Kearny St, San Francisco, CA 94108",Tea Rooms,3.82,2046,$,-9999.0,-9999.0,77760
+Rintaro,"82 14th St, San Francisco, CA 94103",Izakaya,3.86,754,$$$,-9999.0,-9999.0,79410
+Mr Pollo,"2823 Mission St, San Francisco, CA 94110",American (New),4.47,620,$$$,-9999.0,-9999.0,77750
+The Mill,"736 Divisadero St, San Francisco, CA 94117",Coffee & Tea,4.0,1259,$$,-9999.0,-9999.0,71366
+Dancing Yak,"280 Valencia St, San Francisco, CA 94103",Himalayan/Nepalese,3.95,613,$$,-9999.0,-9999.0,95177
+Chong Qing Xiao Mian,"915 Kearny St, San Francisco, CA 94133",Noodles,3.84,994,$$,-9999.0,-9999.0,88082
+PABU Izakaya San Francisco,"101 California St, San Francisco, CA 94111",Japanese,3.89,1158,$$$$,37.793424,-122.398168,61499
+PABU Izakaya San Francisco,"101 California St, San Francisco, CA 94111",Japanese,3.69,1158,$$$$,37.793424,-122.398168,61856
+PABU Izakaya San Francisco,"101 California St, San Francisco, CA 94111",Japanese,3.86,1158,$$$$,-9999.0,-9999.0,78426
+International Smoke San Francisco,"301 Mission St, San Francisco, CA 94105",Barbeque,4.07,1616,$$$,37.790958,-122.396042,39824
+New Eritrea Restaurant & Bar,"907 Irving St, San Francisco, CA 94122",Ethiopian,3.7,801,$$,37.763964,-122.467639,3183
+Rhea's Deli & Market,"800 Valencia St, San Francisco, CA 94110",Delis,4.57,678,$,-9999.0,-9999.0,78172
+The Yellow Submarine,"503 Irving St, San Francisco, CA 94122",Sandwiches,4.19,967,$,37.764136,-122.463146,65531
+Wooden Spoon,"2172 Market St, San Francisco, CA 94114",Breakfast & Brunch,4.2,496,$$,-9999.0,-9999.0,93105
+IPOT,"1420 Irving St, San Francisco, CA 94122",Chinese,4.04,1131,$$$,-9999.0,-9999.0,81857
+Mission Rock Resort,"817 Terry Francois Blvd, San Francisco, CA 94158",Seafood,3.79,1379,$$,-9999.0,-9999.0,69147
+St. Francis Fountain,"2801 24th St, San Francisco, CA 94110",Breakfast & Brunch,4.21,1217,$$,37.752833,-122.408349,2421
+San Francisco Museum of Modern Art,"151 3rd St, San Francisco, CA 94103",Art Museums,3.76,759,,-9999.0,-9999.0,87339
+Frena,"132 6th St, San Francisco, CA 94103",Bakeries,4.66,432,$$,-9999.0,-9999.0,89728
+Lou's Cafe,"1508 Taraval St, San Francisco, CA 94116",Breakfast & Brunch,4.37,468,$,-9999.0,-9999.0,79564
+Live Sushi Bar,"2001 17th St, San Francisco, CA 94103",Sushi Bars,3.81,1305,$$,37.764693,-122.403699,37038
+25 Lusk,"25 Lusk St, San Francisco, CA 94107",American (New),4.11,1459,$$$,37.778414,-122.394411,64384
+25 Lusk,"25 Lusk St, San Francisco, CA 94107",American (New),4.01,1459,$$$,-9999.0,-9999.0,93572
+Noe Valley Bakery,"4073 24th St, San Francisco, CA 94114",Bakeries,4.15,871,$$,37.751314,-122.433409,4434
+Breakfast at Tiffany's,"2499 San Bruno Ave, San Francisco, CA 94134",Diners,4.37,1022,$$,-9999.0,-9999.0,78306
+Philmore Creamery,"1840 Fillmore St, San Francisco, CA 94115",Gelato,4.09,324,$$,-9999.0,-9999.0,95657
+Grubbin',"1404 Taraval St, San Francisco, CA 94116",Sandwiches,4.14,543,$$,-9999.0,-9999.0,77781
+VeganBurg,"1466 Haight St, San Francisco, CA 94117",Vegan,4.11,921,$$,-9999.0,-9999.0,82373
+Poc-Chuc,"2886 16th St, San Francisco, CA 94103",Latin American,4.54,578,$$,-9999.0,-9999.0,77548
+The Fly Trap,"606 Folsom St, San Francisco, CA 94107",Bars,4.05,1069,$$,37.785404,-122.396979,38479
+El Castillito,"136 Church St, Ste 1111, San Francisco, CA 94114",Mexican,4.19,887,$$,37.768776,-122.429095,943
+Eats,"50 Clement St, San Francisco, CA 94118",American (Traditional),3.83,1260,$$,37.783221,-122.459588,61093
+Kitava,"2011 Mission St, San Francisco, CA 94110",Gluten-Free,4.25,561,$$,-9999.0,-9999.0,90652
+Cassava,"3519 Balboa St, San Francisco, CA 94121",American (New),3.95,951,$$$,37.775705,-122.496453,68493
+West of Pecos,"550 Valencia St, San Francisco, CA 94110",American (Traditional),3.96,1096,$$,37.764087,-122.421881,68963
+Hook Fish,"4542 Irving St, San Francisco, CA 94122",Seafood,4.95,805,$$,-9999.0,-9999.0,90758
+House of Thai,"901 Larkin St, San Francisco, CA 94109",Thai,4.25,1486,$$,37.786119,-122.418182,64161
+Shalimar,"532 Jones St, San Francisco, CA 94102",Pakistani,3.7,1464,$$,-9999.0,-9999.0,69665
+Padrecito,"901 Cole St, San Francisco, CA 94117",Mexican,3.98,1027,$$,37.765644,-122.449974,71356
+Jin Pot Shabu House,"5158 Geary Blvd, San Francisco, CA 94118",Japanese,4.63,415,$$$,-9999.0,-9999.0,92029
+Oren's Hummus,"71 3rd St, San Francisco, CA 94103",Mediterranean,3.69,811,$$,-9999.0,-9999.0,94127
+Cafe Europa,"4318 California St, San Francisco, CA 94118",German,4.44,528,$$,37.785108,-122.463874,70641
+Aslam's Rasoi,"1037 Valencia St, San Francisco, CA 94110",Indian,3.99,965,$$,37.756293,-122.421016,65487
+ROOH,"333 Brannan St, Ste 150, San Francisco, CA 94107",Indian,4.11,1000,$$$,-9999.0,-9999.0,86484
+ROOH,"333 Brannan St, Ste 150, San Francisco, CA 94107",Indian,4.18,1000,$$$,-9999.0,-9999.0,89722
+Lahore Karahi,"612 O'Farrell St, San Francisco, CA 94109",Indian,3.94,1464,$$,37.785635,-122.414779,69016
+The Pink Elephant,"142 Minna St, San Francisco, CA 94105",Breakfast & Brunch,4.29,1599,$$$,-9999.0,-9999.0,69397
+Trick Dog,"3010 20th St, San Francisco, CA 94110",Cocktail Bars,3.64,848,$$,-9999.0,-9999.0,71149
+La Palma Mexicatessen,"2884 24th St, San Francisco, CA 94110",Mexican,4.47,691,$,37.752798,-122.409922,4914
+15 Romolo,"15 Romolo Pl, San Francisco, CA 94133",Tapas/Small Plates,3.8,1075,$$,37.798244,-122.406324,1844
+Rolling Out,"1722 Taraval St, San Francisco, CA 94116",Bakeries,4.33,492,$,37.742678,-122.484682,67567
+Causwells,"2346 Chestnut St, San Francisco, CA 94123",American (New),3.78,858,$$,-9999.0,-9999.0,78338
+Hong Kong Lounge,"5322 Geary Blvd, San Francisco, CA 94121",Dim Sum,3.65,1726,$$,-9999.0,-9999.0,99421
+Ted's Market & Deli,"1530 Howard St, San Francisco, CA 94103",Delis,4.36,519,$,37.772723,-122.41608,4923
+The Baked Bear,"303 Columbus Ave, San Francisco, CA 94133",Desserts,4.61,622,$,-9999.0,-9999.0,86294
+Domo,"511 Laguna St, San Francisco, CA 94102",Sushi Bars,3.89,931,$$,37.775902,-122.426174,39513
+Pho 2000,"637 Larkin St, San Francisco, CA 94109",Vietnamese,4.02,845,$$,-9999.0,-9999.0,99268
+Aria Korean Street Food,"932 Larkin St, San Francisco, CA 94109",Korean,3.87,1089,$$,37.786565,-122.418116,69353
+City View Restaurant,"662 Commercial St, San Francisco, CA 94111",Dim Sum,3.88,1433,$$,37.794127,-122.404074,3510
+Caffe Greco,"423 Columbus Ave, San Francisco, CA 94133",Coffee & Tea,3.94,1120,$,37.79886,-122.408204,473
+Jane on Fillmore,"2123 Fillmore St, San Francisco, CA 94115",Coffee & Tea,3.78,1087,$$,37.789404,-122.433954,64835
+Magnolia Brewing - Haight,"1398 Haight St, San Francisco, CA 94117",Gastropubs,3.67,1809,$$,-9999.0,-9999.0,93539
+Tacolicious,"741 Valencia St, San Francisco, CA 94110",Caterers,3.45,1570,$$,37.760974,-122.421456,66685
+Freddie's Sandwiches,"300 Francisco St, San Francisco, CA 94133",Sandwiches,4.0,539,$,37.805128,-122.410284,4465
+The Baked Bear,"2824 Jones St, San Francisco, CA 94133",Ice Cream & Frozen Yogurt,4.21,433,$,-9999.0,-9999.0,86283
+The Shota,"115 Sansome St, San Francisco, CA 94104",Japanese,4.77,226,$$$$,-9999.0,-9999.0,82930
+The Shota,"115 Sansome St, San Francisco, CA 94104",Japanese,4.94,226,$$$$,-9999.0,-9999.0,85525
+Monsieur Benjamin,"451 Gough St, San Francisco, CA 94102",French,3.52,1034,$$$,-9999.0,-9999.0,78213
+Sodini's Green Valley Restaurant,"510 Green St, San Francisco, CA 94133",Italian,3.89,990,$$,37.799697,-122.407614,63121
+Phat Philly,"3388 24th St, San Francisco, CA 94110",Sandwiches,4.14,1062,$$,-9999.0,-9999.0,79025
+Bi-Rite Market,"550 Divisadero St, San Francisco, CA 94117",Grocery,4.23,518,$$$,-9999.0,-9999.0,71530
+Christopher Elbow Chocolates,"401 Hayes St, San Francisco, CA 94102",Desserts,4.42,490,$$$,-9999.0,-9999.0,84888
+Alegrias,"2018 Lombard St, San Francisco, CA 94123",Spanish,3.58,861,$$,37.800048,-122.434714,2507
+Bite,"912 Sutter St, San Francisco, CA 94104",Delis,3.73,837,$$,37.788367,-122.415474,59599
+Plain Jane,"1000 Guerrero St, San Francisco, CA 94110",Breakfast & Brunch,4.09,442,$$,-9999.0,-9999.0,99740
+Higher Grounds Coffee House,"691 Chenery St, San Francisco, CA 94131",Coffee & Tea,4.25,470,$$,37.734483,-122.43368,1339
+Arinell Pizza,"509 Valencia St, San Francisco, CA 94110",Pizza,4.0,1228,$,37.764744,-122.421803,1081
+Escape From New York Pizza,"1737 Haight St, San Francisco, CA 94117",Pizza,4.43,1198,$,37.769423,-122.451227,58781
+The Pawn Shop,"993 Mission St, San Francisco, CA 94103",Speakeasies,4.2,385,$$,-9999.0,-9999.0,98222
+Sons & Daughters,"708 Bush St, San Francisco, CA 94108",American (New),3.77,734,$$$$,-9999.0,-9999.0,81974
+The Cavalier,"360 Jessie St, San Francisco, CA 94103",American (New),3.71,1075,$$$,-9999.0,-9999.0,75187
+Toyose,"3814 Noriega St, San Francisco, CA 94122",Korean,3.6,1637,$$,-9999.0,-9999.0,69528
+Wayo Sushi,"1407 Van Ness Ave, San Francisco, CA 94109",Sushi Bars,3.73,736,$$,37.788609,-122.42213,323
+Miette Patisserie & Confiserie,"449 Octavia St, San Francisco, CA 94102",Bakeries,3.82,705,$$,37.776257,-122.424648,33084
+Caffe Macaroni,"59 Columbus Ave, San Francisco, CA 94133",Italian,4.4,590,$$,-9999.0,-9999.0,88821
+Sixth Course,"1544 15th St, San Francisco, CA 94103",Desserts,4.14,385,$$,-9999.0,-9999.0,79783
+El Farolito,"2950 24th St, San Francisco, CA 94110",Mexican,3.9,905,$,37.752728,-122.411122,2427
+Taqueria Vallarta,"3033 24th St, San Francisco, CA 94110",Tacos,3.83,891,$$,-9999.0,-9999.0,98995
+Tonga Room & Hurricane Club,"950 Mason St, San Francisco, CA 94108",Asian Fusion,3.7,2837,$$$,-9999.0,-9999.0,85933
+Tonga Room & Hurricane Club,"950 Mason St, San Francisco, CA 94108",Asian Fusion,4.19,2837,$$$,-9999.0,-9999.0,85935
+Tonga Room & Hurricane Club,"950 Mason St, San Francisco, CA 94108",Asian Fusion,3.47,2837,$$$,-9999.0,-9999.0,85936
+Tonga Room & Hurricane Club,"950 Mason St, San Francisco, CA 94108",Asian Fusion,3.77,2837,$$$,-9999.0,-9999.0,85937
+Tacolicious,"2250 Chestnut St, San Francisco, CA 94123",Cocktail Bars,3.38,1696,$$,-9999.0,-9999.0,88139
+Campton Place,"340 Stockton St, San Francisco, CA 94108",American (New),3.82,739,$$$$,37.789128,-122.406847,34221
+Haight Street Market,"1530 Haight St, San Francisco, CA 94117",Grocery,4.53,482,$$,37.769957,-122.447533,64660
+Haight Street Market,"1530 Haight St, San Francisco, CA 94117",Grocery,4.61,482,$$,-9999.0,-9999.0,80961
+Z & Y Restaurant,"655 Jackson St, San Francisco, CA 94133",Dim Sum,3.68,1952,$$,-9999.0,-9999.0,76477
+Little Sweet - Inner Richmond,"3836 Geary Blvd, San Francisco, CA 94118",Bubble Tea,3.8,824,$$,-9999.0,-9999.0,81884
+Sears Fine Food,"439 Powell St, San Francisco, CA 94102",American (Traditional),3.62,2085,$$,37.788823,-122.408554,3482
+Crustacean,"1475 Polk St, Fl 3, San Francisco, CA 94109",Asian Fusion,3.48,1707,$$$,37.790324,-122.420664,1144
+Crustacean,"1475 Polk St, Fl 3, San Francisco, CA 94109",Asian Fusion,3.52,1707,$$$,37.790324,-122.420664,3048
+Crustacean,"1475 Polk St, Fl 3, San Francisco, CA 94109",Asian Fusion,3.6,1707,$$$,37.790324,-122.420664,65672
+La Corneta Taqueria,"2834 Diamond St, San Francisco, CA 94131",Mexican,4.36,1232,$$,37.734012,-122.434072,69475
+Ristorante Milano,"1448 Pacific Ave, San Francisco, CA 94109",Italian,3.81,734,$$$,37.795398,-122.419044,65833
+Mission Street Oyster Bar & Seafood Restaurant,"2282 Mission St, San Francisco, CA 94110",Seafood,3.75,687,$$,-9999.0,-9999.0,69813
+Mo's Grill,"1322 Grant Ave, San Francisco, CA 94133",Burgers,3.79,894,$$,37.799058,-122.407217,480
+Cha Cha Cha,"2327 Mission St, San Francisco, CA 94110",Bars,3.42,2003,$$,-9999.0,-9999.0,89141
+Sakesan Sushi & Bistro,"626 Clement St, San Francisco, CA 94118",Japanese,3.9,1138,$$,37.782898,-122.466011,65813
+Lupa Trattoria,"4109 24th St, San Francisco, CA 94114",Italian,3.72,702,$$,37.751243,-122.434529,1626
+Johnny Foley's,"243 O'Farrell St, San Francisco, CA 94102",Irish,4.19,1347,$$,37.786314,-122.408697,3796
+Fable,"558 Castro St, San Francisco, CA 94114",American (New),3.61,693,$$,37.759928,-122.434945,71328
+Saffron 685,"685 Townsend St, San Francisco, CA 94103",Mediterranean,3.78,859,$$,37.770728,-122.402962,27947
+Breadbelly,"1408 Clement St, San Francisco, CA 94118",Bakeries,4.1,381,$$,-9999.0,-9999.0,97975
+Le Colonial,"20 Cosmo Pl, San Francisco, CA 94109",Vietnamese,3.52,1744,$$$,37.788108,-122.412394,3935
+Cioppino's,"400 Jefferson St, San Francisco, CA 94109",Italian,3.41,1817,$$,37.807854,-122.419124,3120
+Kazan,"2809 24th St, San Francisco, CA 94110",Japanese,4.36,525,$$,-9999.0,-9999.0,80629
+The Pizza Shop,"3104 24th St, San Francisco, CA 94110",Pizza,4.2,444,$,-9999.0,-9999.0,75465
+Norman's Ice Cream & Freezes,"2801 Leavenworth St, San Francisco, CA 94133",Ice Cream & Frozen Yogurt,4.43,386,$,37.807155,-122.419004,1442
+Norman's Ice Cream & Freezes,"2801 Leavenworth St, San Francisco, CA 94133",Ice Cream & Frozen Yogurt,4.45,386,$,37.807155,-122.419004,31
+ChouChou French Bistro,"400 Dewey Blvd, San Francisco, CA 94116",French,4.25,1283,$$$,37.747174,-122.459368,71476
+Crown & Crumpet Tea Salon,"1746 Post St, San Francisco, CA 94115",Tea Rooms,3.5,771,$$,-9999.0,-9999.0,73998
+Saison,"178 Townsend St, San Francisco, CA 94107",American (New),3.47,581,$$$$,-9999.0,-9999.0,70949
+Kuma Sushi + Sake,"1040 Polk St, San Francisco, CA 94109",Sushi Bars,4.57,434,$$,-9999.0,-9999.0,91989
+Rocco's Café,"1131 Folsom St, San Francisco, CA 94103",Italian,3.79,1057,$$,37.776127,-122.408602,2995
+Birdsong,"1085 Mission St, San Francisco, CA 94103",American (New),4.13,343,$$$$,-9999.0,-9999.0,94280
+Papito Potrero Hill,"1457 18th St, San Francisco, CA 94107",Mexican,3.61,783,$$,37.762493,-122.397073,61460
+Sushi Hon,"2598 Harrison St, San Francisco, CA 94110",Japanese,4.16,452,$$$$,37.749851,-122.415121,5301
+Sushi Hon,"2598 Harrison St, San Francisco, CA 94110",Japanese,4.76,452,$$$$,-9999.0,-9999.0,86475
+Palm House,"2032 Union St, San Francisco, CA 94123",Caribbean,4.44,1111,$$,-9999.0,-9999.0,78747
+Street Taco,"1607 Haight St, San Francisco, CA 94117",Mexican,3.69,643,$$,-9999.0,-9999.0,79052
+Elephant Sushi,"1916 Hyde St, San Francisco, CA 94109",Sushi Bars,4.06,860,$$$,37.79861,-122.418867,69512
+HOT JOHNNIE’S,"4077 18th St, San Francisco, CA 94114",Sandwiches,4.91,247,$$,37.760893,-122.434459,66336
+DragonEats,"520 Gough St, San Francisco, CA 94102",Vietnamese,4.42,460,$,37.778357,-122.423237,69388
+Golden Star Vietnamese Restaurant,"11 Walter U Lum Pl, San Francisco, CA 94108",Vietnamese,3.61,1275,$$,37.794555,-122.405724,3547
+GIO Gelati - San Francisco,"1998 Union St, San Francisco, CA 94123",Gelato,4.79,295,$,-9999.0,-9999.0,93822
+Yo Yo's,"318 Pacific Ave, San Francisco, CA 94111",Japanese,4.46,585,$,37.797668,-122.401134,4623
+Bean Bag Cafe,"601 Divisadero St, San Francisco, CA 94117",Coffee & Tea,4.05,919,$$,37.775184,-122.437864,2374
+Super Duper Burgers,"2201 Chestnut St, San Francisco, CA 94123",Burgers,4.48,972,$$,37.800344,-122.439697,66999
+Sift Dessert Bar,"2411 California St, San Francisco, CA 94115",Desserts,3.92,733,$$,37.788834,-122.43402,69753
+Fillmore Bakeshop,"1890 Fillmore St, San Francisco, CA 94115",Desserts,3.86,552,$$,37.786951,-122.433362,64346
+Ambrosia Bakery,"2605 Ocean Ave, San Francisco, CA 94132",Bakeries,3.96,647,$,-9999.0,-9999.0,96110
+ABV,"3174 16th St, San Francisco, CA 94103",Cocktail Bars,3.79,639,$$,-9999.0,-9999.0,78642
+Teaspoon,"2125 Polk St, San Francisco, CA 94109",Desserts,3.7,622,$$,-9999.0,-9999.0,88574
+Boogaloos,"3296 22nd St, San Francisco, CA 94110",American (Traditional),4.19,1143,$$,37.755357,-122.420652,2426
+Lucca Delicatessen,"2120 Chestnut St, San Francisco, CA 94123",Delis,4.07,730,$$,37.800568,-122.438354,4734
+Enjoy Vegetarian Restaurant,"754 Kirkham St, San Francisco, CA 94122",Chinese,3.48,569,$$,37.760198,-122.469081,17647
+Noeteca Wine Bar,"1551 Dolores St, San Francisco, CA 94110",Wine Bars,4.37,498,$$,-9999.0,-9999.0,90010
+Saiwaii Ramen,"2240 Irving St, San Francisco, CA 94122",Ramen,4.45,1219,$$,37.763368,-122.482262,63615
+Dianda's Italian American Pastry,"2883 Mission St, San Francisco, CA 94110",Bakeries,3.69,678,$$,37.750959,-122.418264,7786
+Poesia,"4072 18th St, San Francisco, CA 94114",Italian,3.99,846,$$$,37.760959,-122.434302,36614
+Jasmine Garden,"708 14th St, San Francisco, CA 94114",Vietnamese,3.64,696,$$,37.767718,-122.429332,38070
+Mission Chinese Food,"2234 Mission St, Lung Shan Restaurant, San Francisco, CA 94110",Chinese,3.66,2361,$$,-9999.0,-9999.0,78215
+Brothers Restaurant,"4128 Geary Blvd, San Francisco, CA 94118",Korean,4.0,1267,$$,37.781148,-122.463762,39119
+Za Pizza,"1919 Hyde St, San Francisco, CA 94109",Pizza,4.03,1186,$$,37.798553,-122.418964,2053
+JIJIME,"5524 Geary Blvd, San Francisco, CA 94121",Korean,4.53,452,$$,-9999.0,-9999.0,93187
+Tanguito,"2850 Jones St, San Francisco, CA 94133",Argentine,4.12,637,$$,37.807263,-122.41722,38307
+Crostini & Java,"899 Hyde St, San Francisco, CA 94109",Coffee & Tea,4.9,266,$$,-9999.0,-9999.0,89138
+Esperpento,"3295 22nd St, San Francisco, CA 94110",Spanish,3.07,1371,$$,37.755303,-122.420649,1584
+Twisted Donuts and Coffee,"1243 Noriega St, San Francisco, CA 94122",Donuts,4.43,518,$,-9999.0,-9999.0,79407
+OSHA Thai Noodle Cafe,"696 Geary St, San Francisco, CA 94102",Thai,3.44,1703,$$,37.786598,-122.414583,1741
+E&O Kitchen and Bar,"314 Sutter St, San Francisco, CA 94108",Asian Fusion,3.57,1150,$$,-9999.0,-9999.0,88475
+Flores,"2030 Union St, San Francisco, CA 94123",Mexican,3.83,809,$$,-9999.0,-9999.0,89775
+Paprika,"3324 24th St, San Francisco, CA 94110",Czech,4.37,438,$$,-9999.0,-9999.0,78762
+Java Beach Café,"1396 La Playa St, San Francisco, CA 94122",Coffee & Tea,3.79,1151,$$,37.760416,-122.509106,961
+Iza Ramen Lower Haight,"237 Fillmore St, San Francisco, CA 94117",Ramen,3.7,771,$$,-9999.0,-9999.0,83994
+Nabe,"1325 9th Ave, San Francisco, CA 94122",Hot Pot,3.21,553,$$,-9999.0,-9999.0,88577
+Boba Guys,"8 Octavia St, San Francisco, CA 94102",Coffee & Tea,3.91,573,$,-9999.0,-9999.0,85809
+Daigo Sushi,"2450 Clement St, San Francisco, CA 94121",Japanese,3.28,548,$$,-9999.0,-9999.0,69957
+Nara,"1515 Polk St, San Francisco, CA 94109",Japanese,4.14,429,$$,-9999.0,-9999.0,91453
+New Taraval Cafe,"1054 Taraval St, San Francisco, CA 94116",Breakfast & Brunch,4.49,566,$$,-9999.0,-9999.0,82100
+Ginza Sushi & Sake,"1793 Haight St, San Francisco, CA 94117",Sushi Bars,3.35,551,$$,-9999.0,-9999.0,86073
+Kaiju Eats Ramen and Izakaya,"3409 Geary Blvd, San Francisco, CA 94118",Sushi Bars,4.06,857,$$,-9999.0,-9999.0,84656
+Rooster & Rice,"2211 Filbert St, San Francisco, CA 94123",Chicken Shop,4.42,489,$$,-9999.0,-9999.0,94722
+Toyama Sushi,"3727 Geary Blvd, San Francisco, CA 94118",Japanese,4.28,340,$$,-9999.0,-9999.0,94959
+District San Francisco,"216 Townsend St, San Francisco, CA 94107",Wine Bars,3.92,1187,$$,37.778534,-122.393219,24534
+Cafe La Flore Irving,"1340 Irving St, San Francisco, CA 94122",Coffee & Tea,4.17,479,$$,37.763798,-122.472422,68909
+Muguboka Restaurant,"401 Balboa St, San Francisco, CA 94118",Korean,3.8,800,$$,-9999.0,-9999.0,97882
+Taqueria El Buen Sabor,"699 Valencia St, San Francisco, CA 94110",Mexican,3.81,646,$,37.761743,-122.421492,1296
+Terzo,"3011 Steiner St, San Francisco, CA 94123",Mediterranean,3.69,672,$$$,37.797144,-122.437224,18805
+District Tea,"2154 Mission St, San Francisco, CA 94110",Bubble Tea,4.62,324,$$,-9999.0,-9999.0,100992
+Ly's Vietnamese Cuisine,"1779 Lombard St, San Francisco, CA 94123",Vietnamese,4.65,527,$$,-9999.0,-9999.0,83403
+San Francisco Wine & Cheese,"141 Gough St, San Francisco, CA 94102",Cheese Shops,4.35,163,$$,-9999.0,-9999.0,96598
+A16,"2355 Chestnut St, San Francisco, CA 94123",Italian,3.37,2104,$$$,37.800043,-122.442097,10668
+Vega,"419 Cortland Ave, San Francisco, CA 94110",Italian,3.99,686,$$,37.739207,-122.417447,95
+Sai Jai Thai Restaurant,"771 O'Farrell St, San Francisco, CA 94109",Thai,3.81,943,$,37.785182,-122.417409,1734
+Uncle Benny's Donut and Bagel,"2049 Irving St, San Francisco, CA 94122",Donuts,4.38,427,$$,-9999.0,-9999.0,78063
+Souvla,"531 Divisadero St, San Francisco, CA 94117",Mediterranean,3.59,520,$$,-9999.0,-9999.0,87401
+Barzotto,"1270 Valencia St, San Francisco, CA 94110",Italian,3.98,748,$$,-9999.0,-9999.0,88113
+Brazen Head,"3166 Buchanan St, San Francisco, CA 94123",Steakhouses,3.67,810,$$,37.799218,-122.432517,665
+Puerto Alegre,"546 Valencia St, San Francisco, CA 94110",Mexican,4.07,1108,$$,37.764148,-122.421855,2980
+The Morris,"2501 Mariposa St, San Francisco, CA 94110",American (New),4.46,339,$$$,-9999.0,-9999.0,87203
+Irving Subs,"1298 12th Ave, San Francisco, CA 94122",Sandwiches,4.31,425,$$,-9999.0,-9999.0,92242
+Champa Garden,"613 Faxon Ave, San Francisco, CA 94112",Laotian,4.07,909,$$,-9999.0,-9999.0,75402
+Moscow & Tbilisi Bakery Store,"5540 Geary Blvd, San Francisco, CA 94121",Bakeries,3.68,630,$,37.780439,-122.478982,3189
+The Cheese Steak Shop,"1716 Divisadero St, San Francisco, CA 94115",Sandwiches,4.27,1013,$$,-9999.0,-9999.0,94703
+Chambers,"601 Eddy St, San Francisco, CA 94109",American (New),3.88,997,$$,37.783194,-122.418096,65829
+Purple Kow,"3620 Balboa St, San Francisco, CA 94121",Coffee & Tea,3.45,2490,$$,-9999.0,-9999.0,94928
+Uva Enoteca,"568 Haight St, San Francisco, CA 94117",Italian,4.02,949,$$,37.771988,-122.431564,36758
+AL's Place,"1499 Valencia St, San Francisco, CA 94110",American (New),3.7,903,$$$,-9999.0,-9999.0,80669
+Gallardos Mexican Restaurant,"3248 18th St, San Francisco, CA 94110",Mexican,3.6,510,$$,-9999.0,-9999.0,74374
+Octavia,"1701 Octavia St, San Francisco, CA 94109",American (New),4.18,628,$$$,-9999.0,-9999.0,81812
+Beep’s Burgers,"1051 Ocean Ave, San Francisco, CA 94112",Burgers,3.65,843,$$,-9999.0,-9999.0,78996
+Yank Sing,"49 Stevenson St, San Francisco, CA 94105",Dim Sum,3.6,1679,$$$,37.789867,-122.399462,3200
+Arabian Nights Restaurant,"2345 Mission St, San Francisco, CA 94110",Wine Bars,3.94,745,$$,37.759484,-122.419107,66400
+Yuanbao Jiaozi,"2110 Irving St, San Francisco, CA 94122",Chinese,4.27,459,$$,-9999.0,-9999.0,94318
+The Black Horse London Pub,"1514 Union St, San Francisco, CA 94123",Pubs,4.33,333,$,37.798528,-122.424394,1323
+Uncle Vito's Pizza,"700 Bush St, San Francisco, CA 94108",Pizza,3.94,1318,$$,37.790219,-122.408849,1565
+Giorgio's Pizzeria,"151 Clement St, San Francisco, CA 94118",Pizza,3.66,1086,$$,37.783073,-122.461009,3218
+Cafe Jacqueline,"1454 Grant Ave, San Francisco, CA 94133",French,3.89,673,$$$$,37.800428,-122.407517,845
+Leleka,"40 Belden Pl, San Francisco, CA 94104",Ukrainian,4.6,262,$$,37.791318,-122.403757,1692
+Handy Deli,"1815 Irving St, San Francisco, CA 94122",Delis,4.13,279,$,37.763524,-122.47751,33173
+LaLe,"731 Irving St, San Francisco, CA 94122",Breakfast & Brunch,3.35,552,$$,-9999.0,-9999.0,81135
+A La Turca,"869 Geary St, San Francisco, CA 94109",Turkish,3.95,859,$$,37.786143,-122.417617,2110
+Balompie Cafe,"3349 18th St, San Francisco, CA 94110",Salvadoran,4.12,713,$$,37.761836,-122.418296,2648
+Okoze Sushi,"1207 Union St, San Francisco, CA 94109",Sushi Bars,3.77,675,$$$,37.799143,-122.419317,2469
+Victor's Pizzeria & Italian Restaurant,"1411 Polk St, San Francisco, CA 94109",Pizza,3.75,1058,$$,37.789944,-122.420595,3031
+The Dorian,"2001 Chestnut St, San Francisco, CA 94123",American (Traditional),3.89,853,$$,-9999.0,-9999.0,84619
+Waraku,"1638 Post St, San Francisco, CA 94115",Ramen,4.06,961,$$,37.78577,-122.428802,71430
+Kasa Indian Eatery,"4001 18th St, San Francisco, CA 94114",Indian,3.27,1120,$,37.760974,-122.432959,36876
+Vital Tea Leaf,"1044 Grant Ave, San Francisco, CA 94133",Coffee & Tea,4.44,369,$$,37.796597,-122.406696,15806
+Kung Food,"1615 McAllister St, San Francisco, CA 94115",Chinese,3.66,617,$$,-9999.0,-9999.0,82022
+The Sycamore,"2140 Mission St, San Francisco, CA 94110",Gastropubs,3.9,774,$$,37.762789,-122.419495,64076
+The Boys’ Deli,"2222 Polk St, Polk & Green Produce Market, San Francisco, CA 94109",Delis,4.17,363,$$,37.797238,-122.421956,6864
+Sam Wo Restaurant,"713 Clay St, San Francisco, CA 94108",Chinese,4.48,1165,$,-9999.0,-9999.0,92825
+Brioche Bakery & Cafe,"210 Columbus Ave, San Francisco, CA 94133",Breakfast & Brunch,3.88,593,$$,-9999.0,-9999.0,75523
+Pacific Cafe,"7000 Geary Blvd, San Francisco, CA 94121",Seafood,3.83,785,$$,-9999.0,-9999.0,98176
+Tartine Manufactory,"595 Alabama St, San Francisco, CA 94110",Bakeries,3.24,1364,$$,-9999.0,-9999.0,86358
+Panchita's Restaurant,"3091 16th St, San Francisco, CA 94103",Salvadoran,3.83,813,$$,37.764903,-122.421609,19003
+Chai Bar By David Rio,"1019 Market St, San Francisco, CA 94103",Tea Rooms,4.47,478,$,-9999.0,-9999.0,82009
+La Traviata,"2854 Mission St, San Francisco, CA 94110",Italian,3.53,603,$$,37.751296,-122.418414,2359
+Hodala,"5801 Geary Blvd, San Francisco, CA 94121",Taiwanese,3.81,626,$$,-9999.0,-9999.0,93913
+Piperade,"1015 Battery St, San Francisco, CA 94111",Basque,4.15,904,$$$,37.800674,-122.401484,786
+Rosamunde Sausage Grill,"2832 Mission St, San Francisco, CA 94110",German,3.82,992,$$,37.751587,-122.418444,61736
+Heirloom Cafe,"2500 Folsom St, San Francisco, CA 94110",American (New),3.73,507,$$$,37.757117,-122.414545,62487
+RT Rotisserie,"101 Oak St, San Francisco, CA 94102",Salad,3.79,533,$$,-9999.0,-9999.0,91191
+Bullshead Restaurant,"840 Ulloa St, San Francisco, CA 94127",Steakhouses,4.23,873,$$,37.740785,-122.465507,1950
+Nook,"1500 Hyde St, San Francisco, CA 94109",Coffee & Tea,3.97,733,$$,-9999.0,-9999.0,93536
+SPRO,"601 Mission Bay Blvd N, San Francisco, CA 94158",Coffee & Tea,3.95,259,$,-9999.0,-9999.0,98309
+4505 Burgers & BBQ - San Francisco,"705 Divisadero St, San Francisco, CA 94117",Barbeque,3.25,1809,$$,-9999.0,-9999.0,76962
+Piqueo's,"830 Cortland Ave, San Francisco, CA 94110",Latin American,3.41,724,$$$,37.738893,-122.414078,34708
+Teeth,"2323 Mission St, San Francisco, CA 94110",Bars,3.29,1050,$$,37.759824,-122.419136,66704
+Rise & Grind Coffee and Tea,"785 8th Ave, San Francisco, CA 94118",Coffee & Tea,4.38,367,$$,-9999.0,-9999.0,99085
+Cheese Boutique,"660 Chenery St, San Francisco, CA 94131",Cheese Shops,4.98,200,$,37.734548,-122.433341,69291
+Ushi Taro Ramen,"1382 9th Ave, San Francisco, CA 94122",Ramen,4.52,365,$$,-9999.0,-9999.0,96451
+The Velo Rouge Cafe,"798 Arguello Blvd, San Francisco, CA 94118",Breakfast & Brunch,3.53,748,$,-9999.0,-9999.0,99761
+Milkbean,"881 Post St, San Francisco, CA 94109",Cafes,4.25,289,$,-9999.0,-9999.0,89643
+Ragazza,"311 Divisadero St, San Francisco, CA 94117",Italian,3.97,708,$$,37.772473,-122.437324,64057
+Fermentation Lab,"1230 Market St, San Francisco, CA 94102",Gastropubs,4.22,301,$$,-9999.0,-9999.0,89865
+The Tipsy Pig,"2231 Chestnut St, San Francisco, CA 94123",Gastropubs,3.54,1621,$$,37.800286,-122.439982,58861
+Pho Phu Quoc PPQ Beef Noodle House Restaurant,"1816 Irving St, San Francisco, CA 94122",Vietnamese,3.53,1454,$$,37.763603,-122.477497,38808
+Maykadeh,"470 Green St, San Francisco, CA 94133",Persian/Iranian,3.5,982,$$,37.799758,-122.407113,483
+Aicha Moroccan Cuisine,"1303 Polk St, San Francisco, CA 94109",Moroccan,3.78,556,$$,37.788964,-122.420384,59949
+Akira Japanese Restaurant,"1634 Bush St, San Francisco, CA 94109",Japanese,3.62,459,$$,-9999.0,-9999.0,88688
+Oasis Cafe,"901 Divisadero St, San Francisco, CA 94115",Ethiopian,4.51,314,$$,37.777965,-122.438424,59179
+Oasis Cafe,"901 Divisadero St, San Francisco, CA 94115",Ethiopian,4.0,314,$$,-9999.0,-9999.0,79267
+Darren's Cafe,"2731 Taylor St, San Francisco, CA 94133",Vietnamese,3.47,655,$$,37.807584,-122.41574,69849
+Happy Lamb Hot Pot,"405 Mason St, San Francisco, CA 94102",Hot Pot,3.82,669,$$,-9999.0,-9999.0,76874
+Gaspare's Pizza House & Italian Restaurant,"5546 Geary Blvd, San Francisco, CA 94121",Italian,4.35,988,$$,37.78047,-122.478832,1389
+ENO Wine Bar,"320 Geary St, San Francisco, CA 94102",Wine Bars,4.59,445,$$,-9999.0,-9999.0,71962
+Chic n' Time,"807 Valencia St, San Francisco, CA 94110",Noodles,4.55,157,$$,37.759933,-122.421356,2317
+MaMa Ji's,"4416 18th St, San Francisco, CA 94114",Dim Sum,4.03,835,$$,-9999.0,-9999.0,69782
+Credo,"360 Pine St, San Francisco, CA 94104",Italian,4.16,897,$$$,37.792036,-122.402002,61635
+KoJa Kitchen,"343 Clement St, San Francisco, CA 94118",Japanese,3.83,675,$$,-9999.0,-9999.0,78934
+Viva Goa,"2420 Lombard St, San Francisco, CA 94123",Indian,3.94,569,$$,37.799188,-122.441423,63256
+Sheba Piano Lounge,"1419 Fillmore St, San Francisco, CA 94115",Ethiopian,3.96,630,$$,37.782764,-122.432634,18606
+Chutney,"511 Jones St, San Francisco, CA 94102",Indian,3.07,1280,$$,37.786044,-122.413054,71065
+Mochica,"1469 18th St, San Francisco, CA 94107",Peruvian,3.77,700,$$,-9999.0,-9999.0,79989
+Asha Tea House,"17 Kearny St, San Francisco, CA 94108",Coffee & Tea,3.77,635,$,-9999.0,-9999.0,82892
+Goat Hill Pizza,"300 Connecticut St, San Francisco, CA 94107",Pizza,3.3,1284,$$,37.762367,-122.397515,2156
+Great Eastern Restaurant,"649 Jackson St, San Francisco, CA 94133",Dim Sum,3.81,2167,$$,37.796093,-122.405918,3529
+Brickhouse Bar & Grill,"426 Brannan St, San Francisco, CA 94107",American (Traditional),3.44,1204,$$,-9999.0,-9999.0,98974
+Red Chilli,"522 Jones St, San Francisco, CA 94102",Indian,3.65,534,$$,-9999.0,-9999.0,74210
+Saucy Asian,"3801 17th St, San Francisco, CA 94114",Korean,3.69,397,$$,-9999.0,-9999.0,85917
+Pampanguena Cuisine,"4441 Mission St, San Francisco, CA 94112",Filipino,4.46,383,$$,37.727111,-122.432926,62179
+The Social Study,"1795 Geary Blvd, San Francisco, CA 94115",Wine Bars,3.49,483,$$,-9999.0,-9999.0,67862
+Cake Coquette,"1501 Cortland Ave, San Francisco, CA 94110",Desserts,4.44,241,$$,37.739764,-122.409475,66202
+Cake Coquette,"1501 Cortland Ave, San Francisco, CA 94110",Desserts,4.11,241,$$,-9999.0,-9999.0,89191
+Cake Coquette,"1501 Cortland Ave, San Francisco, CA 94110",Desserts,4.35,241,$$,-9999.0,-9999.0,90818
+Cake Coquette,"1501 Cortland Ave, San Francisco, CA 94110",Desserts,4.16,241,$$,-9999.0,-9999.0,91450
+Cake Coquette,"1501 Cortland Ave, San Francisco, CA 94110",Desserts,4.33,241,$$,-9999.0,-9999.0,98184
+One Market Restaurant,"1 Market St, San Francisco, CA 94105",American (New),3.21,1364,$$$,37.794347,-122.394932,3082
+One Market Restaurant,"1 Market St, San Francisco, CA 94105",American (New),3.65,1364,$$$,37.794347,-122.394932,389
+One Market Restaurant,"1 Market St, San Francisco, CA 94105",American (New),3.14,1364,$$$,37.794347,-122.394932,68249
+One Market Restaurant,"1 Market St, San Francisco, CA 94105",American (New),3.46,1364,$$$,-9999.0,-9999.0,81647
+One Market Restaurant,"1 Market St, San Francisco, CA 94105",American (New),3.6,1364,$$$,-9999.0,-9999.0,82653
+One Market Restaurant,"1 Market St, San Francisco, CA 94105",American (New),3.77,1364,$$$,-9999.0,-9999.0,84715
+One Market Restaurant,"1 Market St, San Francisco, CA 94105",American (New),3.24,1364,$$$,-9999.0,-9999.0,85047
+One Market Restaurant,"1 Market St, San Francisco, CA 94105",American (New),3.3,1364,$$$,-9999.0,-9999.0,86344
+One Market Restaurant,"1 Market St, San Francisco, CA 94105",American (New),3.38,1364,$$$,-9999.0,-9999.0,87628
+Golden Coffee Shop,"901 Sutter St, San Francisco, CA 94109",Breakfast & Brunch,3.63,486,$,-9999.0,-9999.0,95539
+Caffe Ambrosia,"14 Trinity Pl, San Francisco, CA 94104",Ice Cream & Frozen Yogurt,4.54,316,$,37.790109,-122.402597,428
+i-Tea,"253 Kearny St, San Francisco, CA 94108",Bubble Tea,3.58,579,$,-9999.0,-9999.0,84040
+Calabria Bros,"4763 Mission St, San Francisco, CA 94112",Caterers,4.81,190,$$,37.722162,-122.436695,68219
+RAW Sugar Factory,"525 Valencia St, San Francisco, CA 94110",Breakfast & Brunch,4.16,710,$$,-9999.0,-9999.0,90568
+Chalos,"2240 Taraval St, San Francisco, CA 94116",Coffee & Tea,4.02,357,$$,-9999.0,-9999.0,97065
+Philz Coffee,"4298 24th St, San Francisco, CA 94114",Coffee & Tea,4.23,328,$$,37.751058,-122.438272,68079
+The Spice Jar,"2500 Bryant St, San Francisco, CA 94110",Asian Fusion,3.67,428,$$,-9999.0,-9999.0,83472
+Yemen Kitchen,"219 Jones St, San Francisco, CA 94102",Middle Eastern,4.41,246,$$,-9999.0,-9999.0,90487
+Robin,"620 Gough St, San Francisco, CA 94102",Sushi Bars,3.56,458,$$$$,-9999.0,-9999.0,91502
+Barcha,"28 Fremont St, San Francisco, CA 94105",Mediterranean,3.64,616,$$$,-9999.0,-9999.0,84124
+Il Pollaio,"555 Columbus Ave, San Francisco, CA 94133",Italian,4.22,403,$$,37.800036,-122.409817,477
+Bernie's,"3966 24th St, San Francisco, CA 94114",Coffee & Tea,3.77,366,$$,37.751533,-122.431118,35464
+Pearl 6101,"6101 California St, San Francisco, CA 94121",Italian,4.54,365,$$,-9999.0,-9999.0,95114
+Mr Szechuan,"890 Taraval St, San Francisco, CA 94116",Chinese,4.35,414,$$,-9999.0,-9999.0,86718
+Outpost,"1052 Folsom St, San Francisco, CA 94103",Coffee & Tea,3.77,625,$$,37.777504,-122.406948,61390
+El Farolito,"4817 Mission St, San Francisco, CA 94112",Mexican,3.51,719,$,37.721251,-122.437385,827
+Begoni Bistro,"615 Jackson St, San Francisco, CA 94133",Dim Sum,3.61,873,$$,-9999.0,-9999.0,76876
+Pat's Cafe,"2330 Taylor St, San Francisco, CA 94133",Breakfast & Brunch,4.01,793,$$,37.803947,-122.414927,1852
+Lime Tree Southeast Asian Kitchen,"836 Clement St, San Francisco, CA 94118",Malaysian,4.42,389,$$,-9999.0,-9999.0,91250
+Cocobang,"550 Taylor St, San Francisco, CA 94102",Korean,3.24,1048,$$,37.787657,-122.411627,21921
+Kim Son Vietnamese Restaurant,"3614 Balboa St, San Francisco, CA 94121",Vietnamese,3.92,759,$$,37.775728,-122.497701,18102
+El Burrito Express,"1812 Divisadero St, San Francisco, CA 94115",Mexican,4.1,800,$$,37.786407,-122.440057,628
+John's Grill,"63 Ellis St, San Francisco, CA 94102",Steakhouses,3.26,1443,$$$,-9999.0,-9999.0,72171
+The Jelly Donut,"3198 24th St, San Francisco, CA 94110",Donuts,4.36,288,$,37.752439,-122.41625,38929
+Marcello's Pizza,"420 Castro St, San Francisco, CA 94114",Pizza,3.34,745,$,37.762057,-122.435145,902
+Pho Tan Hoa,"431 Jones St, San Francisco, CA 94102",Vietnamese,3.82,647,$$,37.785446,-122.412972,33113
+Pa'ina Lounge & Restaurant,"1865 Post St, San Francisco, CA 94115",Hawaiian,4.11,714,$$,-9999.0,-9999.0,84982
+Alnico,"1050 Valencia St, San Francisco, CA 94110",Asian Fusion,4.45,302,$$,-9999.0,-9999.0,96600
+Tortas Los Picudos,"2969 24th St, San Francisco, CA 94110",Mexican,3.96,329,$$,37.752653,-122.411359,62739
+The Sandwich Place,"2029 Mission St, San Francisco, CA 94110",Sandwiches,4.5,294,$,37.764384,-122.419566,1075
+Mission Bowling Club,"3176 17th St, San Francisco, CA 94110",Bowling,3.76,625,$$,37.763628,-122.416652,68394
+707 Sutter,"707 Sutter St, San Francisco, CA 94109",Korean,4.15,800,$$,-9999.0,-9999.0,87285
+Chubby Noodle,"570 Green St, San Francisco, CA 94133",Asian Fusion,3.74,846,$$,-9999.0,-9999.0,86423
+Cafe International,"508 Haight St, San Francisco, CA 94117",Coffee & Tea,3.63,428,$,37.772097,-122.430814,2385
+Bask,"42 Columbus Ave, San Francisco, CA 94111",Basque,4.19,726,$$,37.796095,-122.404063,68356
+The Cheese School of San Francisco,"900 North Point St, Ste K201, San Francisco, CA 94109",Cafes,4.1,216,$$,37.805427,-122.422854,3054
+Izzy's - San Francisco,"3345 Steiner St, San Francisco, CA 94123",Steakhouses,3.3,1210,$$$,37.800384,-122.437864,3885
+WesBurger 'N' More,"2240 Mission St, San Francisco, CA 94110",Burgers,3.94,686,$$,-9999.0,-9999.0,85953
+DragonEats,"555 Folsom St, San Francisco, CA 94105",Vietnamese,3.57,427,$,-9999.0,-9999.0,78965
+Sababa,"329 Kearny St, San Francisco, CA 94108",Mediterranean,4.76,373,$$,-9999.0,-9999.0,86539
+Szechuan Cuisine,"1920 Irving St, San Francisco, CA 94122",Szechuan,3.57,416,$$,-9999.0,-9999.0,81244
+RM 212,"690 Sacramento St, San Francisco, CA 94111",Asian Fusion,4.5,411,$$,-9999.0,-9999.0,89497
+Laguna Cafe,"1821 Haight St, San Francisco, CA 94117",Hookah Bars,4.54,426,$$,-9999.0,-9999.0,75448
+Central Coffee Tea & Spice,"1696 Hayes St, San Francisco, CA 94117",Cafes,4.62,319,$,37.774198,-122.444214,1043
+Atlas Cafe,"3049 20th St, San Francisco, CA 94110",Sandwiches,4.17,835,$$,37.759073,-122.411418,1792
+Ploy II,"1770 Haight St, San Francisco, CA 94117",Thai,4.01,776,$$,37.769458,-122.451354,2397
+Catch,"2362 Market St, San Francisco, CA 94114",Seafood,3.19,993,$$,37.763263,-122.43446,36014
+Caffe Sport,"574 Green St, San Francisco, CA 94133",Italian,3.75,862,$$,-9999.0,-9999.0,88091
+Taqueria Los Coyotes,"3036 16th St, San Francisco, CA 94103",Mexican,3.21,963,$$,37.765028,-122.420402,3614
+Henry's House of Coffee - Cafe,"1618 Noriega St, San Francisco, CA 94122",Coffee & Tea,4.69,438,$,37.754058,-122.481201,6625
+The Crepe House,"1755 Polk St, San Francisco, CA 94109",Creperies,4.18,738,$$,-9999.0,-9999.0,79756
+Seakor Polish Delicatessen,"5957 Geary Blvd, San Francisco, CA 94121",Grocery,3.8,258,$,37.780054,-122.483181,5077
+Parkside Tavern,"1940 Taraval St, San Francisco, CA 94116",Irish,3.69,566,$$,37.742579,-122.487112,60737
+Fly Bar,"762 Divisadero St, San Francisco, CA 94117",American (Traditional),3.77,760,$$,-9999.0,-9999.0,87648
+Ocean Ale House,"1314 Ocean Ave, San Francisco, CA 94112",Beer Gardens,4.5,316,$$,-9999.0,-9999.0,86816
+Mister Jiu's,"28 Waverly Pl, San Francisco, CA 94108",Chinese,2.88,882,$$$$,-9999.0,-9999.0,84865
+Noc Noc,"557 Haight St, San Francisco, CA 94117",Dive Bars,3.7,516,$,37.771964,-122.431336,3631
+Aux Delices Vietnamese Restaurant,"2327 Polk St, San Francisco, CA 94109",Vietnamese,4.0,759,$$,37.798274,-122.422264,1146
+Scullery,"687 Geary St, San Francisco, CA 94102",Coffee & Tea,4.25,283,$,-9999.0,-9999.0,97190
+Onigilly - San Francisco,"343 Kearny St, San Francisco, CA 94108",Japanese,3.62,559,$$,37.791149,-122.404171,69368
+Mau,"180 Spear St, San Francisco, CA 94105",Vietnamese,3.73,916,$$,-9999.0,-9999.0,71946
+King of Noodles,"1639 Irving St, San Francisco, CA 94122",Chinese,3.98,802,$$,-9999.0,-9999.0,85307
+Bake Cheese Tart,"845 Market St, San Francisco, CA 94103",Desserts,4.09,782,$$,-9999.0,-9999.0,28169
+Bake Cheese Tart,"845 Market St, San Francisco, CA 94103",Desserts,4.0,782,$$,37.784848,-122.406892,67982
+Bake Cheese Tart,"845 Market St, San Francisco, CA 94103",Desserts,4.14,782,$$,-9999.0,-9999.0,77528
+Bake Cheese Tart,"845 Market St, San Francisco, CA 94103",Desserts,3.61,782,$$,-9999.0,-9999.0,79329
+Iron Horse Cocktails,"25 Maiden Ln, San Francisco, CA 94108",Cocktail Bars,4.86,172,$$,-9999.0,-9999.0,92409
+Cafe Reverie,"848 Cole St, San Francisco, CA 94117",Sandwiches,3.51,619,$$,37.766097,-122.449997,1261
+La Mediterranee,"288 Noe St, San Francisco, CA 94114",Mediterranean,4.0,626,$$,37.764489,-122.433195,2274
+Mr. Bread,"1018 Taraval St, San Francisco, CA 94116",Bakeries,4.18,305,$,-9999.0,-9999.0,94616
+Capital One Café,"101 Post St, San Francisco, CA 94108",Banks & Credit Unions,4.21,361,$,-9999.0,-9999.0,79970
+Eastern Bakery,"720 Grant Ave, San Francisco, CA 94108",Bakeries,3.78,746,$,37.793598,-122.406097,9679
+Rose's Cafe,"2298 Union St, San Francisco, CA 94123",Italian,2.88,1024,$$,37.796927,-122.436974,2739
+Native Burger,"3420 Geary Blvd, San Francisco, CA 94118",Burgers,3.85,289,$$,-9999.0,-9999.0,93401
+Fifty / Fifty Coffee and Tea,"3157 Geary Blvd, San Francisco, CA 94118",Coffee & Tea,3.43,463,$,-9999.0,-9999.0,69679
+Morty's Delicatessen,"280 Golden Gate Ave, San Francisco, CA 94102",Coffee & Tea,3.73,527,$,-9999.0,-9999.0,87015
+Beloved Cafe,"3338 24th St, San Francisco, CA 94110",Coffee & Tea,3.91,318,$$,-9999.0,-9999.0,87782
+Sushi Zen,"1041 Taraval St, San Francisco, CA 94116",Sushi Bars,3.54,729,$$,37.742933,-122.47745,20116
+Tacko,"3115 Fillmore St, San Francisco, CA 94123",Mexican,3.86,925,$$,37.798273,-122.435774,65624
+Chomp N' Swig,"5203 Geary Blvd, San Francisco, CA 94118",Sandwiches,3.56,405,$$,-9999.0,-9999.0,97219
+Lung Fung Bakery,"1823 Clement St, San Francisco, CA 94121",Bakeries,4.27,340,$,-9999.0,-9999.0,83799
+Gus's Community Market,"3701 Noriega St, Unit A, San Francisco, CA 94122",Fruits & Veggies,4.07,314,$$,37.753003,-122.503549,7728
+Hazel's Kitchen,"1319 18th St, San Francisco, CA 94107",Sandwiches,3.55,420,$,37.762575,-122.395757,20291
+Umi,"1328 18th St, San Francisco, CA 94107",Japanese,3.54,617,$$,37.762679,-122.395859,35812
+1428 HAIGHT Patio Cafe & Crepery,"1428 Haight St, San Francisco, CA 94117",American (Traditional),3.68,440,$$,-9999.0,-9999.0,79117
+Kibatsu,"400 Haight St, San Francisco, CA 94117",Sushi Bars,3.91,265,$$$,-9999.0,-9999.0,97372
+Bacon Bacon Cafe - San Francisco,"205 A Frederick St, San Francisco, CA 94117",Breakfast & Brunch,3.43,480,$$,-9999.0,-9999.0,68242
+Rong's,"3420 Balboa St, San Francisco, CA 94121",Cantonese,4.7,272,$$,-9999.0,-9999.0,90939
+Warakubune Sushi,"307 Church St, San Francisco, CA 94114",Conveyor Belt Sushi,4.07,607,$$,37.765933,-122.428746,3846
+Fumi Japanese Curry & Ramen,"3303 Mission St, San Francisco, CA 94110",Ramen,3.68,461,$$,-9999.0,-9999.0,81302
+Sushi Goemon,"1524 Irving St, San Francisco, CA 94122",Japanese,4.26,294,$$,-9999.0,-9999.0,93473
+Manora's Thai Cuisine,"1600 Folsom St, San Francisco, CA 94103",Thai,3.93,608,$$,37.770748,-122.415137,2437
+Turtle Tower,"645 Larkin St, San Francisco, CA 94109",Vietnamese,3.05,818,$$,-9999.0,-9999.0,86829
+Philz Coffee,"5 Embarcadero Ctr, San Francisco, CA 94111",Coffee & Tea,3.47,409,$,-9999.0,-9999.0,98657
+Amitis Café,"800 Masonic Ave, San Francisco, CA 94117",Poke,4.44,207,$$,-9999.0,-9999.0,83687
+The Dark Horse Inn,"942 Geneva Ave, San Francisco, CA 94112",Bars,4.44,335,$$,37.716105,-122.440422,67489
+King's Thai Cuisine 1,"639 Clement St, San Francisco, CA 94118",Thai,3.13,973,$$,37.782833,-122.46615,1350
+Curbside Cafe,"2417 California St, San Francisco, CA 94115",Breakfast & Brunch,4.14,822,$$,37.788822,-122.434116,62900
