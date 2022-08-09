@@ -126,15 +126,15 @@ def check(q, a):
         return all[q]
 
     elif q == 'q1b3':
-        all[q] = a(test1, test2, 10) - fpd(test1, test2, 10) < 0.001
+        all[q] = a(test1, test2, 10) - fpd(test1, test2, 10) < 0.000000001
         return all[q]
 
     elif q == 'q2a':
-        all[q] = a(10, 20) - checkq2a(10, 20) < 0.001
+        all[q] = a(10, 20) - checkq2a(10, 20) < 0.000000001
         return all[q]
 
     elif q == 'q2b':
-        all[q] = (a[0] - gs(rm, medv) < 0.001) and (a[1] - gi(rm,medv) < 0.001)
+        all[q] = (a[0] - gs(rm, medv) < 0.0000000001) and (a[1] - gi(rm,medv) < 0.000000001)
         return all[q]
 
     elif q == 'q3a':
