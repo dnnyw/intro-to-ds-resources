@@ -138,11 +138,11 @@ def check(q, a):
         return all[q]
 
     elif q == 'q3a':
-        all[q] = (a(1, 2, 3) - pmse(1, 2, 3) < 0.01)
+        all[q] = (a(1, 2, 3) - pmse(1, 2, 3) < 0.001)
         return all[q]
 
     elif q == 'q3b':
-        all[q] = np.sum(a - minimize(pmse)) < 0.01
+        all[q] = np.sum(a - minimize(pmse)) < 0.001
         return all[q]
 
 
