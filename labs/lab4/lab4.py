@@ -114,35 +114,35 @@ all = {'q1a':False,
 
 def check(q, a):
     if q == 'q1a':
-        all[q] = a(test1, test2) - get_cor(test1, test2) < 0.001
+        all[q] = np.abs(a(test1, test2) - get_cor(test1, test2)) < 0.001
         return all[q]
 
     elif q == 'q1b1':
-        all[q] = a(test1, test2) - gs(test1, test2) < 0.001
+        all[q] = np.abs(a(test1, test2) - gs(test1, test2)) < 0.001
         return all[q]
 
     elif q == 'q1b2':
-        all[q] = a(test1, test2) - gi(test1, test2) < 0.001
+        all[q] = np.abs(a(test1, test2) - gi(test1, test2)) < 0.001
         return all[q]
 
     elif q == 'q1b3':
-        all[q] = a(test1, test2, 10) - fpd(test1, test2, 10) < 0.000000001
+        all[q] = np.abs(a(test1, test2, 10) - fpd(test1, test2, 10)) < 0.0001
         return all[q]
 
     elif q == 'q2a':
-        all[q] = a(10, 20) - checkq2a(10, 20) < 0.000000001
+        all[q] = np.abs(a(10, 20) - checkq2a(10, 20)) < 0.0001
         return all[q]
 
     elif q == 'q2b':
-        all[q] = (a[0] - gs(rm, medv) < 0.0000000001) and (a[1] - gi(rm,medv) < 0.000000001)
+        all[q] = (np.abs(a[0] - gs(rm, medv)) < 0.0001) and (np.abs(a[1] - gi(rm,medv)) < 0.0001)
         return all[q]
 
     elif q == 'q3a':
-        all[q] = (a(1, 2, 3) - pmse(1, 2, 3) < 0.001)
+        all[q] = np.abs(a(1, 2, 3) - pmse(1, 2, 3)) < 0.001
         return all[q]
 
     elif q == 'q3b':
-        all[q] = np.sum(a - minimize(pmse)) < 0.001
+        all[q] = np.sum(np.abs(a - minimize(pmse))) < 0.001
         return all[q]
 
 
