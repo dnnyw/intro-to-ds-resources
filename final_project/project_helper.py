@@ -309,5 +309,5 @@ def check(q, a):
             print("Something went wrong, try again!")        
     return results[q]
 
-def checkall():
+def check_all():
     print(results)
