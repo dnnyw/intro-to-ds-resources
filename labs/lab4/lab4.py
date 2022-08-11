@@ -100,7 +100,7 @@ def checkq2a(s, i):
 
 def pmse(i, j, k):
     e = test2 - (i*(test1 - j)**2 + k)
-    return (np.mean(e**2))**2
+    return (np.mean(e**2))**0.5
 
 
 all = {'q1a':False,
