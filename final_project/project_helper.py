@@ -2,6 +2,7 @@ from csv import excel_tab
 import pandas as pd
 import numpy as np
 from sqlalchemy import except_all
+import matplotlib.pyplot as plt
 
 from scipy import optimize
 import functools
