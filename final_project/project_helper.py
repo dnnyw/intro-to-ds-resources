@@ -2,7 +2,7 @@ from csv import excel_tab
 import pandas as pd
 import numpy as np
 from sqlalchemy import except_all
-
+import matplotlib.pyplot as plt
 from scipy import optimize
 import functools
 
@@ -220,7 +220,6 @@ results = {'q1a':False,
     'q4c':False,
     'q4d1':False,
     'q4d2':False,
-    'q4d3':False,
     'q5b':False,
     'q5c':False,
     'q5d':False,
@@ -309,5 +308,5 @@ def check(q, a):
             print("Something went wrong, try again!")        
     return results[q]
 
-def checkall():
+def check_all():
     print(results)
